@@ -1,0 +1,550 @@
+{
+  "semana": 6,
+  "dias": [
+    {
+      "dia": 1,
+      "desayuno": {
+        "nombre": "Frittata keto con espinacas y queso feta",
+        "ingredientes": [
+          "3 huevos grandes",
+          "30 g de queso feta desmenuzado",
+          "20 g de espinacas frescas",
+          "15 ml de nata para cocinar",
+          "14 g de mantequilla",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Engrasar la olla de cocción lenta (Slow Cooker) o una sartén.",
+          "Batir los huevos con la nata, sal y pimienta.",
+          "Añadir las espinacas y el queso feta a la mezcla.",
+          "Cocinar en la Slow Cooker en ALTA durante 1 hora o en sartén tapado a fuego bajo por 5-7 minutos."
+        ],
+        "nutricion": {
+          "calorias": 450,
+          "grasas": 36,
+          "proteinas": 24,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Estofado de ternera keto con champiñones y crema",
+        "ingredientes": [
+          "150 g de carne de ternera en cubos",
+          "50 g de champiñones laminados",
+          "1/2 cebolla pequeña picada",
+          "100 ml de nata para cocinar",
+          "1 cucharada de mantequilla",
+          "125 ml de caldo de res",
+          "1 cucharadita de ajo en polvo",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Sofreír la cebolla y los champiñones en mantequilla.",
+          "Agregar la carne, el caldo, la nata y las especias a la Slow Cooker.",
+          "Cocinar en BAJA durante 6-8 horas.",
+          "Alternativa en olla: Cocinar a fuego medio-bajo durante 90 minutos, añadiendo la nata al final."
+        ],
+        "nutricion": {
+          "calorias": 700,
+          "grasas": 55,
+          "proteinas": 45,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Pollo al curry keto en Slow Cooker",
+        "ingredientes": [
+          "200 g de muslos de pollo deshuesados",
+          "50 ml de leche de coco",
+          "125 ml de caldo de pollo",
+          "1 cucharadita de curry en polvo",
+          "1/2 cucharadita de cúrcuma en polvo",
+          "1/2 cebolla pequeña picada",
+          "1 cucharada de mantequilla",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Sofreír la cebolla con mantequilla.",
+          "Agregar el pollo, la leche de coco, el caldo y las especias a la Slow Cooker.",
+          "Cocinar en BAJA durante 6 horas.",
+          "Alternativa en sartén: Cocinar tapado a fuego bajo por 30 minutos."
+        ],
+        "nutricion": {
+          "calorias": 850,
+          "grasas": 70,
+          "proteinas": 55,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 2,
+      "desayuno": {
+        "nombre": "Porridge Keto Cremoso con Coco y Nueces",
+        "ingredientes": [
+          "50 ml de leche de coco entera",
+          "20 g de harina de almendra",
+          "10 g de semillas de chía",
+          "10 g de nueces picadas",
+          "1 cucharada de eritritol",
+          "10 g de mantequilla",
+          "1/2 cucharadita de canela",
+          "50 ml de agua"
+        ],
+        "preparacion": [
+          "En la Slow Cooker, mezclar la leche de coco, agua, harina de almendra y chía. Cocinar en BAJA 3 horas.",
+          "Añadir mantequilla, eritritol y canela.",
+          "Servir con nueces picadas por encima.",
+          "Alternativa en cazuela: Cocinar a fuego medio-bajo removiendo hasta que espese (7 min)."
+        ],
+        "nutricion": {
+          "calorias": 480,
+          "grasas": 42,
+          "proteinas": 10,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Ropa Vieja Keto con Pimientos y Especias",
+        "ingredientes": [
+          "150 g de falda de res",
+          "1/2 pimiento rojo",
+          "1/2 pimiento verde",
+          "1/2 cebolla pequeña",
+          "50 g de tomate triturado",
+          "1 cucharadita de pimentón dulce",
+          "1 diente de ajo",
+          "1/2 cucharadita de orégano",
+          "1 cucharada de aceite de oliva",
+          "30 ml de caldo de res",
+          "10 g de mantequilla",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "En la Slow Cooker, añadir la falda de res, pimientos, cebolla, tomate, caldo y especias.",
+          "Cocinar en BAJA durante 6 horas.",
+          "Deshebrar la carne y mezclar con los jugos.",
+          "Alternativa en olla: Cocinar a fuego bajo por 90 minutos."
+        ],
+        "nutricion": {
+          "calorias": 750,
+          "grasas": 60,
+          "proteinas": 45,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Bacalao Keto a la Vizcaína",
+        "ingredientes": [
+          "150 g de bacalao desalado",
+          "1/2 cebolla pequeña",
+          "1/2 pimiento rojo",
+          "50 g de tomate triturado",
+          "1 diente de ajo",
+          "1 cucharada de aceite de oliva",
+          "10 g de mantequilla",
+          "1/2 cucharadita de pimentón",
+          "30 ml de caldo de pescado",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "En la Slow Cooker, hacer un sofrito con las verduras y la mantequilla.",
+          "Agregar el tomate, caldo, pimentón y el bacalao.",
+          "Cocinar en BAJA durante 4 horas.",
+          "Alternativa en sartén: Cocinar a fuego bajo con tapa durante 30 minutos."
+        ],
+        "nutricion": {
+          "calorias": 770,
+          "grasas": 68,
+          "proteinas": 50,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 3,
+      "desayuno": {
+        "nombre": "Tazón de Chía con Crema de Almendras y Bayas",
+        "ingredientes": [
+          "100 ml de leche de almendras sin azúcar",
+          "20 g de semillas de chía",
+          "10 g de crema de almendras",
+          "20 g de frambuesas o moras",
+          "1 cucharada de eritritol (opcional)",
+          "5 g de coco rallado"
+        ],
+        "preparacion": [
+          "Mezclar la leche, chía y eritritol en la Slow Cooker. Cocinar en BAJA por 2 horas.",
+          "Añadir la crema de almendras y mezclar.",
+          "Servir con las bayas y el coco.",
+          "Alternativa en frío: Mezclar y refrigerar por al menos 4 horas."
+        ],
+        "nutricion": {
+          "calorias": 460,
+          "grasas": 38,
+          "proteinas": 10,
+          "carbohidratos_netos": 6
+        }
+      },
+      "almuerzo": {
+        "nombre": "Ternera Estofada con Espárragos y Salsa de Mostaza",
+        "ingredientes": [
+          "180 g de carne de ternera",
+          "1/2 cucharadita de tomillo seco",
+          "1 diente de ajo picado",
+          "1/2 cebolla pequeña",
+          "1 cucharada de mostaza Dijon",
+          "1 cucharada de aceite de oliva",
+          "10 g de mantequilla",
+          "30 ml de caldo de res",
+          "50 g de espárragos verdes",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Sofreír la cebolla y el ajo en la Slow Cooker.",
+          "Agregar la carne, mostaza, tomillo y caldo. Cocinar en BAJA por 6-7 horas.",
+          "Añadir los espárragos en los últimos 30 minutos.",
+          "Alternativa en olla: Cocinar la carne 2 horas a fuego bajo y añadir los espárragos al final."
+        ],
+        "nutricion": {
+          "calorias": 750,
+          "grasas": 62,
+          "proteinas": 45,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Pollo al Pesto con Champiñones y Parmesano",
+        "ingredientes": [
+          "180 g de muslos de pollo deshuesados",
+          "50 g de champiñones laminados",
+          "1 diente de ajo picado",
+          "10 g de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "1 cucharada de pesto casero",
+          "20 g de queso parmesano rallado",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Sofreír los champiñones y el ajo en la Slow Cooker.",
+          "Agregar el pollo y el pesto. Cocinar en BAJA por 5 horas.",
+          "Espolvorear parmesano antes de servir.",
+          "Alternativa en sartén: Cocinar todo tapado a fuego bajo por 30 minutos."
+        ],
+        "nutricion": {
+          "calorias": 790,
+          "grasas": 69,
+          "proteinas": 50,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 4,
+      "desayuno": {
+        "nombre": "Muffins Keto de Huevo, Queso y Espinacas",
+        "ingredientes": [
+          "2 huevos grandes",
+          "30 g de queso cheddar rallado",
+          "20 g de espinacas frescas picadas",
+          "10 g de crema de leche",
+          "5 g de mantequilla",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Engrasar moldes de silicona en la Slow Cooker.",
+          "Mezclar todos los ingredientes.",
+          "Verter en los moldes y cocinar en BAJA durante 2 horas.",
+          "Alternativa en horno: Hornear a 180°C por 15-18 minutos."
+        ],
+        "nutricion": {
+          "calorias": 480,
+          "grasas": 40,
+          "proteinas": 22,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Cerdo Desmenuzado Keto con Salsa BBQ Casera",
+        "ingredientes": [
+          "180 g de carne de cerdo (paleta o lomo)",
+          "1 diente de ajo picado",
+          "1/2 cebolla pequeña picada",
+          "1/2 cucharadita de pimentón ahumado",
+          "50 g de tomate triturado sin azúcar",
+          "1 cucharada de vinagre de manzana",
+          "1 cucharada de eritritol",
+          "1 cucharada de aceite de oliva",
+          "10 g de mantequilla",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Sofreír cebolla y ajo en la Slow Cooker.",
+          "Agregar la carne y el resto de ingredientes. Cocinar en BAJA por 7 horas.",
+          "Desmenuzar la carne y mezclar con la salsa.",
+          "Alternativa en olla: Cocinar 2.5 horas a fuego bajo."
+        ],
+        "nutricion": {
+          "calorias": 750,
+          "grasas": 62,
+          "proteinas": 45,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Cazuela Keto de Pollo y Coliflor Cremosa",
+        "ingredientes": [
+          "180 g de muslos de pollo deshuesados",
+          "50 g de coliflor en floretes",
+          "1 diente de ajo picado",
+          "1/2 cebolla pequeña",
+          "30 ml de crema de leche",
+          "10 g de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "20 g de queso parmesano rallado",
+          "Sal, pimienta y nuez moscada al gusto"
+        ],
+        "preparacion": [
+          "Sofreír cebolla y ajo en la Slow Cooker.",
+          "Agregar el pollo, coliflor, crema y especias. Cocinar en BAJA por 5 horas.",
+          "Espolvorear parmesano al servir.",
+          "Alternativa en sartén: Cocinar tapado por 30 minutos a fuego medio."
+        ],
+        "nutricion": {
+          "calorias": 770,
+          "grasas": 69,
+          "proteinas": 50,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 5,
+      "desayuno": {
+        "nombre": "Pancakes Keto Esponjosos con Mantequilla y Canela",
+        "ingredientes": [
+          "2 huevos",
+          "30 g de harina de almendra",
+          "10 g de eritritol",
+          "20 ml de leche de almendras sin azúcar",
+          "10 g de mantequilla (para la mezcla)",
+          "1/2 cucharadita de canela",
+          "1 cucharadita de polvo de hornear",
+          "5 g de mantequilla extra para servir"
+        ],
+        "preparacion": [
+          "Mezclar todos los ingredientes.",
+          "Verter en círculos en la Slow Cooker engrasada y cocinar en BAJA por 2 horas.",
+          "Servir con mantequilla derretida y canela.",
+          "Alternativa en sartén: Cocinar 2-3 minutos por lado a fuego medio."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 40,
+          "proteinas": 15,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Costillas de Cerdo en Salsa de Mostaza y Romero",
+        "ingredientes": [
+          "200 g de costillas de cerdo",
+          "1/2 cucharadita de romero seco",
+          "1 cucharada de mostaza Dijon",
+          "1 diente de ajo picado",
+          "10 g de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "30 ml de caldo de res",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Sofreír el ajo en la Slow Cooker.",
+          "Agregar las costillas y el resto de ingredientes. Cocinar en BAJA por 6 horas.",
+          "Alternativa en horno: Cocinar a 160°C por 2 horas."
+        ],
+        "nutricion": {
+          "calorias": 780,
+          "grasas": 68,
+          "proteinas": 45,
+          "carbohidratos_netos": 3
+        }
+      },
+      "cena": {
+        "nombre": "Sopa de Pollo con Coco y Jengibre",
+        "ingredientes": [
+          "180 g de muslos de pollo deshuesados",
+          "100 ml de leche de coco entera",
+          "1 diente de ajo picado",
+          "1/2 cebolla pequeña",
+          "1 cucharadita de jengibre fresco rallado",
+          "50 g de calabacín en cubos",
+          "10 g de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Sofreír la cebolla, ajo y jengibre en la Slow Cooker.",
+          "Agregar pollo, leche de coco y calabacín. Cocinar en BAJA por 4 horas.",
+          "Alternativa en olla: Cocinar todo tapado a fuego bajo por 45 minutos."
+        ],
+        "nutricion": {
+          "calorias": 750,
+          "grasas": 66,
+          "proteinas": 50,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 6,
+      "desayuno": {
+        "nombre": "Flan Keto de Vainilla y Coco",
+        "ingredientes": [
+          "2 huevos",
+          "100 ml de leche de coco entera",
+          "1 cucharada de eritritol",
+          "1/2 cucharadita de esencia de vainilla",
+          "5 g de coco rallado",
+          "5 g de mantequilla"
+        ],
+        "preparacion": [
+          "Batir huevos, leche, eritritol y vainilla.",
+          "Verter en un molde engrasado.",
+          "Cocinar en la Slow Cooker al baño maría en BAJA por 2 horas.",
+          "Enfriar y servir con coco rallado.",
+          "Alternativa en horno: Hornear a 160°C por 35 minutos al baño maría."
+        ],
+        "nutricion": {
+          "calorias": 460,
+          "grasas": 40,
+          "proteinas": 15,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Guiso de Ternera con Champiñones y Salsa de Nata",
+        "ingredientes": [
+          "180 g de carne de ternera",
+          "50 g de champiñones laminados",
+          "1 diente de ajo picado",
+          "1/2 cebolla pequeña",
+          "30 ml de nata para cocinar",
+          "10 g de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "1 cucharadita de mostaza Dijon",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Sofreír cebolla y ajo en la Slow Cooker.",
+          "Agregar el resto de ingredientes. Cocinar en BAJA por 6 horas.",
+          "Alternativa en olla: Cocinar tapado a fuego bajo por 2 horas."
+        ],
+        "nutricion": {
+          "calorias": 770,
+          "grasas": 67,
+          "proteinas": 45,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Salmón al Horno o Slow Cooker con Espárragos y Mantequilla de Ajo",
+        "ingredientes": [
+          "180 g de salmón fresco",
+          "50 g de espárragos verdes",
+          "1 diente de ajo picado",
+          "10 g de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Colocar todos los ingredientes en la Slow Cooker.",
+          "Cocinar en BAJA durante 2 horas.",
+          "Alternativa en horno: Hornear a 180°C durante 15 minutos."
+        ],
+        "nutricion": {
+          "calorias": 770,
+          "grasas": 69,
+          "proteinas": 50,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 7,
+      "desayuno": {
+        "nombre": "Pudding de Chocolate Keto con Nuez y Crema Batida",
+        "ingredientes": [
+          "100 ml de leche de almendras sin azúcar",
+          "10 g de cacao en polvo sin azúcar",
+          "20 g de semillas de chía",
+          "1 cucharada de eritritol",
+          "10 g de nueces picadas",
+          "20 ml de crema batida sin azúcar"
+        ],
+        "preparacion": [
+          "Mezclar leche, cacao, eritritol y chía en la Slow Cooker. Cocinar en BAJA por 2 horas.",
+          "Dejar enfriar y servir con crema batida y nueces.",
+          "Alternativa en frío: Mezclar y refrigerar por 4 horas."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 40,
+          "proteinas": 10,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Estofado de Pollo con Pimientos y Especias Mediterráneas",
+        "ingredientes": [
+          "180 g de muslos de pollo deshuesados",
+          "1/2 pimiento rojo",
+          "1 diente de ajo picado",
+          "1/2 cebolla pequeña",
+          "50 g de tomate triturado",
+          "1/2 cucharadita de comino",
+          "1/2 cucharadita de pimentón dulce",
+          "10 g de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "30 ml de caldo de pollo",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Sofreír las verduras en la Slow Cooker.",
+          "Agregar el pollo y el resto de ingredientes. Cocinar en BAJA por 5 horas.",
+          "Alternativa en olla: Cocinar tapado a fuego bajo por 1 hora."
+        ],
+        "nutricion": {
+          "calorias": 770,
+          "grasas": 66,
+          "proteinas": 50,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Lomo de Cerdo en Salsa de Queso Azul y Espárragos",
+        "ingredientes": [
+          "180 g de lomo de cerdo",
+          "50 g de espárragos verdes",
+          "1 diente de ajo picado",
+          "30 ml de nata para cocinar",
+          "20 g de queso azul",
+          "10 g de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Sofreír el ajo en la Slow Cooker.",
+          "Agregar el lomo de cerdo y cocinar en BAJA por 5 horas.",
+          "Añadir los espárragos y la salsa de queso azul en los últimos 30 minutos.",
+          "Alternativa en sartén: Cocinar 30 minutos a fuego bajo."
+        ],
+        "nutricion": {
+          "calorias": 770,
+          "grasas": 69,
+          "proteinas": 50,
+          "carbohidratos_netos": 3
+        }
+      }
+    }
+  ]
+}
