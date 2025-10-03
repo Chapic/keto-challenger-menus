@@ -1,0 +1,528 @@
+{
+  "semana": 3,
+  "dias": [
+    {
+      "dia": 1,
+      "desayuno": {
+        "nombre": "Pan Keto con Aguacate y Huevo Poché",
+        "ingredientes": [
+          "1 pan keto casero",
+          "100 g de aguacate triturado",
+          "1 huevo poché",
+          "10 g de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Tuesta el pan keto.",
+          "Cocina el huevo en agua caliente hasta que la clara esté firme.",
+          "Unta el aguacate sobre el pan keto y coloca el huevo poché encima.",
+          "Rocía con aceite de oliva y sazona con sal y pimienta."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 52,
+          "proteinas": 16,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Pizza Keto con Base de Coliflor",
+        "ingredientes": [
+          "100 g de coliflor rallada",
+          "1 huevo",
+          "50 g de queso mozzarella rallado",
+          "30 g de queso parmesano",
+          "50 g de pechuga de pollo en tiras",
+          "50 g de champiñones laminados",
+          "20 g de salsa de tomate sin azúcar",
+          "10 g de aceite de oliva",
+          "Orégano, sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalienta el horno a 200°C.",
+          "Mezcla la coliflor rallada con el huevo y el queso parmesano para formar una masa.",
+          "Extiende la masa sobre papel para hornear y hornea durante 15 minutos.",
+          "Unta la salsa de tomate, añade el pollo, los champiñones y el queso mozzarella.",
+          "Hornea por 10 minutos más hasta que el queso se derrita."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 72,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Salmón con Mantequilla de Limón y Espárragos",
+        "ingredientes": [
+          "150 g de salmón fresco",
+          "30 g de mantequilla derretida",
+          "50 g de espárragos verdes",
+          "10 g de aceite de oliva",
+          "Jugo de medio limón",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Cocina el salmón en una sartén con aceite de oliva.",
+          "En la misma sartén, cocina los espárragos.",
+          "Mezcla la mantequilla derretida con el jugo de limón, sal y pimienta.",
+          "Sirve el salmón con la salsa de mantequilla y los espárragos."
+        ],
+        "nutricion": {
+          "calorias": 700,
+          "grasas": 65,
+          "proteinas": 25,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 2,
+      "desayuno": {
+        "nombre": "Pan Keto de Almendra con Mantequilla y Frambuesas",
+        "ingredientes": [
+          "2 huevos grandes",
+          "30 g de harina de almendra",
+          "5 g de polvo de hornear",
+          "10 g de mantequilla derretida",
+          "10 g de eritritol",
+          "30 g de frambuesas",
+          "10 g de mantequilla para untar",
+          "30 ml de leche de almendra sin azúcar"
+        ],
+        "preparacion": [
+          "Precalienta el horno a 180°C.",
+          "Bate los huevos con el eritritol.",
+          "Agrega la harina de almendra y el polvo de hornear.",
+          "Vierte la mezcla en un molde y hornea por 15 minutos.",
+          "Deja enfriar, corta en rebanadas, unta con mantequilla y acompaña con frambuesas."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 45,
+          "proteinas": 18,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Sopa Cremosa de Mariscos con Coco y Jengibre",
+        "ingredientes": [
+          "100 g de camarones pelados",
+          "50 g de calamares en rodajas",
+          "30 g de crema de coco o nata",
+          "200 ml de caldo de pescado",
+          "10 g de aceite de oliva",
+          "10 g de mantequilla",
+          "30 g de puerro en rodajas finas",
+          "1 diente de ajo picado",
+          "5 g de jengibre rallado",
+          "Sal, pimienta y cilantro fresco picado"
+        ],
+        "preparacion": [
+          "Calienta el aceite y la mantequilla, y sofríe el puerro, ajo y jengibre.",
+          "Agrega los mariscos y cocina por 3-4 minutos.",
+          "Vierte el caldo y la crema de coco, y hierve a fuego lento por 10 minutos.",
+          "Sazona y decora con cilantro."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 70,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Rollitos de Berenjena Rellenos de Ricotta y Nueces",
+        "ingredientes": [
+          "150 g de berenjena en láminas finas",
+          "50 g de ricota",
+          "30 g de nueces picadas",
+          "10 g de aceite de oliva",
+          "30 g de queso parmesano rallado",
+          "10 g de mantequilla",
+          "Sal, pimienta y albahaca fresca"
+        ],
+        "preparacion": [
+          "Precalienta el horno a 190°C.",
+          "Hornea las láminas de berenjena con aceite de oliva por 10 minutos.",
+          "Mezcla la ricota con las nueces, sal y pimienta.",
+          "Rellena las láminas de berenjena y enróllalas.",
+          "Espolvorea con parmesano y hornea por 10 minutos.",
+          "Sirve con albahaca fresca."
+        ],
+        "nutricion": {
+          "calorias": 700,
+          "grasas": 65,
+          "proteinas": 25,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 3,
+      "desayuno": {
+        "nombre": "Tortitas de Coco con Crema de Almendras y Canela",
+        "ingredientes": [
+          "2 huevos grandes",
+          "30 g de harina de coco",
+          "5 g de polvo de hornear",
+          "10 g de mantequilla derretida",
+          "10 g de eritritol",
+          "30 ml de leche de almendra sin azúcar",
+          "10 g de crema de almendras",
+          "1 pizca de canela en polvo"
+        ],
+        "preparacion": [
+          "Mezcla todos los ingredientes excepto la crema de almendras y la canela.",
+          "Vierte la mezcla en una sartén con mantequilla para formar tortitas y cocina por ambos lados.",
+          "Sirve con crema de almendras y canela."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 52,
+          "proteinas": 16,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Lasaña Keto con Láminas de Calabacín",
+        "ingredientes": [
+          "150 g de carne molida",
+          "50 g de calabacín en láminas finas",
+          "30 g de queso mozzarella rallado",
+          "10 g de queso parmesano",
+          "50 g de salsa de tomate sin azúcar",
+          "10 g de aceite de oliva",
+          "10 g de mantequilla",
+          "Ajo en polvo, orégano, sal y pimienta"
+        ],
+        "preparacion": [
+          "Sofríe la carne con especias y aceite.",
+          "Agrega la salsa de tomate y cocina por 10 minutos.",
+          "En un molde, alterna capas de calabacín, carne y queso.",
+          "Espolvorea con parmesano y hornea a 180°C por 15 minutos."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 72,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Pechuga de Pato con Puré de Coliflor y Mantequilla de Hierbas",
+        "ingredientes": [
+          "150 g de pechuga de pato o pollo con piel",
+          "100 g de coliflor",
+          "30 g de mantequilla",
+          "10 g de aceite de oliva",
+          "10 g de crema agria",
+          "Sal, pimienta y romero fresco"
+        ],
+        "preparacion": [
+          "Cocina la pechuga de pato en una sartén caliente, con la piel hacia abajo.",
+          "Cocina la coliflor al vapor y tritúrala con mantequilla, crema agria, sal y pimienta.",
+          "Sirve la pechuga sobre el puré de coliflor."
+        ],
+        "nutricion": {
+          "calorias": 700,
+          "grasas": 65,
+          "proteinas": 25,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 4,
+      "desayuno": {
+        "nombre": "Tostadas Keto con Mantequilla y Mermelada Sin Azúcar",
+        "ingredientes": [
+          "2 rebanadas de pan keto",
+          "10 g de mantequilla",
+          "20 g de mermelada sin azúcar",
+          "1 café con 30 ml de leche de almendra sin azúcar"
+        ],
+        "preparacion": [
+          "Tuesta las rebanadas de pan keto.",
+          "Unta con mantequilla y mermelada.",
+          "Acompaña con un café con leche de almendra."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 52,
+          "proteinas": 16,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Ensalada de Pulpo con Aguacate y Vinagreta de Limón",
+        "ingredientes": [
+          "100 g de pulpo cocido",
+          "50 g de aguacate en cubos",
+          "50 g de pimiento rojo en tiras",
+          "10 g de aceite de oliva",
+          "Jugo de medio limón",
+          "Sal, pimienta y perejil picado"
+        ],
+        "preparacion": [
+          "Corta el pulpo y mézclalo con el aguacate y el pimiento.",
+          "Prepara la vinagreta con aceite de oliva, jugo de limón, sal y pimienta.",
+          "Adereza la ensalada y espolvorea con perejil."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 72,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Pimientos Rellenos de Queso y Chorizo",
+        "ingredientes": [
+          "150 g de pimientos pequeños",
+          "50 g de chorizo sin azúcar en cubos",
+          "30 g de queso crema",
+          "30 g de queso mozzarella rallado",
+          "10 g de aceite de oliva",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Precalienta el horno a 180°C.",
+          "Corta los pimientos por la mitad y retira las semillas.",
+          "Mezcla el chorizo con los quesos y rellena los pimientos.",
+          "Rocía con aceite de oliva y hornea por 15 minutos."
+        ],
+        "nutricion": {
+          "calorias": 700,
+          "grasas": 65,
+          "proteinas": 25,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 5,
+      "desayuno": {
+        "nombre": "Panqueques de Almendra con Crema de Coco",
+        "ingredientes": [
+          "50 g de harina de almendra",
+          "2 huevos grandes",
+          "30 ml de leche de almendra sin azúcar",
+          "10 g de mantequilla",
+          "10 g de eritritol",
+          "1/2 cucharadita de polvo de hornear",
+          "30 g de crema de coco"
+        ],
+        "preparacion": [
+          "Mezcla la harina de almendra, huevos, leche, eritritol y polvo de hornear.",
+          "Calienta una sartén con mantequilla y cocina los panqueques por ambos lados.",
+          "Sirve con crema de coco."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 52,
+          "proteinas": 16,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Pollo Cremoso con Espinacas y Champiñones",
+        "ingredientes": [
+          "150 g de pechuga o muslo de pollo",
+          "50 g de espinacas frescas",
+          "50 g de champiñones en rodajas",
+          "30 g de queso crema",
+          "10 g de aceite de oliva",
+          "10 g de mantequilla",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Cocina el pollo en una sartén con aceite y mantequilla.",
+          "Añade los champiñones y las espinacas.",
+          "Incorpora el queso crema para formar una salsa."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 72,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Pastel de Carne Keto con Puré de Coliflor",
+        "ingredientes": [
+          "150 g de carne molida",
+          "50 g de queso cheddar rallado",
+          "50 g de coliflor cocida",
+          "10 g de crema agria",
+          "10 g de mantequilla",
+          "Sal, pimienta y especias"
+        ],
+        "preparacion": [
+          "Cocina la carne molida con mantequilla y especias.",
+          "Machaca la coliflor y mézclala con la crema agria y el queso.",
+          "En un molde, coloca la carne y cúbrela con el puré.",
+          "Hornea a 180°C por 15 minutos."
+        ],
+        "nutricion": {
+          "calorias": 700,
+          "grasas": 65,
+          "proteinas": 25,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 6,
+      "desayuno": {
+        "nombre": "Pan de Nube con Mantequilla y Canela",
+        "ingredientes": [
+          "2 claras de huevo",
+          "30 g de queso crema",
+          "1/4 cucharadita de polvo de hornear",
+          "10 g de mantequilla para untar",
+          "1 pizca de canela",
+          "10 g de eritritol"
+        ],
+        "preparacion": [
+          "Precalienta el horno a 160°C.",
+          "Bate las claras a punto de nieve con el polvo de hornear.",
+          "Mezcla el queso crema y el eritritol, e incorpóralo a las claras.",
+          "Forma montones en una bandeja y hornea por 15-20 minutos.",
+          "Unta con mantequilla y espolvorea con canela."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 52,
+          "proteinas": 16,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Nuggets Keto Crujientes con Salsa de Mostaza",
+        "ingredientes": [
+          "150 g de pechuga de pollo en cubos",
+          "30 g de queso parmesano rallado",
+          "1 huevo batido",
+          "10 g de harina de almendra",
+          "50 g de espinacas frescas",
+          "10 g de aceite de oliva",
+          "10 g de mantequilla",
+          "10 g de mostaza Dijon",
+          "Ajo en polvo, sal y pimienta"
+        ],
+        "preparacion": [
+          "Mezcla el parmesano con la harina de almendra y especias.",
+          "Pasa el pollo por el huevo y luego por la mezcla de queso.",
+          "Fríe los nuggets en aceite de oliva.",
+          "Saltea las espinacas con mantequilla.",
+          "Sirve los nuggets con salsa de mostaza."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 72,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Solomillo de Cerdo con Puré de Berenjena y Ajo Asado",
+        "ingredientes": [
+          "150 g de solomillo de cerdo",
+          "100 g de berenjena",
+          "10 g de mantequilla",
+          "10 g de aceite de oliva",
+          "1 diente de ajo asado",
+          "Sal, pimienta y romero"
+        ],
+        "preparacion": [
+          "Cocina el solomillo en una sartén con aceite de oliva.",
+          "Asa la berenjena en el horno a 180°C por 20 minutos.",
+          "Tritura la berenjena con el ajo asado, la mantequilla y las especias.",
+          "Sirve el solomillo sobre el puré."
+        ],
+        "nutricion": {
+          "calorias": 700,
+          "grasas": 65,
+          "proteinas": 25,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 7,
+      "desayuno": {
+        "nombre": "Crepes Keto de Almendra con Chocolate 85%",
+        "ingredientes": [
+          "2 huevos grandes",
+          "30 g de harina de almendra",
+          "10 g de mantequilla derretida",
+          "30 ml de leche de almendra sin azúcar",
+          "10 g de eritritol",
+          "20 g de chocolate 85% cacao derretido",
+          "1/2 cucharadita de esencia de vainilla"
+        ],
+        "preparacion": [
+          "Bate los huevos con la leche, eritritol y vainilla.",
+          "Agrega la harina de almendra y mezcla.",
+          "Cocina los crepes en una sartén con mantequilla.",
+          "Rellena con chocolate derretido."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 52,
+          "proteinas": 16,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Ensalada de Pollo con Aguacate y Vinagreta de Mostaza",
+        "ingredientes": [
+          "150 g de pechuga de pollo a la plancha",
+          "50 g de aguacate en cubos",
+          "50 g de espinacas frescas",
+          "30 g de queso feta desmenuzado",
+          "10 g de aceite de oliva",
+          "10 g de mostaza Dijon",
+          "Jugo de 1/2 limón",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Cocina el pollo y córtalo en tiras.",
+          "Mezcla las espinacas, el aguacate y el queso feta.",
+          "Prepara una vinagreta con aceite, mostaza y limón.",
+          "Añade el pollo a la ensalada y adereza."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 72,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Albóndigas de Res con Salsa de Pimiento Rojo y Queso",
+        "ingredientes": [
+          "150 g de carne molida de res",
+          "50 g de pimiento rojo asado",
+          "30 g de queso crema",
+          "10 g de mantequilla",
+          "10 g de aceite de oliva",
+          "Ajo en polvo, sal y pimienta"
+        ],
+        "preparacion": [
+          "Forma albóndigas con la carne y las especias.",
+          "Cocina las albóndigas en una sartén con mantequilla y aceite.",
+          "Licúa el pimiento asado con el queso crema para hacer una salsa.",
+          "Vierte la salsa sobre las albóndigas y cocina por 5 minutos."
+        ],
+        "nutricion": {
+          "calorias": 700,
+          "grasas": 65,
+          "proteinas": 25,
+          "carbohidratos_netos": 4
+        }
+      }
+    }
+  ]
+}
