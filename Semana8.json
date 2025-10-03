@@ -1,0 +1,526 @@
+{
+  "semana": 8,
+  "dias": [
+    {
+      "dia": 1,
+      "desayuno": {
+        "nombre": "Porridge Keto de Almendra y Canela con Trocitos de Nuez",
+        "ingredientes": [
+          "20 g harina de almendra",
+          "10 g semillas de chía",
+          "10 g nueces troceadas",
+          "150 ml bebida de almendras sin azúcar",
+          "10 g mantequilla",
+          "1/2 cucharadita de canela",
+          "1 cucharada de eritritol"
+        ],
+        "preparacion": [
+          "Calienta la bebida de almendras en un cazo.",
+          "Añade la harina de almendra, chía, eritritol y canela.",
+          "Remueve hasta que espese (4-5 min).",
+          "Retira del fuego, añade la mantequilla y mezcla.",
+          "Sirve con las nueces por encima."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 13,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Hamburguesa Keto con Pan de Nube y Salsa de Aguacate y Lima",
+        "ingredientes": [
+          "150 g carne picada de ternera 80/20",
+          "2 claras de huevo",
+          "1 yema",
+          "1 cucharadita de queso crema",
+          "1/2 aguacate",
+          "Zumo de 1/2 lima",
+          "Sal, pimienta y orégano"
+        ],
+        "preparacion": [
+          "Para el pan nube: bate las claras a punto de nieve. Mezcla con la yema y el queso crema. Hornea en montoncitos a 150°C por 20-25 minutos.",
+          "Cocina la hamburguesa en una sartén o plancha.",
+          "Tritura el aguacate con lima, sal y pimienta para la salsa.",
+          "Monta la hamburguesa con el pan nube y la salsa."
+        ],
+        "nutricion": {
+          "calorias": 790,
+          "grasas": 65,
+          "proteinas": 45,
+          "carbohidratos_netos": 4
+        }
+      },
+      "cena": {
+        "nombre": "Crema de Calabacín y Puerro con Queso Parmesano",
+        "ingredientes": [
+          "200 g calabacín",
+          "50 g puerro",
+          "30 g queso parmesano rallado",
+          "20 ml aceite de oliva virgen extra",
+          "1 cucharadita de mantequilla",
+          "250 ml agua o caldo",
+          "Sal, pimienta y nuez moscada"
+        ],
+        "preparacion": [
+          "Sofríe el puerro en mantequilla y aceite.",
+          "Añade el calabacín, salpimienta y cubre con agua o caldo.",
+          "Cocina 15 minutos, tritura y ajusta la textura.",
+          "Añade el parmesano y mezcla bien antes de servir."
+        ],
+        "nutricion": {
+          "calorias": 740,
+          "grasas": 63,
+          "proteinas": 33,
+          "carbohidratos_netos": 3
+        }
+      }
+    },
+    {
+      "dia": 2,
+      "desayuno": {
+        "nombre": "Huevos Revueltos con Champiñones Salteados y Parmesano",
+        "ingredientes": [
+          "2 huevos grandes",
+          "1 clara de huevo",
+          "30 g queso parmesano rallado",
+          "50 g champiñones frescos",
+          "10 g mantequilla",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Saltear los champiñones en mantequilla.",
+          "Añadir los huevos batidos con la clara y cocinar a fuego bajo.",
+          "Mezclar el parmesano al final y servir."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 27,
+          "carbohidratos_netos": 2
+        }
+      },
+      "almuerzo": {
+        "nombre": "Ensalada Keto de Pollo a la Parrilla con Aguacate, Aceitunas y Aliño de Mostaza",
+        "ingredientes": [
+          "150 g pechuga de pollo",
+          "1/2 aguacate",
+          "20 g aceitunas negras",
+          "50 g lechuga romana",
+          "15 g cebolla morada en juliana",
+          "20 ml aceite de oliva virgen extra",
+          "1 cucharada mostaza Dijon",
+          "1 cucharada mayonesa keto",
+          "Zumo de 1/2 limón",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Asar o cocinar el pollo a la plancha.",
+          "Preparar el aliño mezclando mostaza, mayonesa, limón, sal y pimienta.",
+          "Montar la ensalada con la lechuga, aguacate, aceitunas, cebolla y el pollo en tiras.",
+          "Añadir el aliño por encima."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 66,
+          "proteinas": 50,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Salmón al Horno con Espárragos y Salsa de Limón y Mantequilla",
+        "ingredientes": [
+          "150 g lomo de salmón",
+          "100 g espárragos verdes",
+          "15 g mantequilla",
+          "1 cucharada zumo de limón",
+          "Ralladura de limón",
+          "Sal, pimienta y ajo en polvo"
+        ],
+        "preparacion": [
+          "Colocar el salmón y los espárragos en una fuente.",
+          "Rociar con mantequilla derretida, zumo y ralladura de limón, sal, pimienta y ajo en polvo.",
+          "Hornear a 180°C durante 15 minutos."
+        ],
+        "nutricion": {
+          "calorias": 730,
+          "grasas": 63,
+          "proteinas": 38,
+          "carbohidratos_netos": 2
+        }
+      }
+    },
+    {
+      "dia": 3,
+      "desayuno": {
+        "nombre": "Pudding de Semillas de Chía con Crema de Coco y Almendras Tostadas",
+        "ingredientes": [
+          "25 g semillas de chía",
+          "100 ml leche de almendras sin azúcar",
+          "40 ml leche de coco entera",
+          "10 g almendras laminadas",
+          "1 cucharada eritritol",
+          "1/2 cucharadita esencia de vainilla",
+          "Pizca de canela"
+        ],
+        "preparacion": [
+          "Mezclar la leche de almendras, leche de coco, vainilla, eritritol y chía.",
+          "Dejar reposar mínimo 4 horas o toda la noche.",
+          "Servir con almendras tostadas y canela."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 10,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Pizza Keto con Base de Pollo y Queso Mozzarella",
+        "ingredientes": [
+          "150 g pechuga de pollo picada",
+          "50 g queso mozzarella rallado",
+          "1 huevo",
+          "Sal, orégano y ajo en polvo",
+          "2 cucharadas salsa de tomate sin azúcar",
+          "40 g queso mozzarella rallado (extra)",
+          "30 g pimiento rojo en tiras",
+          "3-4 aceitunas negras"
+        ],
+        "preparacion": [
+          "Mezclar el pollo con 50g de mozzarella, huevo y especias. Formar una base de pizza.",
+          "Hornear 15 min a 200°C.",
+          "Añadir salsa de tomate, el resto del queso, pimiento y aceitunas.",
+          "Hornear 8-10 min más."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 62,
+          "proteinas": 55,
+          "carbohidratos_netos": 4
+        }
+      },
+      "cena": {
+        "nombre": "Crema de Berenjena Asada con Queso de Cabra y Nuez Moscada",
+        "ingredientes": [
+          "1 berenjena grande (250 g)",
+          "40 g queso de cabra",
+          "15 g mantequilla",
+          "1 diente de ajo",
+          "250 ml caldo de verduras",
+          "1 cucharadita de aceite de oliva",
+          "Sal, pimienta, nuez moscada"
+        ],
+        "preparacion": [
+          "Asar la berenjena en el horno a 200°C por 25-30 min.",
+          "Retirar la pulpa y sofreír con mantequilla y ajo.",
+          "Añadir el caldo, hervir 5 min y triturar.",
+          "Añadir el queso de cabra y mezclar. Servir con aceite de oliva."
+        ],
+        "nutricion": {
+          "calorias": 730,
+          "grasas": 66,
+          "proteinas": 29,
+          "carbohidratos_netos": 3
+        }
+      }
+    },
+    {
+      "dia": 4,
+      "desayuno": {
+        "nombre": "Muffins Keto de Huevo, Espinacas y Cheddar",
+        "ingredientes": [
+          "2 huevos",
+          "30 g espinacas frescas troceadas",
+          "40 g queso cheddar rallado",
+          "15 ml de nata para cocinar",
+          "5 g de mantequilla",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Precalentar horno a 180°C o Air Fryer a 160°C.",
+          "Mezclar todos los ingredientes.",
+          "Verter en 2 moldes de muffins engrasados.",
+          "Hornear 15-18 minutos o 12-14 minutos en Air Fryer."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 27,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Cerdo Desmenuzado con BBQ y Ensalada de Repollo",
+        "ingredientes": [
+          "180 g paleta de cerdo cocida y desmenuzada",
+          "1 cucharadita de manteca de cerdo o aceite de coco",
+          "2 cucharadas de tomate concentrado sin azúcar",
+          "1 cucharadita vinagre de manzana",
+          "1 cucharadita eritritol",
+          "1/2 cucharadita mostaza",
+          "60 g repollo blanco rallado",
+          "1 cucharada mayonesa keto",
+          "1 cucharadita mostaza Dijon",
+          "Sal y limón"
+        ],
+        "preparacion": [
+          "Recalentar el cerdo con manteca y añadir la salsa BBQ (tomate, vinagre, eritritol, mostaza).",
+          "Mezclar el repollo con mayonesa, mostaza Dijon, sal y limón.",
+          "Servir el cerdo junto a la ensalada."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 67,
+          "proteinas": 47,
+          "carbohidratos_netos": 4
+        }
+      },
+      "cena": {
+        "nombre": "Cazuela de Pollo, Coliflor y Champiñones al Horno",
+        "ingredientes": [
+          "150 g pechuga de pollo cocida en trozos",
+          "80 g coliflor en ramitos",
+          "50 g champiñones en láminas",
+          "30 ml nata para cocinar",
+          "30 g queso rallado",
+          "10 g mantequilla",
+          "Sal, pimienta y nuez moscada"
+        ],
+        "preparacion": [
+          "Sofreír los champiñones y la coliflor en mantequilla.",
+          "Mezclar con el pollo, añadir la nata y colocar en una fuente.",
+          "Cubrir con queso y hornear 15 minutos a 200°C."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 61,
+          "proteinas": 34,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 5,
+      "desayuno": {
+        "nombre": "Tostadas Keto con Crema de Almendras y Frambuesas",
+        "ingredientes": [
+          "2 rebanadas de pan keto",
+          "20 g crema de almendras 100% natural",
+          "15 g de frambuesas",
+          "1 cucharada de mantequilla",
+          "Pizca de canela o coco rallado (opcional)"
+        ],
+        "preparacion": [
+          "Tostar el pan en una sartén con mantequilla.",
+          "Untar la crema de almendras y añadir las frambuesas.",
+          "Espolvorear con canela o coco si se desea."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 17,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Albóndigas de Pavo con Salsa de Queso Azul y Espinacas",
+        "ingredientes": [
+          "160 g carne picada de pavo",
+          "1 huevo",
+          "1/2 cucharadita ajo en polvo",
+          "30 g queso azul",
+          "50 ml nata para cocinar",
+          "10 g mantequilla",
+          "60 g espinacas frescas",
+          "1 diente de ajo",
+          "1 cucharadita aceite de oliva",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Mezclar el pavo con huevo, ajo en polvo, sal y pimienta. Formar albóndigas y cocinarlas.",
+          "Calentar la nata con el queso azul y mantequilla para hacer la salsa.",
+          "Saltear las espinacas con ajo y aceite.",
+          "Servir todo junto."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 68,
+          "proteinas": 48,
+          "carbohidratos_netos": 4
+        }
+      },
+      "cena": {
+        "nombre": "Lasaña Keto de Calabacín con Bechamel de Coliflor",
+        "ingredientes": [
+          "120 g carne picada mixta",
+          "1/2 calabacín en láminas finas",
+          "50 g coliflor cocida",
+          "30 ml nata para cocinar",
+          "30 g queso rallado para gratinar",
+          "10 g mantequilla",
+          "Ajo, sal, pimienta, orégano"
+        ],
+        "preparacion": [
+          "Sofreír la carne con especias.",
+          "Triturar la coliflor con nata y mantequilla para hacer una bechamel.",
+          "Montar capas de calabacín, carne, bechamel y queso.",
+          "Hornear 20-25 minutos a 180°C."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 61,
+          "proteinas": 37,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 6,
+      "desayuno": {
+        "nombre": "Yogur Griego Keto con Nueces, Semillas y Crema de Coco",
+        "ingredientes": [
+          "120 g yogur griego natural 10% MG",
+          "10 g nueces picadas",
+          "10 g semillas de lino molidas",
+          "10 g crema de coco densa",
+          "1 cucharadita de eritritol",
+          "1/2 cucharadita de canela"
+        ],
+        "preparacion": [
+          "Mezclar el yogur con la crema de coco y el eritritol.",
+          "Añadir las nueces, las semillas de lino y espolvorear canela.",
+          "Servir frío."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 37,
+          "proteinas": 20,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Hamburguesa Keto con Pan de Lechuga y Cebolla Caramelizada",
+        "ingredientes": [
+          "150 g carne picada de ternera 80/20",
+          "1 hoja grande de lechuga",
+          "1 loncha de queso gouda o cheddar (30 g)",
+          "30 g cebolla en tiras",
+          "1 cucharadita de mantequilla",
+          "1 cucharadita eritritol",
+          "Mostaza y mayonesa keto al gusto"
+        ],
+        "preparacion": [
+          "Formar y cocinar la hamburguesa.",
+          "Sofreír la cebolla en mantequilla con eritritol.",
+          "Envolver la hamburguesa con queso en la hoja de lechuga, añadir la cebolla y salsas."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 68,
+          "proteinas": 47,
+          "carbohidratos_netos": 3
+        }
+      },
+      "cena": {
+        "nombre": "Merluza con Crema de Espinacas y Parmesano",
+        "ingredientes": [
+          "150 g lomo de merluza",
+          "70 g espinacas frescas",
+          "20 ml nata para cocinar",
+          "20 g queso parmesano rallado",
+          "10 g mantequilla",
+          "1 cucharadita aceite de oliva",
+          "Sal, pimienta y nuez moscada"
+        ],
+        "preparacion": [
+          "Hornear la merluza 12-15 min a 180°C.",
+          "Sofreír las espinacas en mantequilla.",
+          "Añadir la nata y parmesano, y condimentar.",
+          "Servir el pescado con la crema de espinacas."
+        ],
+        "nutricion": {
+          "calorias": 730,
+          "grasas": 63,
+          "proteinas": 37,
+          "carbohidratos_netos": 3
+        }
+      }
+    },
+    {
+      "dia": 7,
+      "desayuno": {
+        "nombre": "Pudding de Chocolate Keto con Nueces y Coco",
+        "ingredientes": [
+          "20 g semillas de chía",
+          "150 ml bebida de almendras sin azúcar",
+          "10 g cacao puro en polvo sin azúcar",
+          "10 g nueces picadas",
+          "1 cucharada de eritritol",
+          "1 cucharadita coco rallado",
+          "1/2 cucharadita esencia de vainilla"
+        ],
+        "preparacion": [
+          "Mezclar leche, cacao, vainilla y eritritol.",
+          "Añadir las semillas de chía y reposar al menos 4 horas.",
+          "Servir con nueces y coco."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 11,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Pollo al Romero con Guisantes y Salsa de Mantequilla",
+        "ingredientes": [
+          "150 g muslo de pollo sin piel",
+          "30 g guisantes cocidos",
+          "30 ml nata para cocinar",
+          "15 g mantequilla",
+          "1 diente de ajo",
+          "1 ramita de romero",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Cocinar el pollo en sartén con ajo, romero y mantequilla.",
+          "Añadir nata y reducir la salsa.",
+          "Añadir los guisantes al final.",
+          "Servir con la salsa."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 65,
+          "proteinas": 46,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Sopa Cremosa de Mariscos con Azafrán",
+        "ingredientes": [
+          "80 g gambas peladas",
+          "50 g calamares en anillas",
+          "30 g mejillones",
+          "30 ml nata para cocinar",
+          "250 ml caldo de pescado",
+          "10 g mantequilla",
+          "Hebras de azafrán",
+          "Sal, pimienta y cebollino"
+        ],
+        "preparacion": [
+          "Sofreír los mariscos en mantequilla.",
+          "Añadir el caldo y azafrán, y cocinar 5-6 minutos.",
+          "Agregar la nata, condimentar y servir con cebollino."
+        ],
+        "nutricion": {
+          "calorias": 730,
+          "grasas": 64,
+          "proteinas": 39,
+          "carbohidratos_netos": 3
+        }
+      }
+    }
+  ]
+}
