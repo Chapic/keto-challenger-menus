@@ -1,0 +1,517 @@
+{
+  "semana": 12,
+  "dias": [
+    {
+      "dia": 1,
+      "desayuno": {
+        "nombre": "Huevos Benedict Keto con Salsa Holandesa",
+        "ingredientes": [
+          "2 huevos",
+          "2 lonchas de bacon o salmón ahumado (50 g)",
+          "1 panecillo keto pequeño (harina de almendra)",
+          "30 g mantequilla derretida",
+          "1 yema de huevo",
+          "1 cucharadita jugo de limón",
+          "Sal y pimienta",
+          "Perejil fresco picado"
+        ],
+        "preparacion": [
+          "Cocina los huevos pochados en agua hirviendo con vinagre, durante 3-4 minutos. Reserva.",
+          "Dora el bacon o salmón en sartén y coloca sobre el pan keto tostado.",
+          "Prepara la salsa holandesa batiendo la mantequilla derretida con yema, jugo de limón, sal y pimienta al baño maría hasta espesar ligeramente.",
+          "Monta los huevos sobre el pan y bacon, y vierte la salsa por encima. Decora con perejil."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 23,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Coq au Vin Keto con Champiñones y Bacon",
+        "ingredientes": [
+          "150 g muslo de pollo sin piel",
+          "50 g champiñones frescos laminados",
+          "30 g cebolla picada",
+          "2 lonchas de bacon picado (30 g)",
+          "1 diente de ajo",
+          "100 ml vino tinto (opcional para reducir)",
+          "100 ml caldo de pollo",
+          "1 cucharada mantequilla",
+          "1 hoja laurel, tomillo, sal y pimienta"
+        ],
+        "preparacion": [
+          "Dora el pollo con mantequilla en sartén. Añade bacon, cebolla, ajo y champiñones y saltea hasta dorar.",
+          "Incorpora vino, caldo, laurel y tomillo. Cocina tapado 25 minutos a fuego lento.",
+          "Destapa y reduce hasta obtener una salsa espesa y sabrosa.",
+          "Sirve caliente, decorado con hierbas frescas al gusto."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 68,
+          "proteinas": 38,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Filete de Lubina en Salsa Beurre Blanc Keto con Espárragos",
+        "ingredientes": [
+          "150 g filete de lubina (u otro pescado blanco)",
+          "50 g espárragos verdes frescos",
+          "40 g mantequilla fría (en dados)",
+          "30 ml nata para cocinar",
+          "1 cucharada de chalota o cebolla muy fina (opcional)",
+          "30 ml vino blanco seco (opcional, o caldo de pescado con limón)",
+          "Sal, pimienta, jugo de limón fresco",
+          "Perejil o cebollino fresco picado"
+        ],
+        "preparacion": [
+          "Sazona el filete de lubina con sal, pimienta y limón. Cocina a la plancha hasta dorar.",
+          "Cuece los espárragos en agua con sal hasta que estén tiernos (4-5 minutos), escurre y reserva.",
+          "En una sartén aparte, calienta suavemente la chalota picada con vino blanco (o caldo con limón) hasta reducir casi por completo. Añade la nata y remueve.",
+          "Incorpora la mantequilla fría, cubito a cubito, batiendo continuamente hasta obtener una salsa cremosa (beurre blanc). Ajusta sal y pimienta.",
+          "Sirve la lubina sobre los espárragos, vierte la salsa beurre blanc encima y decora con hierbas frescas."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 62,
+          "proteinas": 37,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 2,
+      "desayuno": {
+        "nombre": "Huevos Florentina sobre Pan Keto con Parmesano y Espinacas Salteadas",
+        "ingredientes": [
+          "2 huevos grandes",
+          "1 rebanada de pan keto",
+          "50 g espinacas frescas",
+          "15 g parmesano rallado",
+          "10 g mantequilla",
+          "1 cucharada de aceite de oliva",
+          "Sal, pimienta y nuez moscada"
+        ],
+        "preparacion": [
+          "Saltea las espinacas con aceite de oliva, sal, pimienta y nuez moscada.",
+          "Tosta el pan keto con mantequilla en la sartén.",
+          "Cocina los huevos pochados o escalfados en agua con vinagre (3-4 min).",
+          "Monta el plato: pan + espinacas salteadas + huevo + parmesano por encima."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 20,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Pollo al Ajillo con Puré de Coliflor Trufado",
+        "ingredientes": [
+          "150 g muslos de pollo deshuesados",
+          "3 dientes de ajo",
+          "1 cucharadita de vinagre de vino blanco",
+          "1 cucharada de aceite de oliva virgen extra",
+          "150 g coliflor cocida",
+          "30 ml nata para cocinar",
+          "10 g mantequilla",
+          "1 cucharadita de aceite de trufa (opcional)",
+          "Sal, pimienta, perejil fresco"
+        ],
+        "preparacion": [
+          "Dora el pollo con los ajos laminados en aceite. Añade vinagre al final y reduce.",
+          "Para el puré, tritura coliflor con nata, mantequilla, sal y aceite de trufa.",
+          "Sirve el pollo con el puré al lado y espolvorea perejil fresco."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 68,
+          "proteinas": 42,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Ensalada de Mozzarella Burrata, Tomates Cherry y Pesto Casero",
+        "ingredientes": [
+          "100 g burrata fresca (o mozzarella de búfala)",
+          "80 g tomates cherry variados",
+          "1 cucharada de aceite de oliva virgen extra",
+          "1 cucharada de pesto casero (albahaca, aceite, piñones, parmesano)",
+          "Hojas de albahaca fresca",
+          "Sal y pimienta negra"
+        ],
+        "preparacion": [
+          "Lava y corta los tomates, colócalos en un plato.",
+          "Añade la burrata en el centro y distribuye el pesto por encima.",
+          "Rocía con aceite de oliva, salpimenta y decora con albahaca fresca."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 64,
+          "proteinas": 28,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 3,
+      "desayuno": {
+        "nombre": "Soufflé Keto de Queso y Espinacas",
+        "ingredientes": [
+          "2 huevos grandes (separadas claras y yemas)",
+          "30 g espinacas frescas",
+          "30 g queso emmental rallado",
+          "1 cucharada de nata para montar (15 ml)",
+          "10 g mantequilla",
+          "Sal, pimienta y nuez moscada"
+        ],
+        "preparacion": [
+          "Precalienta el horno a 190°C.",
+          "Bate las claras a punto de nieve con una pizca de sal.",
+          "En otro bol mezcla las yemas, espinacas picadas, queso, nata y especias.",
+          "Incorpora las claras con movimientos envolventes.",
+          "Hornea en un ramequín engrasado durante 15-18 min sin abrir el horno."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 22,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Entrecot con Mantequilla de Hierbas y Judías Verdes Salteadas",
+        "ingredientes": [
+          "180 g entrecot (chuletón o corte graso)",
+          "1 cucharada mantequilla",
+          "1 cucharadita de mostaza Dijon",
+          "1 diente de ajo",
+          "Perejil, tomillo y romero",
+          "80 g judías verdes cocidas",
+          "1 cucharada de aceite de oliva",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Mezcla la mantequilla con las hierbas y la mostaza. Reserva en frío.",
+          "Cocina el entrecot al punto deseado, sala al final y añade la mantequilla encima.",
+          "Saltea las judías con aceite, ajo y sal. Sirve todo junto."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 68,
+          "proteinas": 46,
+          "carbohidratos_netos": 4
+        }
+      },
+      "cena": {
+        "nombre": "Crema de Champiñones con Queso Brie y Cebollino",
+        "ingredientes": [
+          "150 g champiñones frescos",
+          "30 g queso brie",
+          "30 ml nata para cocinar",
+          "10 g mantequilla",
+          "150 ml caldo vegetal",
+          "Sal, pimienta y cebollino picado"
+        ],
+        "preparacion": [
+          "Saltea los champiñones en mantequilla hasta dorar.",
+          "Añade el caldo y deja reducir 5-6 min.",
+          "Incorpora el brie y la nata. Tritura todo hasta obtener una crema fina.",
+          "Ajusta de sal y pimienta. Sirve con cebollino fresco."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 64,
+          "proteinas": 24,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 4,
+      "desayuno": {
+        "nombre": "Huevos Revueltos con Salmón Ahumado y Eneldo",
+        "ingredientes": [
+          "2 huevos grandes",
+          "40 g salmón ahumado",
+          "1 cucharada de mantequilla (10 g)",
+          "1 cucharada de nata líquida (15 ml)",
+          "Eneldo fresco o seco",
+          "Sal y pimienta negra"
+        ],
+        "preparacion": [
+          "Bate los huevos con la nata, sal y pimienta.",
+          "Cocina en sartén con mantequilla removiendo suavemente hasta que estén cremosos.",
+          "Sirve con el salmón por encima y eneldo fresco."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 38,
+          "proteinas": 25,
+          "carbohidratos_netos": 2
+        }
+      },
+      "almuerzo": {
+        "nombre": "Filete de Caballa al Horno con Col Rizada Salteada",
+        "ingredientes": [
+          "180 g filete de caballa (fresca o en conserva escurrida en aceite de oliva)",
+          "1 cucharada de aceite de oliva",
+          "80 g col rizada (kale) o espinaca",
+          "1 diente de ajo",
+          "Zumo de limón",
+          "Sal, pimienta y ralladura de limón"
+        ],
+        "preparacion": [
+          "Si es caballa fresca, hornea con aceite, sal y limón a 180°C durante 15-18 minutos.",
+          "Si es en conserva, simplemente caliéntala ligeramente.",
+          "Saltea la col con ajo y aceite. Añade un toque de limón.",
+          "Sirve todo junto con la ralladura por encima."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 69,
+          "proteinas": 42,
+          "carbohidratos_netos": 3
+        }
+      },
+      "cena": {
+        "nombre": "Sopa Cremosa de Coliflor con Nata y Queso Curado",
+        "ingredientes": [
+          "150 g coliflor cocida",
+          "30 ml nata para cocinar",
+          "30 g queso curado (tipo manchego, parmesano o nórdico)",
+          "10 g mantequilla",
+          "150 ml caldo vegetal",
+          "Sal, pimienta, nuez moscada"
+        ],
+        "preparacion": [
+          "Tritura la coliflor con el caldo y la nata.",
+          "Calienta en un cazo con mantequilla, añade el queso y deja espesar.",
+          "Ajusta de sal y especias. Sirve caliente."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 63,
+          "proteinas": 25,
+          "carbohidratos_netos": 3
+        }
+      }
+    },
+    {
+      "dia": 5,
+      "desayuno": {
+        "nombre": "Tortilla de Ras el Hanout con Queso de Cabra y Espinacas",
+        "ingredientes": [
+          "2 huevos",
+          "30 g espinacas frescas",
+          "30 g queso de cabra (rulo)",
+          "1 cucharada de mantequilla (10 g)",
+          "1/2 cucharadita de Ras el Hanout",
+          "Sal al gusto"
+        ],
+        "preparacion": [
+          "Saltea las espinacas en mantequilla hasta que reduzcan.",
+          "Añade los huevos batidos con Ras el Hanout y sal.",
+          "Cocina la tortilla y, antes de cerrar, incorpora el queso de cabra desmenuzado."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 22,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Tajine Keto de Pollo con Aceitunas y Limón",
+        "ingredientes": [
+          "160 g muslo de pollo deshuesado",
+          "40 g aceitunas verdes sin hueso",
+          "1/4 de limón en conserva o ralladura de limón",
+          "1 cucharada de aceite de oliva",
+          "1 diente de ajo",
+          "1/2 cucharadita de comino",
+          "1/2 cucharadita de cúrcuma",
+          "Sal, pimienta, perejil picado"
+        ],
+        "preparacion": [
+          "En una sartén profunda, sofríe ajo, comino y cúrcuma.",
+          "Añade el pollo troceado y dora bien.",
+          "Incorpora aceitunas, agua hasta cubrir y cocina 15-20 min.",
+          "Finaliza con limón rallado y perejil fresco."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 66,
+          "proteinas": 43,
+          "carbohidratos_netos": 4
+        }
+      },
+      "cena": {
+        "nombre": "Harira Keto (Versión sin Legumbres)",
+        "ingredientes": [
+          "100 g carne picada de cordero o ternera",
+          "50 g calabacín en dados",
+          "30 g tomate natural triturado",
+          "1 ramita de apio picado",
+          "1 cucharada de aceite de oliva",
+          "1/2 cucharadita de cúrcuma",
+          "1/2 cucharadita de jengibre molido",
+          "Sal, pimienta y cilantro fresco",
+          "1 huevo (opcional, para espesar la sopa)"
+        ],
+        "preparacion": [
+          "Sofríe la carne con especias, apio y calabacín.",
+          "Añade el tomate y agua hasta cubrir. Cocina 15-20 minutos.",
+          "Para espesar, añade un huevo batido removiendo.",
+          "Sirve caliente con cilantro picado."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 61,
+          "proteinas": 27,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 6,
+      "desayuno": {
+        "nombre": "Chai Keto Cremoso con Ghee y Canela + Bombón de Coco",
+        "ingredientes": [
+          "200 ml bebida vegetal sin azúcar (almendras o coco)",
+          "1 cucharadita de mezcla chai (canela, jengibre, cardamomo, clavo, pimienta)",
+          "10 g ghee o mantequilla",
+          "1 cucharada de eritritol",
+          "1 bolsita de té negro",
+          "Bombón: 10g coco rallado, 10g mantequilla/aceite de coco, 1 cucharada eritritol, 1 pizca vainilla"
+        ],
+        "preparacion": [
+          "Infusiona el té negro con las especias y la bebida vegetal. Añade el ghee y el eritritol, mezcla con batidor.",
+          "Mezcla los ingredientes del bombón, forma una bola y enfría."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 41,
+          "proteinas": 6,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Curry Keto de Pollo con Coliflor y Nata de Coco",
+        "ingredientes": [
+          "150 g pechuga de pollo en dados",
+          "80 g coliflor en ramilletes",
+          "50 ml leche de coco entera",
+          "1 cucharadita pasta de curry rojo (o en polvo)",
+          "1 cucharada de aceite de coco",
+          "Sal, jengibre y cúrcuma"
+        ],
+        "preparacion": [
+          "Sofríe el pollo con aceite y especias.",
+          "Añade la coliflor y cocina 5 minutos.",
+          "Incorpora la leche de coco, tapa y deja a fuego bajo 10 min."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 66,
+          "proteinas": 45,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Pan Naan Keto con Dip de Queso Especiado",
+        "ingredientes": [
+          "Naan: 30g harina de almendra, 1 huevo, 1 cucharadita psyllium, 1 pizca de sal, 10g mantequilla",
+          "Dip: 40g queso crema, 10g mantequilla, 1/2 cucharadita curry en polvo, Cebollino o cilantro"
+        ],
+        "preparacion": [
+          "Mezcla todos los ingredientes del naan hasta obtener una masa blanda.",
+          "Cocina en sartén con mantequilla formando discos.",
+          "Mezcla los ingredientes del dip y calienta ligeramente hasta fundir."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 59,
+          "proteinas": 24,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 7,
+      "desayuno": {
+        "nombre": "Huevos al Plato Keto con Jamón y Tomate Asado",
+        "ingredientes": [
+          "2 huevos",
+          "40 g jamón curado o cocido sin azúcar",
+          "1 tomate pequeño (60 g)",
+          "1 cucharada de aceite de oliva",
+          "Sal, pimienta, orégano"
+        ],
+        "preparacion": [
+          "Asa el tomate partido a la mitad con aceite, orégano y sal.",
+          "En una sartén o cazuela, calienta el jamón y coloca encima los huevos.",
+          "Cocina tapado a fuego bajo hasta que la clara esté cuajada y la yema aún cremosa.",
+          "Añade el tomate y un chorro extra de AOVE al servir."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 38,
+          "proteinas": 24,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Wok de Ternera con Verduras y Salsa de Sésamo",
+        "ingredientes": [
+          "150 g filete de ternera en tiras",
+          "50 g calabacín",
+          "30 g pimiento rojo",
+          "30 g cebolla morada",
+          "1 cucharada salsa de soja baja en sal",
+          "1 cucharada aceite de sésamo o coco",
+          "1 cucharadita semillas de sésamo",
+          "Ajo en polvo y jengibre al gusto"
+        ],
+        "preparacion": [
+          "Saltea la carne con el aceite y las especias.",
+          "Añade las verduras en tiras finas y la salsa de soja.",
+          "Cocina a fuego fuerte 4-5 minutos y espolvorea con semillas de sésamo al final."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 67,
+          "proteinas": 41,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Salmón a la Plancha con Salsa Verde Keto y Espárragos",
+        "ingredientes": [
+          "150 g lomo de salmón",
+          "60 g espárragos verdes",
+          "1 cucharada de aceite de oliva",
+          "1 cucharadita mantequilla",
+          "1 cucharada de perejil fresco",
+          "1/2 diente de ajo",
+          "1 cucharadita de mostaza suave",
+          "1 cucharada de zumo de limón",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Cocina el salmón a la plancha con sal y pimienta.",
+          "Tritura el perejil, ajo, limón, mostaza y AOVE hasta obtener una salsa verde.",
+          "Saltea los espárragos con mantequilla y sirve todo junto con la salsa encima."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 61,
+          "proteinas": 30,
+          "carbohidratos_netos": 4
+        }
+      }
+    }
+  ]
+}
