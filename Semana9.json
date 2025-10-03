@@ -1,0 +1,490 @@
+{
+  "semana": 9,
+  "dias": [
+    {
+      "dia": 1,
+      "desayuno": {
+        "nombre": "Huevos al Plato con Espinacas y Queso de Cabra",
+        "ingredientes": [
+          "2 huevos",
+          "30 g espinacas frescas",
+          "30 g queso de cabra en rulo",
+          "10 g mantequilla",
+          "Sal, pimienta, orégano"
+        ],
+        "preparacion": [
+          "Saltea las espinacas con mantequilla en una sartén.",
+          "Haz hueco y casca los huevos sobre las espinacas.",
+          "Añade el queso en trocitos, salpimienta y espolvorea orégano.",
+          "Cocina tapado a fuego bajo 5-6 minutos."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 21,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Curry Keto de Garbanzos con Crema de Coco y Calabacín",
+        "ingredientes": [
+          "60 g garbanzos cocidos",
+          "1 calabacín mediano",
+          "80 ml leche de coco entera",
+          "10 g aceite de coco o mantequilla",
+          "1/2 cucharadita de curry",
+          "1 pizca de cúrcuma, jengibre y sal"
+        ],
+        "preparacion": [
+          "Saltea los garbanzos y calabacín en aceite de coco.",
+          "Añade las especias y cocina 2 minutos más.",
+          "Agrega la leche de coco, tapa y cocina 10 min a fuego bajo."
+        ],
+        "nutricion": {
+          "calorias": 790,
+          "grasas": 61,
+          "proteinas": 21,
+          "carbohidratos_netos": 9
+        }
+      },
+      "cena": {
+        "nombre": "Berenjenas Rellenas de Ricotta, Mozzarella y Nueces",
+        "ingredientes": [
+          "1 berenjena mediana",
+          "50 g queso ricotta",
+          "40 g mozzarella rallada",
+          "10 g nueces picadas",
+          "1 cucharada de aceite de oliva",
+          "Orégano, ajo en polvo, sal"
+        ],
+        "preparacion": [
+          "Parte la berenjena a la mitad, vacía y precocina 10 min al horno a 180°C.",
+          "Mezcla la pulpa con la ricotta, nueces y especias.",
+          "Rellena las mitades, cubre con mozzarella y hornea 15 min más."
+        ],
+        "nutricion": {
+          "calorias": 740,
+          "grasas": 64,
+          "proteinas": 23,
+          "carbohidratos_netos": 7
+        }
+      }
+    },
+    {
+      "dia": 2,
+      "desayuno": {
+        "nombre": "Tostadas Keto con Queso Crema, Aguacate y Semillas",
+        "ingredientes": [
+          "2 rebanadas de pan keto",
+          "30 g queso crema",
+          "1/2 aguacate (60 g)",
+          "1 cucharadita de semillas de sésamo o chía",
+          "1 cucharada de aceite de oliva",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Tuesta el pan.",
+          "Unta con queso crema y coloca el aguacate en láminas.",
+          "Añade semillas, aceite de oliva, sal y pimienta."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 40,
+          "proteinas": 13,
+          "carbohidratos_netos": 6
+        }
+      },
+      "almuerzo": {
+        "nombre": "Lasaña de Calabacín con Ricotta y Pesto Casero",
+        "ingredientes": [
+          "1 calabacín mediano en láminas",
+          "50 g ricotta",
+          "20 g mozzarella rallada",
+          "2 cucharadas de pesto",
+          "1 cucharada de aceite de oliva",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Asa las láminas de calabacín 5 minutos.",
+          "Mezcla la ricotta con el pesto.",
+          "Monta capas de calabacín, mezcla de ricotta y queso.",
+          "Hornea 15-20 minutos a 180°C."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 66,
+          "proteinas": 24,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Crema de Calabaza con Queso Azul y Nueces Tostadas",
+        "ingredientes": [
+          "150 g calabaza cocida",
+          "30 g queso azul",
+          "30 ml nata para cocinar",
+          "10 g mantequilla",
+          "10 g nueces troceadas",
+          "Sal, pimienta y nuez moscada"
+        ],
+        "preparacion": [
+          "Tritura la calabaza con la nata, mantequilla y especias.",
+          "Calienta la crema y sirve con queso azul y nueces por encima."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 60,
+          "proteinas": 18,
+          "carbohidratos_netos": 7
+        }
+      }
+    },
+    {
+      "dia": 3,
+      "desayuno": {
+        "nombre": "Revuelto de Tofu con Espinacas, Tomate y Aguacate",
+        "ingredientes": [
+          "100 g tofu firme",
+          "30 g espinacas frescas",
+          "40 g tomate en cubitos",
+          "1/2 aguacate (60 g)",
+          "1 cucharada de aceite de oliva",
+          "Cúrcuma, ajo en polvo, sal y pimienta"
+        ],
+        "preparacion": [
+          "Desmenuza el tofu y saltéalo con las verduras y especias.",
+          "Cocina 5-6 minutos.",
+          "Sirve con el aguacate en rodajas."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 19,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Ensalada Templada de Halloumi con Calabaza Asada y Nueces",
+        "ingredientes": [
+          "100 g queso halloumi",
+          "80 g calabaza asada",
+          "30 g nueces",
+          "40 g rúcula o canónigos",
+          "1 cucharada de aceite de oliva",
+          "Semillas de sésamo, sal y pimienta"
+        ],
+        "preparacion": [
+          "Asa la calabaza al horno.",
+          "Dora el halloumi en una sartén.",
+          "Monta la ensalada con las hojas verdes, calabaza, nueces y halloumi."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 68,
+          "proteinas": 25,
+          "carbohidratos_netos": 7
+        }
+      },
+      "cena": {
+        "nombre": "Cazuela de Champiñones y Coliflor con Queso Fundido",
+        "ingredientes": [
+          "100 g coliflor en ramitos",
+          "80 g champiñones en láminas",
+          "30 g queso rallado",
+          "30 ml nata para cocinar",
+          "10 g mantequilla",
+          "Sal, pimienta y nuez moscada"
+        ],
+        "preparacion": [
+          "Saltea los champiñones y la coliflor en mantequilla.",
+          "Vierte la nata y condimenta.",
+          "Pasa a una fuente, cubre con queso y gratina en el horno."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 63,
+          "proteinas": 20,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 4,
+      "desayuno": {
+        "nombre": "Mini Quiches Keto de Espinacas, Queso y Nuez Moscada",
+        "ingredientes": [
+          "2 huevos",
+          "30 g espinacas cocidas",
+          "30 g queso rallado",
+          "30 ml nata para cocinar",
+          "1 cucharada de mantequilla",
+          "Sal, pimienta y nuez moscada"
+        ],
+        "preparacion": [
+          "Bate los huevos con la nata, especias y queso.",
+          "Añade las espinacas.",
+          "Vierte en moldes para muffins y hornea 15-20 min a 180°C."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 21,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Ensalada de Aguacate, Huevo y Queso Feta con Aceitunas",
+        "ingredientes": [
+          "1 huevo cocido",
+          "1/2 aguacate (60 g)",
+          "40 g queso feta",
+          "40 g aceitunas negras",
+          "50 g lechuga romana",
+          "1 cucharada de aceite de oliva",
+          "Orégano seco, sal y pimienta"
+        ],
+        "preparacion": [
+          "Corta todos los ingredientes.",
+          "Mezcla en un bol con las hojas verdes.",
+          "Aliña con aceite de oliva, orégano y sal."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 68,
+          "proteinas": 23,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Coliflor Gratinada con Nata, Queso y Pimentón Ahumado",
+        "ingredientes": [
+          "200 g coliflor",
+          "30 ml nata para cocinar",
+          "30 g queso rallado",
+          "1 cucharada de mantequilla",
+          "1/2 cucharadita de pimentón ahumado",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Cocina la coliflor al vapor o hervida.",
+          "Mezcla con nata, mantequilla y especias.",
+          "Pasa a una fuente, cubre con queso y gratina."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 62,
+          "proteinas": 20,
+          "carbohidratos_netos": 6
+        }
+      }
+    },
+    {
+      "dia": 5,
+      "desayuno": {
+        "nombre": "Champiñones Salteados con Ajo y Huevo a la Plancha",
+        "ingredientes": [
+          "2 huevos",
+          "80 g champiñones frescos laminados",
+          "1 diente de ajo picado",
+          "1 cucharada de mantequilla",
+          "1 cucharadita de aceite de oliva",
+          "Sal, pimienta y perejil"
+        ],
+        "preparacion": [
+          "Saltea los champiñones con ajo en mantequilla y aceite.",
+          "Cocina los huevos a la plancha.",
+          "Sirve todo junto con perejil."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 38,
+          "proteinas": 22,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Moussaka Keto de Berenjena con Ricotta y Queso Fundido",
+        "ingredientes": [
+          "1 berenjena mediana",
+          "50 g ricotta",
+          "30 ml nata para cocinar",
+          "30 g queso rallado para gratinar",
+          "1 cucharada de aceite de oliva",
+          "Sal, pimienta y orégano"
+        ],
+        "preparacion": [
+          "Asa las rodajas de berenjena 10 minutos a 180°C.",
+          "Mezcla la ricotta con nata y especias.",
+          "Monta capas de berenjena, mezcla de ricotta y queso.",
+          "Gratina 15 minutos."
+        ],
+        "nutricion": {
+          "calorias": 820,
+          "grasas": 68,
+          "proteinas": 24,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Sopa Cremosa de Brócoli con Queso Cheddar",
+        "ingredientes": [
+          "150 g brócoli cocido",
+          "30 ml nata para cocinar",
+          "40 g queso cheddar rallado",
+          "10 g mantequilla",
+          "Sal, pimienta y nuez moscada"
+        ],
+        "preparacion": [
+          "Tritura el brócoli con la nata y la mantequilla.",
+          "Calienta la crema, añade el cheddar y remueve hasta que se funda."
+        ],
+        "nutricion": {
+          "calorias": 710,
+          "grasas": 63,
+          "proteinas": 18,
+          "carbohidratos_netos": 6
+        }
+      }
+    },
+    {
+      "dia": 6,
+      "desayuno": {
+        "nombre": "Porridge de Coco y Semillas con Crema de Avellana",
+        "ingredientes": [
+          "20 g harina de coco",
+          "10 g semillas de lino molidas",
+          "150 ml bebida de almendras sin azúcar",
+          "10 g crema de avellanas 100% natural",
+          "10 g mantequilla",
+          "1 cucharada de eritritol",
+          "1/2 cucharadita de canela"
+        ],
+        "preparacion": [
+          "Calienta la bebida de almendras.",
+          "Añade harina de coco, semillas, eritritol y canela, y remueve hasta espesar.",
+          "Añade la mantequilla y sirve con la crema de avellanas."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 12,
+          "carbohidratos_netos": 6
+        }
+      },
+      "almuerzo": {
+        "nombre": "Espaguetis de Calabacín con Salsa de Queso Azul y Nueces",
+        "ingredientes": [
+          "1 calabacín mediano en tiras",
+          "30 g queso azul",
+          "30 ml nata para cocinar",
+          "10 g nueces picadas",
+          "1 cucharada de aceite de oliva",
+          "Sal, pimienta y nuez moscada"
+        ],
+        "preparacion": [
+          "Saltea el calabacín en aceite de oliva 3-4 minutos.",
+          "Calienta la nata y el queso azul hasta que se funda la salsa.",
+          "Mezcla la salsa con los espaguetis y sirve con nueces."
+        ],
+        "nutricion": {
+          "calorias": 820,
+          "grasas": 70,
+          "proteinas": 20,
+          "carbohidratos_netos": 7
+        }
+      },
+      "cena": {
+        "nombre": "Salteado de Bimi y Pimientos con Tofu Dorado y Sésamo",
+        "ingredientes": [
+          "100 g tofu firme en cubos",
+          "60 g bimi (brócoli tierno)",
+          "40 g pimiento rojo en tiras",
+          "1 cucharadita semillas de sésamo",
+          "1 cucharada de aceite de coco o oliva",
+          "Salsa de soja baja en sal (opcional)",
+          "Jengibre, sal, pimienta"
+        ],
+        "preparacion": [
+          "Saltea el tofu hasta dorar.",
+          "Saltea el bimi y el pimiento.",
+          "Junta todo, añade salsa de soja y sésamo, y cocina 1 min más."
+        ],
+        "nutricion": {
+          "calorias": 710,
+          "grasas": 60,
+          "proteinas": 22,
+          "carbohidratos_netos": 6
+        }
+      }
+    },
+    {
+      "dia": 7,
+      "desayuno": {
+        "nombre": "Pancakes de Harina de Almendra con Mantequilla y Canela",
+        "ingredientes": [
+          "30 g harina de almendra",
+          "1 huevo",
+          "30 ml bebida de almendras sin azúcar",
+          "1 cucharada de eritritol",
+          "1 cucharadita de mantequilla",
+          "1/2 cucharadita de canela"
+        ],
+        "preparacion": [
+          "Mezcla todos los ingredientes.",
+          "Cocina los pancakes en una sartén con mantequilla.",
+          "Sirve con canela espolvoreada."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 17,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Timbal de Aguacate, Queso de Cabra y Calabacín a la Plancha",
+        "ingredientes": [
+          "1/2 aguacate (60 g)",
+          "40 g queso de cabra en rulo",
+          "1 calabacín pequeño en rodajas",
+          "1 cucharada de aceite de oliva",
+          "1 cucharadita de semillas de sésamo",
+          "Sal, pimienta y orégano"
+        ],
+        "preparacion": [
+          "Asa el calabacín en una sartén.",
+          "Monta el timbal por capas: calabacín, aguacate, queso.",
+          "Espolvorea con semillas y condimenta."
+        ],
+        "nutricion": {
+          "calorias": 820,
+          "grasas": 71,
+          "proteinas": 20,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Crema de Espárragos Verdes con Parmesano y Toque de Nuez Moscada",
+        "ingredientes": [
+          "100 g espárragos verdes",
+          "30 ml nata para cocinar",
+          "30 g queso parmesano rallado",
+          "10 g mantequilla",
+          "150 ml caldo vegetal",
+          "Sal, pimienta y nuez moscada"
+        ],
+        "preparacion": [
+          "Cocina los espárragos en el caldo durante 10 min.",
+          "Añade la nata, parmesano y mantequilla, y tritura todo.",
+          "Ajusta las especias y sirve caliente."
+        ],
+        "nutricion": {
+          "calorias": 710,
+          "grasas": 61,
+          "proteinas": 20,
+          "carbohidratos_netos": 5
+        }
+      }
+    }
+  ]
+}
