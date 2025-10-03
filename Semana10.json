@@ -1,0 +1,506 @@
+{
+  "semana": 10,
+  "dias": [
+    {
+      "dia": 1,
+      "desayuno": {
+        "nombre": "Huevos Revueltos Cremosos con Queso Azul y Nueces Tostadas",
+        "ingredientes": [
+          "2 huevos",
+          "20 g queso azul",
+          "10 g nueces troceadas",
+          "10 g mantequilla",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Bate los huevos con una pizca de sal y pimienta.",
+          "En una sartén a fuego medio-bajo, derrite la mantequilla.",
+          "Añade los huevos y cocina removiendo lentamente.",
+          "Justo antes de que cuajen, incorpora el queso azul desmenuzado.",
+          "Sirve con nueces tostadas por encima."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 21,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Estofado Keto de Ternera con Verduras y Salsa de Mantequilla",
+        "ingredientes": [
+          "150 g carne de ternera para guisar",
+          "50 g calabacín en cubos",
+          "40 g pimiento rojo",
+          "40 g cebolla",
+          "1 diente de ajo",
+          "15 g mantequilla",
+          "1 cucharada aceite de oliva",
+          "1 cucharadita pimentón dulce",
+          "250 ml caldo de carne",
+          "Sal, pimienta y romero seco"
+        ],
+        "preparacion": [
+          "En una olla, calienta el aceite y dora la carne.",
+          "Añade las verduras, sal, ajo y pimentón.",
+          "Cubre con el caldo y cocina tapado 45 min a fuego lento.",
+          "Añade la mantequilla al final y mezcla hasta que la salsa quede brillante."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 66,
+          "proteinas": 48,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Gratinado de Coliflor con Bechamel Keto y Queso Fundido",
+        "ingredientes": [
+          "200 g coliflor cocida",
+          "30 g queso rallado (emmental, cheddar o gouda)",
+          "30 ml nata para cocinar",
+          "10 g mantequilla",
+          "1 pizca de nuez moscada",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Tritura la coliflor con la nata, mantequilla, sal, pimienta y nuez moscada.",
+          "Coloca en una fuente individual y cubre con el queso rallado.",
+          "Gratina al horno 10-12 minutos a 200°C hasta dorar."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 64,
+          "proteinas": 26,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 2,
+      "desayuno": {
+        "nombre": "Pan Keto a la Sartén con Mantequilla y Canela",
+        "ingredientes": [
+          "30 g harina de almendra",
+          "1 huevo",
+          "1 cucharada de mantequilla",
+          "1/2 cucharadita de canela",
+          "1 cucharada de eritritol",
+          "1/2 cucharadita de levadura química (opcional)",
+          "1 pizca de sal"
+        ],
+        "preparacion": [
+          "Mezcla todos los ingredientes en un bol hasta obtener una masa homogénea.",
+          "Cocina como si fuera una tortita gruesa en una sartén con un poco de mantequilla.",
+          "Dóralo por ambos lados y espolvorea con canela extra y eritritol si lo deseas."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 18,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Pollo Cremoso al Pimentón con Champiñones y Espinacas",
+        "ingredientes": [
+          "150 g pechuga de pollo",
+          "60 g champiñones",
+          "30 g espinacas frescas",
+          "40 ml nata para cocinar",
+          "1 cucharadita de pimentón dulce",
+          "1 cucharadita de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "Ajo, sal y pimienta"
+        ],
+        "preparacion": [
+          "Corta el pollo en cubos y dora en aceite.",
+          "Añade los champiñones y espinacas, y saltea 3-4 minutos.",
+          "Agrega la nata, mantequilla, pimentón, sal y pimienta.",
+          "Cocina a fuego bajo 5 minutos más hasta que la salsa espese."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 68,
+          "proteinas": 45,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Sopa de Ajo Keto con Huevo Escalfado y Queso Rallado",
+        "ingredientes": [
+          "2 dientes de ajo",
+          "1 huevo",
+          "30 g queso rallado (parmesano o manchego curado)",
+          "300 ml caldo de huesos o vegetal",
+          "1 cucharada de manteca o mantequilla",
+          "Pimentón dulce, sal y pimienta"
+        ],
+        "preparacion": [
+          "Lamina el ajo y sofríelo en manteca sin que se queme.",
+          "Añade pimentón, el caldo y deja hervir 5 min.",
+          "Escalfa el huevo directamente en el caldo.",
+          "Sirve en bol con el queso rallado por encima."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 62,
+          "proteinas": 28,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 3,
+      "desayuno": {
+        "nombre": "Bocaditos de Queso al Horno con Tomillo y Ajo",
+        "ingredientes": [
+          "60 g queso rallado (cheddar o mezcla 4 quesos)",
+          "1 huevo",
+          "1 cucharada de harina de almendra (opcional para más textura)",
+          "1/2 cucharadita de tomillo seco",
+          "1 pizca de ajo en polvo",
+          "Papel de horno"
+        ],
+        "preparacion": [
+          "Mezcla todos los ingredientes hasta formar una masa pegajosa.",
+          "Haz bolitas pequeñas y colócalas sobre papel de horno.",
+          "Hornea 10-12 min a 180°C hasta que estén doradas y crujientes."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 38,
+          "proteinas": 25,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Ropa Vieja Keto (Carne Desmechada con Sofrito de Verduras)",
+        "ingredientes": [
+          "150 g falda o aguja de ternera cocida y desmechada",
+          "40 g pimiento rojo",
+          "30 g cebolla",
+          "1 diente de ajo",
+          "2 cucharadas tomate natural triturado",
+          "2 cucharadas de aceite de oliva virgen extra",
+          "Sal, comino, orégano y laurel"
+        ],
+        "preparacion": [
+          "Cocina la carne en olla a presión o slow cooker hasta que se pueda desmechar.",
+          "En una sartén, haz un sofrito con ajo, cebolla y pimiento.",
+          "Añade el tomate, especias y la carne. Cocina todo junto 10 minutos."
+        ],
+        "nutricion": {
+          "calorias": 820,
+          "grasas": 70,
+          "proteinas": 45,
+          "carbohidratos_netos": 4
+        }
+      },
+      "cena": {
+        "nombre": "Crema de Calabacín con Bechamel Keto y Queso Fundido",
+        "ingredientes": [
+          "1 calabacín mediano (150 g)",
+          "30 ml nata para cocinar",
+          "30 g queso rallado (emmental o mozzarella)",
+          "10 g mantequilla",
+          "1 pizca de nuez moscada",
+          "Sal y pimienta",
+          "1 cucharadita aceite de oliva"
+        ],
+        "preparacion": [
+          "Cocina el calabacín con agua y sal hasta que esté blando.",
+          "Tritura junto con la nata, mantequilla, especias y queso (reserva un poco para gratinar).",
+          "Sirve caliente y añade el resto del queso por encima. Si quieres, gratina 3 min."
+        ],
+        "nutricion": {
+          "calorias": 710,
+          "grasas": 61,
+          "proteinas": 25,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 4,
+      "desayuno": {
+        "nombre": "Huevos al Horno con Queso, Bacon y Nata",
+        "ingredientes": [
+          "2 huevos",
+          "30 ml nata para cocinar",
+          "2 lonchas de bacon sin azúcar (aprox. 40 g)",
+          "20 g queso rallado (cheddar o gouda)",
+          "Pimienta, sal y nuez moscada"
+        ],
+        "preparacion": [
+          "Precalienta el horno a 180°C.",
+          "En un bol, bate los huevos con la nata, sal, pimienta y una pizca de nuez moscada.",
+          "Añade el bacon cortado en tiras y el queso rallado.",
+          "Vierte en una cazuela o ramequín y hornea 15-20 min hasta que cuaje."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 38,
+          "proteinas": 25,
+          "carbohidratos_netos": 2
+        }
+      },
+      "almuerzo": {
+        "nombre": "Pollo al Horno con Salsa de Mostaza y Queso Gruyère",
+        "ingredientes": [
+          "150 g muslos de pollo deshuesados",
+          "30 g queso gruyère rallado",
+          "1 cucharada de mostaza Dijon",
+          "20 ml nata para cocinar",
+          "1 cucharada de aceite de oliva",
+          "Sal, pimienta y tomillo seco"
+        ],
+        "preparacion": [
+          "Precalienta el horno a 200°C.",
+          "Coloca el pollo en una fuente y salpimienta.",
+          "Mezcla la nata con mostaza y viértela por encima.",
+          "Cubre con el queso rallado y hornea 25 min hasta dorar."
+        ],
+        "nutricion": {
+          "calorias": 820,
+          "grasas": 70,
+          "proteinas": 45,
+          "carbohidratos_netos": 4
+        }
+      },
+      "cena": {
+        "nombre": "Puré de Coliflor con Queso Crema y Mantequilla Dorada",
+        "ingredientes": [
+          "200 g coliflor cocida",
+          "30 g queso crema (mínimo 30% MG)",
+          "15 g mantequilla",
+          "1 cucharadita aceite de oliva virgen extra",
+          "Sal, pimienta y nuez moscada"
+        ],
+        "preparacion": [
+          "Tritura la coliflor caliente con el queso crema, sal, pimienta y nuez moscada.",
+          "Derrite la mantequilla en una sartén hasta que tome color dorado.",
+          "Sirve el puré y vierte la mantequilla por encima. Añade un chorrito de AOVE para rematar."
+        ],
+        "nutricion": {
+          "calorias": 710,
+          "grasas": 61,
+          "proteinas": 22,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 5,
+      "desayuno": {
+        "nombre": "Crepes Keto de Harina de Coco con Mantequilla y Nuez",
+        "ingredientes": [
+          "2 huevos",
+          "20 g harina de coco",
+          "100 ml bebida vegetal sin azúcar (almendras o coco)",
+          "10 g mantequilla (para la sartén y servir)",
+          "1 cucharada de eritritol",
+          "10 g nueces picadas",
+          "1/2 cucharadita canela"
+        ],
+        "preparacion": [
+          "Mezcla los huevos, bebida vegetal, harina de coco, eritritol y canela.",
+          "Cocina en sartén antiadherente con mantequilla, como crepes finos.",
+          "Sirve enrollados con mantequilla derretida y nueces por encima."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 16,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Costillas al Horno con Salsa de Mostaza y Mantequilla de Ajo",
+        "ingredientes": [
+          "250 g costillas de cerdo",
+          "1 cucharada mostaza Dijon",
+          "20 g mantequilla",
+          "1 diente de ajo",
+          "1 cucharadita aceite de oliva",
+          "Sal, pimienta y romero seco"
+        ],
+        "preparacion": [
+          "Precalienta el horno a 180°C.",
+          "Salpimienta las costillas y colócalas en una fuente.",
+          "Mezcla la mostaza con la mantequilla fundida, el ajo picado y el romero.",
+          "Unta las costillas y hornea 45-50 minutos. ¡Que se doren bien!"
+        ],
+        "nutricion": {
+          "calorias": 820,
+          "grasas": 68,
+          "proteinas": 46,
+          "carbohidratos_netos": 2
+        }
+      },
+      "cena": {
+        "nombre": "Pastel Keto de Pollo y Coliflor Gratinado",
+        "ingredientes": [
+          "120 g pechuga de pollo cocida y desmenuzada",
+          "200 g coliflor cocida",
+          "30 g queso rallado",
+          "30 ml nata para cocinar",
+          "10 g mantequilla",
+          "Sal, pimienta, orégano"
+        ],
+        "preparacion": [
+          "Tritura la coliflor con nata, mantequilla, sal y pimienta para hacer un puré.",
+          "En una fuente, coloca el pollo desmenuzado y cubre con el puré.",
+          "Añade queso por encima y gratina 10-12 min hasta dorar."
+        ],
+        "nutricion": {
+          "calorias": 710,
+          "grasas": 62,
+          "proteinas": 28,
+          "carbohidratos_netos": 3
+        }
+      }
+    },
+    {
+      "dia": 6,
+      "desayuno": {
+        "nombre": "Tostadas Keto con Queso Crema y Huevo Poché",
+        "ingredientes": [
+          "2 rebanadas de pan keto bajo en carbohidratos",
+          "1 huevo",
+          "30 g queso crema",
+          "1 cucharadita de vinagre",
+          "Sal, pimienta, pimentón (opcional)"
+        ],
+        "preparacion": [
+          "Tuesta el pan en sartén con un poco de mantequilla si lo deseas.",
+          "Unta con queso crema.",
+          "Pocha el huevo: hierve agua con una cucharadita de vinagre, crea un remolino, añade el huevo y cocina 3 minutos.",
+          "Coloca el huevo sobre las tostadas y espolvorea pimentón o pimienta."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 18,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Muslos de Pollo al Ajillo con Salsa Cremosa de Queso",
+        "ingredientes": [
+          "2 muslos de pollo con piel (aprox. 200 g)",
+          "1 diente de ajo",
+          "30 g queso crema",
+          "20 ml nata para cocinar",
+          "10 g mantequilla",
+          "Sal, pimienta, romero o tomillo seco"
+        ],
+        "preparacion": [
+          "Salpimienta el pollo y dóralo en sartén con mantequilla y el ajo.",
+          "Cuando esté bien dorado, añade nata y queso crema.",
+          "Cocina a fuego bajo 10 min hasta que la salsa espese y se adhiera."
+        ],
+        "nutricion": {
+          "calorias": 820,
+          "grasas": 70,
+          "proteinas": 45,
+          "carbohidratos_netos": 3
+        }
+      },
+      "cena": {
+        "nombre": "Sopa Keto de Calabacín con Huevo Batido y Queso Curado",
+        "ingredientes": [
+          "1 calabacín mediano",
+          "1 huevo",
+          "300 ml caldo de huesos o vegetal",
+          "20 g queso curado rallado",
+          "1 cucharadita mantequilla",
+          "Sal, pimienta, nuez moscada"
+        ],
+        "preparacion": [
+          "Cocina el calabacín picado en el caldo 10 minutos.",
+          "Tritura ligeramente dejando trozos.",
+          "Añade el huevo batido en hilo mientras remueves para que cuaje en hilos.",
+          "Añade la mantequilla y el queso, remueve hasta fundir."
+        ],
+        "nutricion": {
+          "calorias": 710,
+          "grasas": 60,
+          "proteinas": 25,
+          "carbohidratos_netos": 3
+        }
+      }
+    },
+    {
+      "dia": 7,
+      "desayuno": {
+        "nombre": "Muffins Keto de Almendra con Queso y Canela",
+        "ingredientes": [
+          "2 huevos",
+          "30 g harina de almendra",
+          "20 g queso crema",
+          "1 cucharada de eritritol",
+          "1 cucharadita de levadura química",
+          "1/2 cucharadita de canela",
+          "1 cucharadita de mantequilla (para engrasar los moldes)"
+        ],
+        "preparacion": [
+          "Mezcla todos los ingredientes hasta obtener una masa homogénea.",
+          "Vierte en moldes de muffins engrasados.",
+          "Hornea a 180°C durante 15-18 minutos hasta que estén dorados.",
+          "Deja templar y disfruta."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 17,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Lomo de Cerdo con Salsa de Mostaza y Parmesano Gratinado",
+        "ingredientes": [
+          "180 g lomo de cerdo",
+          "1 cucharada mostaza Dijon",
+          "30 g queso parmesano rallado",
+          "30 ml nata para cocinar",
+          "1 cucharada aceite de oliva",
+          "Sal, pimienta y orégano"
+        ],
+        "preparacion": [
+          "Dora el lomo en sartén con aceite por ambos lados.",
+          "Mezcla la nata con mostaza y una parte del parmesano.",
+          "Cubre la carne con la mezcla y espolvorea el resto del queso por encima.",
+          "Gratina en horno o air fryer 8-10 min hasta que esté dorado."
+        ],
+        "nutricion": {
+          "calorias": 820,
+          "grasas": 68,
+          "proteinas": 48,
+          "carbohidratos_netos": 3
+        }
+      },
+      "cena": {
+        "nombre": "Crema de Brócoli con Nata y Topping de Queso Crujiente",
+        "ingredientes": [
+          "150 g brócoli cocido",
+          "30 ml nata para cocinar",
+          "10 g mantequilla",
+          "20 g queso rallado (para fundir o dorar aparte como crujiente)",
+          "Sal, pimienta, nuez moscada"
+        ],
+        "preparacion": [
+          "Tritura el brócoli con la nata, mantequilla y especias hasta lograr una crema suave.",
+          "En una sartén antiadherente, dora el queso en montoncitos hasta que se endurezca (opcional).",
+          "Sirve la crema caliente con el queso crujiente encima."
+        ],
+        "nutricion": {
+          "calorias": 710,
+          "grasas": 62,
+          "proteinas": 23,
+          "carbohidratos_netos": 3
+        }
+      }
+    }
+  ]
+}
