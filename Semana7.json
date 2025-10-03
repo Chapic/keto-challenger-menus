@@ -1,0 +1,509 @@
+{
+  "semana": 7,
+  "dias": [
+    {
+      "dia": 1,
+      "desayuno": {
+        "nombre": "Tostadas Keto de Almendra con Crema de Queso y Frutos Secos",
+        "ingredientes": [
+          "2 huevos grandes",
+          "2 cucharadas de harina de almendra",
+          "1 cucharadita de mantequilla",
+          "2 cucharadas de queso crema",
+          "5 almendras picadas",
+          "1/2 cucharadita de eritritol (opcional)",
+          "Pizca de canela y sal"
+        ],
+        "preparacion": [
+          "Mezclar los huevos con la harina de almendra y la sal.",
+          "Cocinar en un molde en la air fryer a 180°C por 6-8 minutos o en sartén.",
+          "Untar el queso crema, espolvorear almendras y añadir eritritol si se desea."
+        ],
+        "nutricion": {
+          "calorias": 450,
+          "grasas": 38,
+          "proteinas": 18,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Solomillo de Cerdo en Salsa de Mostaza con Espárragos",
+        "ingredientes": [
+          "150 g de solomillo de cerdo",
+          "1 cucharada de mantequilla",
+          "1 diente de ajo picado",
+          "1 cucharadita de mostaza Dijon",
+          "2 cucharadas de nata para cocinar",
+          "100 g de espárragos verdes",
+          "Sal, pimienta y tomillo al gusto"
+        ],
+        "preparacion": [
+          "Sellar el solomillo en una sartén con mantequilla.",
+          "Colocar el solomillo en la slow cooker con ajo, mostaza, nata y especias.",
+          "Cocinar en BAJA durante 4 horas, añadiendo los espárragos en los últimos 30 minutos."
+        ],
+        "nutricion": {
+          "calorias": 750,
+          "grasas": 60,
+          "proteinas": 50,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Sopa Keto de Brócoli y Queso con Chips de Parmesano",
+        "ingredientes": [
+          "100 g de brócoli",
+          "1 diente de ajo picado",
+          "250 ml de caldo de pollo",
+          "50 ml de nata para cocinar",
+          "40 g de queso cheddar rallado",
+          "1 cucharada de aceite de oliva",
+          "20 g de queso parmesano rallado",
+          "Sal, pimienta y nuez moscada al gusto"
+        ],
+        "preparacion": [
+          "Cocinar el brócoli y el ajo en el caldo.",
+          "Triturar la sopa, añadir la nata y el queso cheddar hasta que se derrita.",
+          "Hacer chips de parmesano en una sartén y servir con la sopa."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 65,
+          "proteinas": 40,
+          "carbohidratos_netos": 7
+        }
+      }
+    },
+    {
+      "dia": 2,
+      "desayuno": {
+        "nombre": "Huevos Revueltos con Champiñones y Queso Gruyère",
+        "ingredientes": [
+          "3 huevos grandes",
+          "10 g de mantequilla",
+          "50 g de champiñones frescos, en láminas",
+          "30 g de queso Gruyère rallado",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Derretir la mantequilla en una sartén y saltear los champiñones.",
+          "Batir los huevos y agregarlos a la sartén, removiendo hasta que estén cremosos.",
+          "Agregar el queso Gruyère y mezclar."
+        ],
+        "nutricion": {
+          "calorias": 450,
+          "grasas": 37,
+          "proteinas": 25,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Albóndigas Keto en Salsa de Tomate y Parmesano",
+        "ingredientes": [
+          "150 g de carne molida de res",
+          "1 huevo",
+          "20 g de queso parmesano rallado",
+          "1 cucharadita de perejil seco",
+          "1 diente de ajo picado",
+          "100 g de tomate triturado sin azúcar",
+          "1 cucharada de aceite de oliva",
+          "1 cucharadita de orégano seco",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Mezclar la carne con huevo, parmesano, ajo y perejil para formar las albóndigas.",
+          "Colocar las albóndigas en la slow cooker con el tomate y especias.",
+          "Cocinar en BAJA durante 4 horas."
+        ],
+        "nutricion": {
+          "calorias": 750,
+          "grasas": 60,
+          "proteinas": 50,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Salmón a la Mantequilla con Espinacas Cremosas",
+        "ingredientes": [
+          "180 g de filete de salmón",
+          "1 cucharada de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "100 g de espinacas frescas",
+          "1 diente de ajo picado",
+          "50 ml de nata para cocinar",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Cocinar el salmón en una sartén con aceite.",
+          "En la misma sartén, derretir mantequilla, sofreír el ajo, añadir las espinacas y la nata.",
+          "Servir el salmón con la crema de espinacas."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 65,
+          "proteinas": 50,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 3,
+      "desayuno": {
+        "nombre": "Tortilla Keto de Espárragos y Queso de Cabra",
+        "ingredientes": [
+          "3 huevos grandes",
+          "10 g de mantequilla",
+          "50 g de espárragos verdes en trozos",
+          "30 g de queso de cabra desmenuzado",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Saltear los espárragos en mantequilla.",
+          "Batir los huevos con el queso de cabra, sal y pimienta.",
+          "Verter en la sartén y cocinar a fuego bajo hasta que cuaje."
+        ],
+        "nutricion": {
+          "calorias": 460,
+          "grasas": 38,
+          "proteinas": 25,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Pechuga de Pollo en Salsa de Champiñones y Nata",
+        "ingredientes": [
+          "150 g de pechuga de pollo",
+          "1 diente de ajo picado",
+          "50 g de champiñones frescos en láminas",
+          "50 ml de nata para cocinar",
+          "10 g de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "Sal, pimienta y nuez moscada al gusto"
+        ],
+        "preparacion": [
+          "Dorar el pollo en una sartén con aceite y mantequilla.",
+          "Añadir los champiñones y el ajo.",
+          "Verter la nata y las especias, y cocinar 5 minutos."
+        ],
+        "nutricion": {
+          "calorias": 760,
+          "grasas": 64,
+          "proteinas": 50,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Filete de Res a la Mantequilla con Espinacas Salteadas",
+        "ingredientes": [
+          "180 g de filete de res",
+          "10 g de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "100 g de espinacas frescas",
+          "1 diente de ajo picado",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Cocinar el filete en una sartén con aceite y mantequilla.",
+          "Retirar la carne y saltear el ajo y las espinacas en la misma sartén.",
+          "Servir el filete con las espinacas."
+        ],
+        "nutricion": {
+          "calorias": 780,
+          "grasas": 68,
+          "proteinas": 50,
+          "carbohidratos_netos": 3
+        }
+      }
+    },
+    {
+      "dia": 4,
+      "desayuno": {
+        "nombre": "Crepes Keto de Almendra con Nata y Frutos Rojos",
+        "ingredientes": [
+          "2 huevos",
+          "30 g de harina de almendra",
+          "50 ml de leche de almendras sin azúcar",
+          "1 cucharadita de mantequilla",
+          "30 g de frutos rojos",
+          "30 ml de nata para montar",
+          "1 cucharada de eritritol (opcional)"
+        ],
+        "preparacion": [
+          "Batir los huevos con la harina y la leche de almendras.",
+          "Cocinar los crepes en una sartén con mantequilla.",
+          "Rellenar con nata montada y frutos rojos."
+        ],
+        "nutricion": {
+          "calorias": 450,
+          "grasas": 38,
+          "proteinas": 20,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Muslos de Pollo al Limón con Espárragos a la Plancha",
+        "ingredientes": [
+          "2 muslos de pollo deshuesados",
+          "Jugo de 1/2 limón",
+          "1 diente de ajo picado",
+          "100 g de espárragos verdes",
+          "10 g de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "Sal, pimienta y orégano al gusto"
+        ],
+        "preparacion": [
+          "Marinar el pollo con limón, ajo y especias.",
+          "Cocinar el pollo en una sartén con mantequilla y aceite.",
+          "Saltear los espárragos en la misma sartén."
+        ],
+        "nutricion": {
+          "calorias": 750,
+          "grasas": 60,
+          "proteinas": 50,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Sopa Keto de Calabacín y Queso Parmesano",
+        "ingredientes": [
+          "100 g de calabacín en trozos",
+          "1 diente de ajo picado",
+          "250 ml de caldo de pollo",
+          "50 ml de nata para cocinar",
+          "40 g de queso parmesano rallado",
+          "10 g de mantequilla",
+          "Sal, pimienta y nuez moscada al gusto"
+        ],
+        "preparacion": [
+          "Sofreír el ajo, añadir el calabacín y el caldo, y cocinar 15 minutos.",
+          "Triturar la sopa, añadir la nata y el parmesano, y remover."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 66,
+          "proteinas": 45,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 5,
+      "desayuno": {
+        "nombre": "Pan Keto Rápido con Aguacate y Huevo a la Plancha",
+        "ingredientes": [
+          "1 huevo (para el pan)",
+          "2 cucharadas de harina de almendra",
+          "1/2 cucharadita de polvo de hornear",
+          "1 huevo (para la plancha)",
+          "1/2 aguacate",
+          "1 cucharadita de mantequilla",
+          "Pizca de sal"
+        ],
+        "preparacion": [
+          "Mezclar huevo, harina de almendra, sal y polvo de hornear. Cocinar 90 segundos en microondas.",
+          "Tostar el pan y cocinar el huevo a la plancha.",
+          "Montar la tostada con el aguacate y el huevo."
+        ],
+        "nutricion": {
+          "calorias": 460,
+          "grasas": 38,
+          "proteinas": 20,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Albóndigas de Pavo en Salsa Cremosa de Queso Azul",
+        "ingredientes": [
+          "150 g de carne picada de pavo",
+          "30 g de queso azul",
+          "1 diente de ajo picado",
+          "50 ml de nata para cocinar",
+          "10 g de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "Perejil picado, sal y pimienta"
+        ],
+        "preparacion": [
+          "Mezclar el pavo con sal, pimienta y ajo, y formar albóndigas.",
+          "Freír las albóndigas en aceite y mantequilla.",
+          "Añadir la nata y el queso azul, y cocinar 5 minutos."
+        ],
+        "nutricion": {
+          "calorias": 760,
+          "grasas": 64,
+          "proteinas": 45,
+          "carbohidratos_netos": 4
+        }
+      },
+      "cena": {
+        "nombre": "Lasaña Keto de Calabacín y Carne con Mozzarella",
+        "ingredientes": [
+          "150 g de carne picada de ternera",
+          "30 g de cebolla picada",
+          "1 diente de ajo",
+          "100 g de calabacín en láminas",
+          "50 g de tomate triturado sin azúcar",
+          "40 g de queso mozzarella rallado",
+          "10 g de queso parmesano",
+          "Sal, pimienta, orégano",
+          "1 cucharada de aceite de oliva"
+        ],
+        "preparacion": [
+          "Saltear la carne con las verduras y el tomate.",
+          "Montar capas de calabacín, carne y mozzarella.",
+          "Espolvorear parmesano y hornear 15-20 minutos a 180°C."
+        ],
+        "nutricion": {
+          "calorias": 780,
+          "grasas": 65,
+          "proteinas": 45,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 6,
+      "desayuno": {
+        "nombre": "Yogur Griego Keto con Nueces y Semillas de Chía",
+        "ingredientes": [
+          "150 g de yogur griego natural sin azúcar",
+          "15 g de nueces troceadas",
+          "10 g de semillas de chía",
+          "1 cucharada de eritritol o stevia",
+          "1/2 cucharadita de canela (opcional)"
+        ],
+        "preparacion": [
+          "Mezclar el yogur con el edulcorante y la canela.",
+          "Añadir las nueces y las semillas de chía.",
+          "Servir frío."
+        ],
+        "nutricion": {
+          "calorias": 460,
+          "grasas": 36,
+          "proteinas": 20,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Hamburguesa Keto con Queso, Bacon y Aguacate",
+        "ingredientes": [
+          "150 g de carne picada de ternera 80/20",
+          "2 tiras de bacon",
+          "1 loncha de queso cheddar (30 g)",
+          "1/2 aguacate",
+          "Hojas de lechuga",
+          "Sal, pimienta y orégano"
+        ],
+        "preparacion": [
+          "Formar y cocinar la hamburguesa.",
+          "Cocinar el bacon.",
+          "Fundir el queso sobre la carne.",
+          "Montar en hojas de lechuga con aguacate y bacon."
+        ],
+        "nutricion": {
+          "calorias": 780,
+          "grasas": 65,
+          "proteinas": 45,
+          "carbohidratos_netos": 3
+        }
+      },
+      "cena": {
+        "nombre": "Merluza al Horno con Alioli Keto y Calabacín Salteado",
+        "ingredientes": [
+          "180 g de filete de merluza",
+          "100 g de calabacín en rodajas",
+          "1 diente de ajo",
+          "1 cucharada de aceite de oliva",
+          "1 cucharada de mayonesa keto",
+          "1/2 diente de ajo machacado (para alioli)",
+          "Sal, pimienta, limón"
+        ],
+        "preparacion": [
+          "Hornear la merluza 12-15 min a 180°C.",
+          "Saltear el calabacín con ajo y aceite.",
+          "Mezclar la mayonesa con el ajo para hacer el alioli y servir sobre la merluza."
+        ],
+        "nutricion": {
+          "calorias": 760,
+          "grasas": 66,
+          "proteinas": 45,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 7,
+      "desayuno": {
+        "nombre": "Revuelto Keto de Bacon, Espinacas y Queso de Cabra",
+        "ingredientes": [
+          "2 huevos grandes",
+          "30 g de espinacas frescas",
+          "2 tiras de bacon",
+          "30 g de queso de cabra desmenuzado",
+          "1 cucharadita de mantequilla",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Cocinar el bacon hasta que esté crujiente.",
+          "Saltear las espinacas en mantequilla.",
+          "Añadir los huevos batidos y cocinar.",
+          "Incorporar el queso de cabra y servir con el bacon."
+        ],
+        "nutricion": {
+          "calorias": 460,
+          "grasas": 38,
+          "proteinas": 22,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Solomillo de Ternera con Salsa de Mostaza y Puré de Coliflor",
+        "ingredientes": [
+          "180 g de solomillo de ternera",
+          "1 cucharadita de mostaza Dijon",
+          "50 ml de nata para cocinar",
+          "1 cucharada de mantequilla",
+          "1 diente de ajo",
+          "100 g de coliflor cocida",
+          "Sal, pimienta, nuez moscada"
+        ],
+        "preparacion": [
+          "Hacer un puré con la coliflor, mantequilla y especias.",
+          "Cocinar el solomillo en una sartén.",
+          "Hacer una salsa en la misma sartén con mostaza y nata.",
+          "Servir el solomillo con la salsa y el puré."
+        ],
+        "nutricion": {
+          "calorias": 780,
+          "grasas": 66,
+          "proteinas": 45,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Sopa de Marisco Keto con Nata y Azafrán",
+        "ingredientes": [
+          "150 g de marisco mixto",
+          "1/2 cebolla picada",
+          "1 diente de ajo",
+          "10 g de mantequilla",
+          "1 cucharada de aceite de oliva",
+          "50 ml de nata para cocinar",
+          "250 ml de caldo de pescado",
+          "1 pizca de azafrán o cúrcuma",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Sofreír la cebolla y el ajo.",
+          "Añadir el marisco y cocinar 3-4 minutos.",
+          "Incorporar el caldo, nata y azafrán, y cocinar 10 minutos a fuego bajo."
+        ],
+        "nutricion": {
+          "calorias": 760,
+          "grasas": 64,
+          "proteinas": 43,
+          "carbohidratos_netos": 4
+        }
+      }
+    }
+  ]
+}
