@@ -1,0 +1,539 @@
+{
+  "semana": 4,
+  "dias": [
+    {
+      "dia": 1,
+      "desayuno": {
+        "nombre": "Crepes de Harina de Almendra con Nata y Frutos Rojos",
+        "ingredientes": [
+          "2 huevos grandes",
+          "40 g de harina de almendra",
+          "50 ml de leche de almendra sin azúcar",
+          "10 g de mantequilla derretida",
+          "10 g de eritritol",
+          "30 g de nata montada sin azúcar",
+          "20 g de frutos rojos (arándanos o frambuesas)"
+        ],
+        "preparacion": [
+          "Bate los huevos con la leche de almendra y el eritritol.",
+          "Agrega la harina de almendra y mezcla hasta obtener una masa líquida sin grumos.",
+          "Calienta una sartén con mantequilla y cocina los crepes a fuego medio durante 2 minutos por lado.",
+          "Sirve con nata montada y frutos rojos."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 52,
+          "proteinas": 16,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Salmón a la Plancha con Salsa de Mantequilla y Espárragos",
+        "ingredientes": [
+          "150 g de salmón fresco",
+          "30 g de mantequilla",
+          "50 g de espárragos verdes",
+          "10 g de aceite de oliva",
+          "Jugo de medio limón",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Cocina el salmón en una sartén con aceite de oliva hasta que esté dorado.",
+          "Derrite la mantequilla con el jugo de limón y vierte sobre el salmón.",
+          "Cocina los espárragos en la misma sartén hasta que estén tiernos.",
+          "Sirve caliente con la salsa de mantequilla."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 72,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Chuletas de Cerdo con Salsa de Queso y Puré de Coliflor",
+        "ingredientes": [
+          "150 g de chuleta de cerdo",
+          "50 g de queso crema",
+          "50 g de coliflor cocida",
+          "10 g de mantequilla",
+          "10 g de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Cocina la chuleta en una sartén con aceite de oliva hasta dorarla.",
+          "En un bol, tritura la coliflor con la mantequilla y salpimienta al gusto.",
+          "Derrite el queso crema en la sartén y úsalo como salsa para la carne.",
+          "Sirve la chuleta con el puré de coliflor y la salsa de queso."
+        ],
+        "nutricion": {
+          "calorias": 700,
+          "grasas": 65,
+          "proteinas": 25,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 2,
+      "desayuno": {
+        "nombre": "Yogur Keto con Nueces y Semillas",
+        "ingredientes": [
+          "150 g de yogur griego sin azúcar",
+          "30 g de nueces picadas",
+          "10 g de semillas de chía",
+          "10 g de eritritol (opcional)",
+          "5 g de canela en polvo"
+        ],
+        "preparacion": [
+          "En un bol, mezcla el yogur con el eritritol y la canela.",
+          "Añade las nueces y las semillas de chía por encima.",
+          "Sirve frío y disfruta."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 52,
+          "proteinas": 16,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Entrecot a la Parrilla con Mantequilla de Hierbas y Espárragos",
+        "ingredientes": [
+          "150 g de entrecot de ternera",
+          "10 g de mantequilla con ajo y perejil",
+          "50 g de espárragos verdes",
+          "10 g de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Cocina el entrecot en una parrilla caliente con sal y pimienta hasta alcanzar el punto deseado.",
+          "En la misma parrilla, saltea los espárragos con aceite de oliva.",
+          "Sirve el entrecot con la mantequilla derretida por encima y los espárragos como guarnición."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 72,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      },
+      "cena": {
+        "nombre": "Merluza al Horno con Salsa de Mostaza y Ensalada de Aguacate",
+        "ingredientes": [
+          "150 g de filete de merluza",
+          "10 g de mostaza Dijon (sin azúcar)",
+          "10 g de mantequilla",
+          "100 g de aguacate en cubos",
+          "50 g de lechuga variada",
+          "10 g de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Coloca la merluza en una bandeja para horno, úntala con la mostaza y añade mantequilla por encima.",
+          "Hornea a 180°C durante 15 minutos.",
+          "Mezcla el aguacate con la lechuga y adereza con aceite de oliva, sal y pimienta.",
+          "Sirve la merluza con la ensalada como acompañamiento."
+        ],
+        "nutricion": {
+          "calorias": 700,
+          "grasas": 65,
+          "proteinas": 25,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 3,
+      "desayuno": {
+        "nombre": "Pancakes de Harina de Coco con Mantequilla de Almendra",
+        "ingredientes": [
+          "2 huevos grandes",
+          "30 g de harina de coco",
+          "10 g de eritritol o stevia",
+          "5 g de polvo de hornear",
+          "20 ml de leche de almendra sin azúcar",
+          "10 g de mantequilla derretida",
+          "10 g de mantequilla de almendra",
+          "5 g de canela en polvo",
+          "1 cucharadita de extracto de vainilla",
+          "10 g de nata montada sin azúcar"
+        ],
+        "preparacion": [
+          "En un bol, batir los huevos con el eritritol y la vainilla.",
+          "Agregar la harina de coco y el polvo de hornear, mezclando hasta obtener una masa homogénea.",
+          "Añadir la leche de almendra y la mantequilla derretida.",
+          "Calentar una sartén con un poco de mantequilla y verter la mezcla formando dos pancakes.",
+          "Cocinar a fuego medio hasta que salgan burbujas en la superficie, luego voltear y cocinar 1 minuto más.",
+          "Servir con mantequilla de almendra y nata montada."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 45,
+          "proteinas": 18,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Costillas de Cerdo al Estilo BBQ Keto con Ensalada de Col",
+        "ingredientes": [
+          "250 g de costillas de cerdo",
+          "15 g de aceite de oliva",
+          "10 g de mantequilla",
+          "30 g de salsa BBQ keto (sin azúcar)",
+          "100 g de col rallada",
+          "30 g de mayonesa sin azúcar",
+          "10 g de vinagre de manzana",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar el horno a 160°C.",
+          "Mezclar la salsa BBQ keto con aceite de oliva y untar bien las costillas.",
+          "Hornear durante 2 horas a baja temperatura, cubiertas con papel de aluminio.",
+          "Mezclar la col rallada con mayonesa, vinagre, sal y pimienta para hacer la ensalada.",
+          "Retirar las costillas del horno, agregar mantequilla derretida y servir con la ensalada."
+        ],
+        "nutricion": {
+          "calorias": 900,
+          "grasas": 80,
+          "proteinas": 40,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Ensalada de Atún con Aguacate y Huevo",
+        "ingredientes": [
+          "120 g de atún en aceite de oliva (escurrido)",
+          "1/2 aguacate (100 g)",
+          "1 huevo cocido",
+          "20 g de mayonesa sin azúcar",
+          "10 g de mostaza Dijon",
+          "20 g de pepinillos en vinagre (picados)",
+          "30 g de lechuga mixta",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Mezclar el atún con la mayonesa, la mostaza y los pepinillos picados.",
+          "Cortar el aguacate en cubos y el huevo cocido en rodajas.",
+          "En un plato, disponer la lechuga, añadir la mezcla de atún y colocar el aguacate y el huevo por encima.",
+          "Condimentar con sal y pimienta al gusto."
+        ],
+        "nutricion": {
+          "calorias": 600,
+          "grasas": 55,
+          "proteinas": 30,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 4,
+      "desayuno": {
+        "nombre": "Huevos Revueltos con Queso y Espinacas",
+        "ingredientes": [
+          "2 huevos grandes",
+          "30 g de queso crema",
+          "10 g de mantequilla",
+          "50 g de espinacas frescas",
+          "Sal y pimienta al gusto",
+          "10 g de queso parmesano rallado"
+        ],
+        "preparacion": [
+          "En un sartén, derretir la mantequilla y saltear las espinacas.",
+          "Batir los huevos con el queso crema y añadir a la sartén.",
+          "Cocinar a fuego lento, revolviendo suavemente.",
+          "Servir con queso parmesano espolvoreado."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 45,
+          "proteinas": 20,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Pechuga de Pollo con Salsa de Queso y Brócoli al Vapor",
+        "ingredientes": [
+          "150 g de pechuga de pollo",
+          "20 g de aceite de oliva",
+          "50 g de queso cheddar rallado",
+          "50 ml de crema de leche",
+          "100 g de brócoli",
+          "Sal, ajo en polvo y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Cocinar la pechuga de pollo en una sartén con aceite de oliva.",
+          "Calentar la crema de leche y agregar el queso cheddar hasta derretirlo.",
+          "Cocer el brócoli al vapor.",
+          "Servir el pollo con la salsa de queso y el brócoli."
+        ],
+        "nutricion": {
+          "calorias": 850,
+          "grasas": 75,
+          "proteinas": 50,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Ensalada de Camarones con Aguacate y Aliño de Mostaza",
+        "ingredientes": [
+          "100 g de camarones cocidos",
+          "1/2 aguacate (100 g)",
+          "30 g de lechuga mixta",
+          "20 g de mayonesa sin azúcar",
+          "10 g de mostaza Dijon",
+          "10 g de aceite de oliva",
+          "10 g de almendras fileteadas",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Mezclar la mayonesa con la mostaza y el aceite de oliva.",
+          "Cortar el aguacate y mezclar con los camarones y la lechuga.",
+          "Agregar el aliño y espolvorear almendras."
+        ],
+        "nutricion": {
+          "calorias": 650,
+          "grasas": 60,
+          "proteinas": 25,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 5,
+      "desayuno": {
+        "nombre": "Tostadas Keto de Harina de Almendra con Mantequilla y Canela",
+        "ingredientes": [
+          "50 g de harina de almendra",
+          "1 huevo grande",
+          "10 g de mantequilla derretida",
+          "1/2 cucharadita de polvo de hornear",
+          "1 cucharada de leche de almendra sin azúcar",
+          "1 cucharadita de eritritol",
+          "1/2 cucharadita de canela en polvo",
+          "10 g de mantequilla para untar"
+        ],
+        "preparacion": [
+          "Mezclar todos los ingredientes.",
+          "Cocinar en un molde para microondas durante 90 segundos.",
+          "Tostar en una sartén con mantequilla.",
+          "Espolvorear con canela y servir con más mantequilla."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 45,
+          "proteinas": 15,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Albóndigas de Res en Salsa de Tomate Keto con Puré de Coliflor",
+        "ingredientes": [
+          "200 g de carne de res molida",
+          "1 huevo",
+          "30 g de queso parmesano rallado",
+          "10 g de harina de almendra",
+          "1 diente de ajo picado",
+          "10 g de perejil picado",
+          "100 g de puré de tomate sin azúcar",
+          "10 ml de aceite de oliva",
+          "150 g de coliflor",
+          "20 g de mantequilla",
+          "10 g de queso crema",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Mezclar la carne con huevo, parmesano, harina de almendra, ajo, perejil, sal y pimienta.",
+          "Formar albóndigas y dorarlas en una sartén con aceite.",
+          "Agregar el puré de tomate y cocinar por 10 minutos.",
+          "Hervir la coliflor y triturar con mantequilla y queso crema.",
+          "Servir las albóndigas sobre el puré."
+        ],
+        "nutricion": {
+          "calorias": 850,
+          "grasas": 75,
+          "proteinas": 50,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Ensalada César Keto con Pollo y Aderezo Casero",
+        "ingredientes": [
+          "120 g de pechuga de pollo a la parrilla",
+          "50 g de lechuga romana",
+          "20 g de queso parmesano rallado",
+          "10 g de almendras fileteadas",
+          "10 ml de aceite de oliva",
+          "20 g de mayonesa sin azúcar",
+          "10 g de mostaza Dijon",
+          "10 g de jugo de limón",
+          "1 diente de ajo picado",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Mezclar los ingredientes del aderezo.",
+          "Cortar el pollo en tiras y dorar en una sartén.",
+          "Mezclar la lechuga con el aderezo y agregar el pollo.",
+          "Espolvorear con parmesano y almendras."
+        ],
+        "nutricion": {
+          "calorias": 650,
+          "grasas": 60,
+          "proteinas": 30,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 6,
+      "desayuno": {
+        "nombre": "Batido Keto de Aguacate, Coco y Proteína",
+        "ingredientes": [
+          "1/2 aguacate (100 g)",
+          "200 ml de leche de coco sin azúcar",
+          "30 g de proteína en polvo sabor vainilla",
+          "10 g de semillas de chía",
+          "1 cucharadita de canela en polvo",
+          "1 cucharadita de eritritol o monk fruit",
+          "5 cubos de hielo"
+        ],
+        "preparacion": [
+          "Agregar todos los ingredientes a una licuadora.",
+          "Batir hasta obtener una mezcla homogénea y cremosa.",
+          "Servir frío."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 45,
+          "proteinas": 20,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Salmón a la Parrilla con Espárragos y Salsa de Mantequilla y Limón",
+        "ingredientes": [
+          "150 g de filete de salmón",
+          "10 g de mantequilla",
+          "10 ml de aceite de oliva",
+          "Jugo de 1/2 limón",
+          "100 g de espárragos",
+          "1 diente de ajo picado",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Cocinar el salmón en una sartén caliente con aceite de oliva.",
+          "Añadir la mantequilla, el jugo de limón y el ajo sobre el salmón.",
+          "Cocinar los espárragos en otra sartén.",
+          "Servir el salmón con la salsa y los espárragos."
+        ],
+        "nutricion": {
+          "calorias": 850,
+          "grasas": 75,
+          "proteinas": 50,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Rollitos de Jamón y Queso con Ensalada de Aguacate",
+        "ingredientes": [
+          "100 g de jamón serrano o de pavo",
+          "50 g de queso crema",
+          "1/2 aguacate (100 g)",
+          "30 g de lechuga mixta",
+          "10 g de almendras fileteadas",
+          "10 ml de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Extender las lonchas de jamón y untar con queso crema.",
+          "Enrollar y cortar en porciones.",
+          "Cortar el aguacate y mezclar con la lechuga y las almendras.",
+          "Aliñar la ensalada y servir junto a los rollitos."
+        ],
+        "nutricion": {
+          "calorias": 650,
+          "grasas": 60,
+          "proteinas": 30,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 7,
+      "desayuno": {
+        "nombre": "Omelette Relleno de Queso y Champiñones con Aguacate",
+        "ingredientes": [
+          "2 huevos grandes",
+          "50 g de champiñones en rodajas",
+          "30 g de queso mozzarella rallado",
+          "1/2 aguacate (100 g)",
+          "10 g de mantequilla",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Derretir la mantequilla en una sartén y saltear los champiñones.",
+          "Batir los huevos y verterlos en la sartén.",
+          "Cuando empiece a cuajar, añadir el queso y los champiñones.",
+          "Doblar la tortilla y cocinar 1 minuto más.",
+          "Servir con el aguacate en rodajas."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 45,
+          "proteinas": 20,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Chuletas de Cerdo con Salsa de Mostaza y Ensalada Verde",
+        "ingredientes": [
+          "200 g de chuleta de cerdo",
+          "10 g de mantequilla",
+          "10 ml de aceite de oliva",
+          "30 g de mostaza Dijon",
+          "20 ml de crema de leche",
+          "100 g de lechuga mixta",
+          "10 g de almendras fileteadas",
+          "10 ml de aceite de oliva para la ensalada",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Dorar las chuletas en una sartén con aceite.",
+          "Retirar las chuletas y en la misma sartén agregar mantequilla, mostaza y crema.",
+          "Cocinar a fuego bajo e incorporar las chuletas.",
+          "Mezclar la lechuga con almendras y aliñar.",
+          "Servir las chuletas con la salsa y la ensalada."
+        ],
+        "nutricion": {
+          "calorias": 850,
+          "grasas": 75,
+          "proteinas": 50,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Rollitos de Salmón Ahumado con Queso Crema y Pepino",
+        "ingredientes": [
+          "100 g de salmón ahumado",
+          "50 g de queso crema",
+          "50 g de pepino en tiras",
+          "10 g de eneldo fresco",
+          "10 ml de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Extender el salmón y untar con queso crema.",
+          "Colocar las tiras de pepino y espolvorear con eneldo.",
+          "Enrollar y cortar en porciones.",
+          "Rociar con aceite de oliva y servir."
+        ],
+        "nutricion": {
+          "calorias": 650,
+          "grasas": 60,
+          "proteinas": 30,
+          "carbohidratos_netos": 4
+        }
+      }
+    }
+  ]
+}
