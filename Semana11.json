@@ -1,0 +1,524 @@
+{
+  "semana": 11,
+  "dias": [
+    {
+      "dia": 1,
+      "desayuno": {
+        "nombre": "Tiramisú Keto Exprés",
+        "ingredientes": [
+          "100 g queso mascarpone",
+          "1 huevo (separar clara y yema)",
+          "1 cucharada de eritritol",
+          "1 cucharadita de café soluble",
+          "30 ml agua caliente",
+          "1 cucharadita de cacao puro en polvo",
+          "1/4 cucharadita de extracto de vainilla"
+        ],
+        "preparacion": [
+          "Disuelve el café en el agua caliente. Reserva.",
+          "Bate la yema con el eritritol y la vainilla hasta que aclare.",
+          "Añade el mascarpone y mezcla bien.",
+          "Aparte, monta la clara a punto de nieve y agrégala suavemente.",
+          "En un vasito, monta capas de crema y chorritos del café reservado.",
+          "Refrigera 15-30 minutos y espolvorea con cacao antes de servir."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 41,
+          "proteinas": 13,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Lasaña de Berenjena Keto alla Parmigiana",
+        "ingredientes": [
+          "1 berenjena mediana en rodajas (160 g aprox.)",
+          "100 g carne picada de ternera 80/20",
+          "60 g salsa de tomate sin azúcar",
+          "30 g queso mozzarella rallado",
+          "30 g queso parmesano rallado",
+          "1 cucharada de aceite de oliva virgen extra",
+          "Orégano, sal, pimienta"
+        ],
+        "preparacion": [
+          "Asa las rodajas de berenjena con un poco de aceite hasta dorar.",
+          "Cocina la carne con salsa de tomate y orégano.",
+          "Monta en una fuente: capa de berenjena, carne, queso, y repite.",
+          "Espolvorea parmesano por encima y hornea 15 min a 180°C."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 65,
+          "proteinas": 45,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Salmón al Pesto con Espaguetis de Calabacín",
+        "ingredientes": [
+          "150 g lomo de salmón",
+          "1 calabacín pequeño en espaguetis",
+          "1 cucharada de pesto casero keto",
+          "1 cucharadita de aceite de oliva",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Cocina el salmón a la plancha o al horno con sal y pimienta.",
+          "Saltea los espaguetis de calabacín 2-3 minutos con un poco de aceite.",
+          "Añade el pesto y mezcla bien fuera del fuego.",
+          "Sirve el salmón sobre una cama de calabacín al pesto."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 61,
+          "proteinas": 39,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 2,
+      "desayuno": {
+        "nombre": "Huevos Rancheros Keto sobre Tortitas de Coco",
+        "ingredientes": [
+          "2 huevos",
+          "1 cucharada de aceite de coco o de oliva",
+          "30 g salsa de tomate natural sin azúcar",
+          "1 cucharada de cebolla picada",
+          "1/2 chile picado o una pizca de chile en polvo (opcional)",
+          "1 tortita keto de coco (20g harina de coco, 1 huevo, 30ml agua, 1 pizca de sal)",
+          "Cilantro fresco, sal y pimienta"
+        ],
+        "preparacion": [
+          "Mezcla los ingredientes de la tortita y cocina en sartén antiadherente hasta dorar por ambos lados.",
+          "En otra sartén, sofríe cebolla y chile con un poco de aceite. Añade la salsa de tomate, salpimienta y cocina 3-4 min.",
+          "Fríe los huevos al gusto.",
+          "Monta sobre la tortita: primero la salsa, luego los huevos, y decora con cilantro."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 17,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Tacos Keto de Carne Asada con Guacamole y Queso",
+        "ingredientes": [
+          "150 g carne de ternera (tipo entrecot o tapa)",
+          "2 tortillas keto pequeñas o 2 hojas grandes de lechuga",
+          "1/2 aguacate (60 g)",
+          "20 g queso rallado (cheddar o mezcla)",
+          "1 cucharada de aceite de oliva",
+          "1 cucharadita de zumo de lima",
+          "Sal, comino, ajo en polvo, pimienta"
+        ],
+        "preparacion": [
+          "Salpimienta la carne y cocínala a la plancha hasta el punto deseado. Corta en tiras.",
+          "Prepara un guacamole rápido triturando el aguacate con lima, sal y un toque de comino.",
+          "Monta los tacos: carne, guacamole, queso rallado.",
+          "Sirve con un chorrito de aceite de oliva por encima."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 65,
+          "proteinas": 45,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Sopa de Pollo Picante al Estilo Azteca (Versión Keto)",
+        "ingredientes": [
+          "150 g pechuga de pollo cocida y desmenuzada",
+          "200 ml caldo de pollo casero",
+          "20 g pimiento rojo en tiras",
+          "30 g queso rallado (cheddar o mozzarella)",
+          "1 cucharada de nata para cocinar",
+          "1 cucharadita de pimentón o chile suave",
+          "1 cucharadita de mantequilla",
+          "Aguacate y cilantro para decorar"
+        ],
+        "preparacion": [
+          "Sofríe el pimiento con mantequilla y pimentón. Añade el pollo desmenuzado.",
+          "Vierte el caldo y deja hervir 5-6 minutos. Añade la nata y el queso rallado.",
+          "Cocina 2-3 minutos más y ajusta sal y especias.",
+          "Sirve con rodajas de aguacate y cilantro fresco."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 60,
+          "proteinas": 38,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 3,
+      "desayuno": {
+        "nombre": "Tortilla Japonesa Keto 'Tamagoyaki' al estilo low carb",
+        "ingredientes": [
+          "2 huevos",
+          "1 cucharadita de eritritol",
+          "1 cucharadita de salsa de soja baja en sal",
+          "1 cucharadita de aceite de sésamo o mantequilla",
+          "1 pizca de sal",
+          "Opcional: alga nori en tiras"
+        ],
+        "preparacion": [
+          "Bate los huevos con eritritol, salsa de soja y sal.",
+          "Calienta una sartén antiadherente con el aceite y vierte una fina capa de huevo.",
+          "Cuando empiece a cuajar, enróllala y deslízala a un lado de la sartén.",
+          "Añade otra capa de huevo, enrolla sobre el anterior. Repite hasta acabar.",
+          "Corta en rodajas y sirve con alga nori si deseas."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 20,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Sushi Keto con Arroz de Coliflor y Aguacate",
+        "ingredientes": [
+          "100 g coliflor rallada (tipo arroz)",
+          "1/2 cucharadita de vinagre de arroz",
+          "1 cucharadita de eritritol",
+          "2 láminas de alga nori",
+          "40 g aguacate en tiras",
+          "40 g queso crema",
+          "2 lonchas de salmón ahumado o 80 g de atún natural",
+          "Semillas de sésamo, salsa de soja baja en sal"
+        ],
+        "preparacion": [
+          "Cocina la coliflor en sartén hasta que esté seca y tierna. Añade vinagre y eritritol.",
+          "Extiende el arroz de coliflor sobre la hoja de alga.",
+          "Rellena con aguacate, queso crema y salmón o atún.",
+          "Enrolla firmemente, corta en piezas y espolvorea con sésamo.",
+          "Sirve con salsa de soja."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 67,
+          "proteinas": 32,
+          "carbohidratos_netos": 7
+        }
+      },
+      "cena": {
+        "nombre": "Sopa Miso Keto con Champiñones, Tofu y Alga Wakame",
+        "ingredientes": [
+          "250 ml caldo de verduras o dashi keto",
+          "30 g pasta de miso sin azúcar añadida",
+          "50 g tofu firme en cubos",
+          "30 g champiñones en láminas",
+          "1 cucharada alga wakame hidratada",
+          "1 cucharada de aceite de sésamo",
+          "Cebollino o puerro picado"
+        ],
+        "preparacion": [
+          "Calienta el caldo con los champiñones.",
+          "Añade el tofu y alga wakame, cocina 3-4 min.",
+          "Disuelve el miso aparte en caldo caliente y añade a la sopa sin hervir.",
+          "Añade aceite de sésamo y cebollino justo al servir."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 63,
+          "proteinas": 21,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 4,
+      "desayuno": {
+        "nombre": "Yogur Griego con Nueces, Canela y Toque de Coco",
+        "ingredientes": [
+          "120 g yogur griego natural (10% MG, sin azúcar)",
+          "10 g nueces picadas",
+          "1 cucharadita de coco rallado",
+          "1 cucharada de eritritol",
+          "1/2 cucharadita de canela"
+        ],
+        "preparacion": [
+          "Coloca el yogur en un bol.",
+          "Mezcla con eritritol y canela.",
+          "Añade las nueces y el coco rallado por encima.",
+          "Sirve frío."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 14,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Moussaka Keto con Berenjena, Carne y Bechamel de Coliflor",
+        "ingredientes": [
+          "120 g carne picada de ternera o mixta",
+          "1/2 berenjena en rodajas",
+          "50 g coliflor cocida",
+          "30 ml nata para cocinar",
+          "30 g queso rallado (emmental, gouda o similar)",
+          "10 g mantequilla",
+          "Especias: sal, pimienta, orégano, canela (opcional)"
+        ],
+        "preparacion": [
+          "Asa las rodajas de berenjena con un poco de aceite hasta que estén doradas.",
+          "Sofríe la carne con sal, pimienta, orégano y un toque de canela.",
+          "Tritura la coliflor con nata, mantequilla y sal hasta hacer la bechamel.",
+          "Monta capas: berenjena - carne - bechamel - queso, y repite.",
+          "Gratina al horno 15-20 min a 180°C."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 68,
+          "proteinas": 30,
+          "carbohidratos_netos": 7
+        }
+      },
+      "cena": {
+        "nombre": "Ensalada Griega Keto con Queso Feta y Aceitunas Negras",
+        "ingredientes": [
+          "100 g tomate maduro en cubos",
+          "60 g pepino en rodajas",
+          "40 g pimiento verde o rojo",
+          "30 g cebolla morada en tiras finas",
+          "50 g queso feta",
+          "30 g aceitunas negras",
+          "1 cucharada aceite de oliva virgen extra",
+          "Orégano seco, sal y pimienta"
+        ],
+        "preparacion": [
+          "Mezcla todas las verduras en un bol grande.",
+          "Añade las aceitunas y el queso feta desmenuzado.",
+          "Aliña con aceite, sal, pimienta y orégano.",
+          "Servir bien fresca."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 63,
+          "proteinas": 19,
+          "carbohidratos_netos": 6
+        }
+      }
+    },
+    {
+      "dia": 5,
+      "desayuno": {
+        "nombre": "Huevos Revueltos con Ras el Hanout y Aguacate",
+        "ingredientes": [
+          "2 huevos",
+          "1/2 aguacate (60 g aprox.)",
+          "1 cucharada mantequilla",
+          "1/2 cucharadita ras el hanout",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Bate los huevos con sal, pimienta y ras el hanout.",
+          "Cocina en sartén con mantequilla removiendo suavemente.",
+          "Sirve con el aguacate cortado al lado."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 17,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Tagine Keto de Pollo con Limón y Aceitunas Verdes",
+        "ingredientes": [
+          "150 g contramuslo de pollo troceado (sin piel)",
+          "50 g calabacín en cubos",
+          "30 g cebolla",
+          "2 aceitunas verdes grandes (10 g)",
+          "1 rodaja fina de limón (con piel)",
+          "1 diente de ajo",
+          "1 cucharada aceite de oliva",
+          "1/2 cucharadita cúrcuma, comino, jengibre y pimentón",
+          "Perejil o cilantro fresco"
+        ],
+        "preparacion": [
+          "Sofríe el pollo en aceite junto con el ajo y las especias.",
+          "Añade la cebolla, calabacín y el limón. Cocina tapado 15-20 min.",
+          "Añade las aceitunas al final, mezcla y espolvorea perejil."
+        ],
+        "nutricion": {
+          "calorias": 810,
+          "grasas": 65,
+          "proteinas": 30,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Sopa Keto Harira Sin Garbanzos con Caldo de Especias y Huevo Cocido",
+        "ingredientes": [
+          "1 huevo cocido",
+          "60 g tomate natural troceado",
+          "30 g calabacín en dados",
+          "20 g apio",
+          "1 cucharada de aceite de coco",
+          "300 ml caldo de huesos o vegetal",
+          "1/2 cucharadita comino, canela, cúrcuma, jengibre",
+          "Sal, pimienta y perejil"
+        ],
+        "preparacion": [
+          "Sofríe el tomate, calabacín y apio en aceite con las especias.",
+          "Añade el caldo y cocina 10-12 minutos.",
+          "Sirve caliente con el huevo cocido troceado por encima."
+        ],
+        "nutricion": {
+          "calorias": 720,
+          "grasas": 62,
+          "proteinas": 22,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 6,
+      "desayuno": {
+        "nombre": "Chai Especiado con Leche de Coco y Galleta de Almendra",
+        "ingredientes": [
+          "150 ml agua",
+          "100 ml leche de coco entera",
+          "1 bolsita de té negro",
+          "1/2 cucharadita canela",
+          "1 clavo",
+          "2 semillas de cardamomo",
+          "1 trozo de jengibre",
+          "1 cucharada eritritol",
+          "Galleta keto rápida: 15g harina de almendra, 10g mantequilla, 1 pizca de canela"
+        ],
+        "preparacion": [
+          "Hierve el agua con las especias, añade el té y reposa 3 min.",
+          "Añade la leche de coco y el eritritol. Calienta sin hervir.",
+          "Mezcla los ingredientes de la galleta, da forma y hornea 10 min a 180°C."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 40,
+          "proteinas": 9,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Curry de Coco con Tofu o Pollo + Coliflor al Vapor",
+        "ingredientes": [
+          "150 g tofu firme o pechuga de pollo",
+          "50 ml leche de coco entera",
+          "30 g cebolla",
+          "1 diente de ajo",
+          "1 cucharada de aceite de coco",
+          "1/2 cucharadita curry, cúrcuma, comino y jengibre",
+          "100 g coliflor al vapor"
+        ],
+        "preparacion": [
+          "Sofríe cebolla y ajo en aceite con las especias.",
+          "Añade tofu/pollo en cubos, dora y vierte la leche de coco.",
+          "Cocina a fuego lento 10 min hasta que espese.",
+          "Sirve con coliflor al vapor como base."
+        ],
+        "nutricion": {
+          "calorias": 820,
+          "grasas": 66,
+          "proteinas": 28,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Naan Keto de Queso con Semillas y Salsa de Yogur",
+        "ingredientes": [
+          "Para el naan keto: 40g queso mozzarella rallado, 15g harina de almendra, 1 huevo, 1 cucharadita semillas de comino o sésamo",
+          "Salsa de yogur: 60g yogur griego 10% MG, 1 cucharada aceite de oliva, Menta seca o cilantro, Sal y pimienta"
+        ],
+        "preparacion": [
+          "Mezcla el queso, huevo y harina, y forma una torta. Añade las semillas encima.",
+          "Cocina en sartén antiadherente o al horno hasta dorar.",
+          "Mezcla los ingredientes de la salsa y sirve al lado para mojar."
+        ],
+        "nutricion": {
+          "calorias": 710,
+          "grasas": 60,
+          "proteinas": 25,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 7,
+      "desayuno": {
+        "nombre": "Huevos al Estilo Mediterráneo con Tomates Asados y Aceitunas Negras",
+        "ingredientes": [
+          "2 huevos",
+          "1 tomate mediano (80 g), cortado en mitades",
+          "30 g aceitunas negras",
+          "1 cucharada de aceite de oliva",
+          "1/2 cucharadita orégano",
+          "Sal y pimienta"
+        ],
+        "preparacion": [
+          "Asa los tomates con aceite, sal y orégano durante 10 minutos a 200°C.",
+          "Cocina los huevos al gusto (fritos, pochados o revueltos).",
+          "Sirve todo junto con las aceitunas al lado y chorrito de aceite extra."
+        ],
+        "nutricion": {
+          "calorias": 470,
+          "grasas": 39,
+          "proteinas": 19,
+          "carbohidratos_netos": 5
+        }
+      },
+      "almuerzo": {
+        "nombre": "Tacos Keto Tex-Mex de Carne Picada con Tortilla de Queso y Guacamole",
+        "ingredientes": [
+          "120 g carne picada (mixta o ternera)",
+          "1 diente de ajo",
+          "1/2 cucharadita comino, pimentón y orégano",
+          "60 g queso rallado tipo mozzarella o emmental (para tortillas)",
+          "1/2 aguacate",
+          "1 cucharada de aceite de oliva",
+          "Limón, sal y cilantro"
+        ],
+        "preparacion": [
+          "Cocina la carne con especias y ajo picado.",
+          "Para las tortillas: haz discos finos de queso en sartén o horno, deja enfriar hasta que endurezcan ligeramente.",
+          "Rellena con carne y acompaña con guacamole casero."
+        ],
+        "nutricion": {
+          "calorias": 830,
+          "grasas": 68,
+          "proteinas": 35,
+          "carbohidratos_netos": 6
+        }
+      },
+      "cena": {
+        "nombre": "Sopa de Coco y Jengibre con Champiñones y Gambas",
+        "ingredientes": [
+          "80 g gambas peladas",
+          "40 g champiñones laminados",
+          "100 ml leche de coco",
+          "200 ml caldo de verduras",
+          "1 trozo de jengibre fresco rallado",
+          "1 cucharadita salsa de soja baja en sal",
+          "1 cucharada aceite de coco",
+          "Cebollino o cilantro para decorar"
+        ],
+        "preparacion": [
+          "Sofríe los champiñones en aceite de coco.",
+          "Añade las gambas, jengibre y saltea 2-3 minutos.",
+          "Vierte el caldo y leche de coco, hierve 5-6 min.",
+          "Sirve caliente con hierbas frescas al gusto."
+        ],
+        "nutricion": {
+          "calorias": 700,
+          "grasas": 59,
+          "proteinas": 25,
+          "carbohidratos_netos": 4
+        }
+      }
+    }
+  ]
+}
