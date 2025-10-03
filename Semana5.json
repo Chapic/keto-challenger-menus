@@ -1,0 +1,524 @@
+{
+  "semana": 5,
+  "dias": [
+    {
+      "dia": 1,
+      "desayuno": {
+        "nombre": "Rollitos de Huevo y Queso en Air Fryer",
+        "ingredientes": [
+          "3 huevos grandes",
+          "50 g de queso mozzarella rallado",
+          "20 g de queso crema",
+          "20 g de mantequilla derretida",
+          "10 g de harina de almendra",
+          "1/2 cucharadita de ajo en polvo",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 180°C.",
+          "Batir los huevos y cocinar en una sartén como si fuera una crepe fina.",
+          "Mezclar los quesos, harina de almendra y especias.",
+          "Extender la mezcla sobre la crepe de huevo y enrollar.",
+          "Cortar en rodajas y cocinar 8 minutos a 180°C en la Air Fryer."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 45,
+          "proteinas": 20,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Muslos de Pollo Crujientes con Costra de Queso y Especias",
+        "ingredientes": [
+          "2 muslos de pollo con piel",
+          "30 g de queso parmesano rallado",
+          "1 cucharadita de pimentón ahumado",
+          "1/2 cucharadita de ajo en polvo",
+          "1/2 cucharadita de cebolla en polvo",
+          "10 ml de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 200°C.",
+          "Mezclar el queso parmesano con las especias.",
+          "Secar los muslos de pollo, pincelar con aceite y cubrir con la mezcla de queso.",
+          "Cocinar en la Air Fryer 20 minutos a 200°C, volteando a la mitad."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 72,
+          "proteinas": 45,
+          "carbohidratos_netos": 2
+        }
+      },
+      "cena": {
+        "nombre": "Pimientos Rellenos de Carne y Queso",
+        "ingredientes": [
+          "1 pimiento grande",
+          "100 g de carne molida",
+          "30 g de queso cheddar rallado",
+          "10 ml de aceite de oliva",
+          "1/2 cucharadita de ajo en polvo",
+          "1/2 cucharadita de comino",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 180°C.",
+          "Cocinar la carne con aceite y especias.",
+          "Rellenar las mitades de pimiento con la carne y cubrir con queso.",
+          "Cocinar en la Air Fryer 12 minutos a 180°C."
+        ],
+        "nutricion": {
+          "calorias": 650,
+          "grasas": 60,
+          "proteinas": 35,
+          "carbohidratos_netos": 4
+        }
+      }
+    },
+    {
+      "dia": 2,
+      "desayuno": {
+        "nombre": "Panecillos de Almendra y Queso",
+        "ingredientes": [
+          "100 g de harina de almendra",
+          "50 g de queso mozzarella rallado",
+          "30 g de queso crema",
+          "1 huevo grande",
+          "1 cucharadita de polvo de hornear",
+          "1/2 cucharadita de ajo en polvo",
+          "Sal al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 180°C.",
+          "Derretir los quesos en el microondas.",
+          "Mezclar con el resto de ingredientes.",
+          "Formar bolitas y cocinar 10 minutos a 180°C en la Air Fryer."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 45,
+          "proteinas": 20,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Costillas BBQ Keto en Air Fryer",
+        "ingredientes": [
+          "250 g de costillas de cerdo",
+          "30 g de salsa BBQ keto casera",
+          "10 ml de aceite de oliva",
+          "1/2 cucharadita de pimentón ahumado",
+          "1/2 cucharadita de ajo en polvo",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 200°C.",
+          "Frotar las costillas con aceite, especias, sal y pimienta.",
+          "Cocinar 15 minutos a 200°C, volteando a la mitad.",
+          "Barnizar con salsa BBQ y cocinar 5 minutos más."
+        ],
+        "nutricion": {
+          "calorias": 850,
+          "grasas": 75,
+          "proteinas": 50,
+          "carbohidratos_netos": 3
+        }
+      },
+      "cena": {
+        "nombre": "Champiñones Rellenos de Espinaca y Queso",
+        "ingredientes": [
+          "4 champiñones grandes",
+          "50 g de espinacas picadas",
+          "30 g de queso crema",
+          "20 g de queso parmesano rallado",
+          "10 ml de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 180°C.",
+          "Mezclar las espinacas con los quesos, sal y pimienta.",
+          "Rellenar los champiñones, pincelar con aceite y cocinar 8-10 minutos."
+        ],
+        "nutricion": {
+          "calorias": 650,
+          "grasas": 60,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 3,
+      "desayuno": {
+        "nombre": "Gofres Keto Crujientes",
+        "ingredientes": [
+          "2 huevos grandes",
+          "40 g de harina de almendra",
+          "10 g de harina de coco",
+          "30 g de queso crema",
+          "1 cucharadita de polvo de hornear",
+          "10 g de eritritol",
+          "1/2 cucharadita de canela",
+          "10 g de mantequilla derretida"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 180°C.",
+          "Mezclar todos los ingredientes.",
+          "Verter en un molde para gofres de silicona.",
+          "Cocinar 8-10 minutos a 180°C."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 45,
+          "proteinas": 20,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Hamburguesas de Ternera con Queso y Bacon",
+        "ingredientes": [
+          "200 g de carne molida de ternera",
+          "2 lonchas de queso cheddar",
+          "2 lonchas de bacon",
+          "1 cucharadita de mostaza Dijon",
+          "1/2 cucharadita de ajo en polvo",
+          "1/2 cucharadita de cebolla en polvo",
+          "10 ml de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 200°C.",
+          "Mezclar la carne con especias y mostaza, y formar hamburguesas.",
+          "Cocinar 8-10 minutos a 200°C, volteando a la mitad.",
+          "En los últimos 2 minutos, colocar el queso y el bacon encima."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 72,
+          "proteinas": 50,
+          "carbohidratos_netos": 2
+        }
+      },
+      "cena": {
+        "nombre": "Calabacines Rellenos de Atún y Queso",
+        "ingredientes": [
+          "1 calabacín grande",
+          "100 g de atún en aceite de oliva",
+          "30 g de queso crema",
+          "20 g de queso parmesano rallado",
+          "10 ml de aceite de oliva",
+          "1/2 cucharadita de orégano seco",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 180°C.",
+          "Cortar el calabacín por la mitad y vaciar la pulpa.",
+          "Mezclar el atún con el queso crema y orégano.",
+          "Rellenar el calabacín, espolvorear parmesano y cocinar 12 minutos."
+        ],
+        "nutricion": {
+          "calorias": 650,
+          "grasas": 60,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 4,
+      "desayuno": {
+        "nombre": "Tortilla Esponjosa de Espinacas y Queso",
+        "ingredientes": [
+          "3 huevos grandes",
+          "50 g de espinacas frescas picadas",
+          "30 g de queso feta desmenuzado",
+          "10 g de mantequilla",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 180°C.",
+          "Batir los huevos y mezclar con espinacas, queso feta, sal y pimienta.",
+          "Engrasar un molde y verter la mezcla.",
+          "Cocinar 8-10 minutos a 180°C."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 45,
+          "proteinas": 20,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Nuggets de Pollo Keto Crujientes",
+        "ingredientes": [
+          "200 g de pechuga de pollo en trozos",
+          "1 huevo grande",
+          "50 g de queso parmesano rallado",
+          "1/2 cucharadita de ajo en polvo",
+          "1/2 cucharadita de pimentón ahumado",
+          "10 ml de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 200°C.",
+          "Batir el huevo y mezclar el parmesano con las especias en otro plato.",
+          "Pasar el pollo por huevo y luego por la mezcla de queso.",
+          "Cocinar 10-12 minutos a 200°C, volteando a la mitad."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 72,
+          "proteinas": 50,
+          "carbohidratos_netos": 2
+        }
+      },
+      "cena": {
+        "nombre": "Berenjenas Gratinadas con Jamón y Queso",
+        "ingredientes": [
+          "1 berenjena mediana",
+          "50 g de jamón serrano en tiras",
+          "30 g de queso mozzarella rallado",
+          "20 g de queso parmesano",
+          "10 ml de aceite de oliva",
+          "1/2 cucharadita de orégano seco",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 180°C.",
+          "Cortar la berenjena en rodajas y pincelar con aceite.",
+          "Cocinar 5 minutos a 180°C.",
+          "Añadir el jamón y el queso por encima y cocinar 5 minutos más."
+        ],
+        "nutricion": {
+          "calorias": 650,
+          "grasas": 60,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 5,
+      "desayuno": {
+        "nombre": "Mini Quiches de Bacon y Queso",
+        "ingredientes": [
+          "3 huevos grandes",
+          "50 g de bacon en trozos",
+          "40 g de queso cheddar rallado",
+          "30 ml de nata para cocinar",
+          "10 g de mantequilla",
+          "1/2 cucharadita de ajo en polvo",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 180°C.",
+          "Cocinar el bacon en la Air Fryer 4 minutos.",
+          "Batir los huevos con la nata, queso y especias.",
+          "Repartir la mezcla en moldes de silicona.",
+          "Cocinar 10-12 minutos a 180°C."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 45,
+          "proteinas": 20,
+          "carbohidratos_netos": 3
+        }
+      },
+      "almuerzo": {
+        "nombre": "Chuletas de Cerdo con Costra de Queso y Mostaza",
+        "ingredientes": [
+          "2 chuletas de cerdo gruesas",
+          "40 g de queso parmesano rallado",
+          "1 cucharada de mostaza Dijon",
+          "1/2 cucharadita de ajo en polvo",
+          "1/2 cucharadita de pimentón ahumado",
+          "10 ml de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 200°C.",
+          "Mezclar el parmesano con las especias.",
+          "Untar las chuletas con mostaza y cubrir con la mezcla de queso.",
+          "Cocinar en la Air Fryer 15 minutos a 200°C, volteando a la mitad."
+        ],
+        "nutricion": {
+          "calorias": 800,
+          "grasas": 72,
+          "proteinas": 50,
+          "carbohidratos_netos": 2
+        }
+      },
+      "cena": {
+        "nombre": "Pimientos Asados Rellenos de Queso y Nata",
+        "ingredientes": [
+          "1 pimiento rojo grande",
+          "50 g de queso crema",
+          "30 ml de nata para cocinar",
+          "20 g de queso parmesano rallado",
+          "10 ml de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 180°C.",
+          "Cortar el pimiento por la mitad y pincelar con aceite. Cocinar 10 minutos.",
+          "Mezclar el queso crema con la nata y la sal.",
+          "Rellenar los pimientos, espolvorear parmesano y cocinar 5 minutos más."
+        ],
+        "nutricion": {
+          "calorias": 650,
+          "grasas": 60,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 6,
+      "desayuno": {
+        "nombre": "Tortitas Esponjosas de Coco",
+        "ingredientes": [
+          "2 huevos grandes",
+          "30 g de harina de coco",
+          "30 ml de leche de almendra sin azúcar",
+          "20 g de queso crema",
+          "1 cucharadita de polvo de hornear",
+          "10 g de eritritol",
+          "1/2 cucharadita de canela en polvo",
+          "10 g de mantequilla derretida"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 180°C.",
+          "Mezclar todos los ingredientes.",
+          "Verter en moldes de silicona.",
+          "Cocinar 8-10 minutos a 180°C."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 45,
+          "proteinas": 20,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Alitas de Pollo BBQ Keto",
+        "ingredientes": [
+          "250 g de alitas de pollo",
+          "30 g de salsa BBQ keto casera",
+          "10 ml de aceite de oliva",
+          "1/2 cucharadita de ajo en polvo",
+          "1/2 cucharadita de pimentón ahumado",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 200°C.",
+          "Mezclar las alitas con aceite y especias.",
+          "Cocinar 12-15 minutos a 200°C, volteando a la mitad.",
+          "Barnizar con la salsa BBQ y cocinar 3 minutos más."
+        ],
+        "nutricion": {
+          "calorias": 850,
+          "grasas": 75,
+          "proteinas": 50,
+          "carbohidratos_netos": 3
+        }
+      },
+      "cena": {
+        "nombre": "Rollitos de Berenjena con Ricotta y Espinacas",
+        "ingredientes": [
+          "1 berenjena grande",
+          "50 g de ricotta",
+          "30 g de queso parmesano rallado",
+          "20 g de espinacas picadas",
+          "10 ml de aceite de oliva",
+          "1/2 cucharadita de orégano seco",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 180°C.",
+          "Cortar la berenjena en láminas, pincelar con aceite y cocinar 5 minutos.",
+          "Mezclar la ricotta con espinacas y especias, y rellenar las láminas.",
+          "Enrollar, espolvorear parmesano y cocinar 8 minutos más."
+        ],
+        "nutricion": {
+          "calorias": 650,
+          "grasas": 60,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      }
+    },
+    {
+      "dia": 7,
+      "desayuno": {
+        "nombre": "Huevos Revueltos con Queso y Aguacate",
+        "ingredientes": [
+          "3 huevos grandes",
+          "50 g de queso cheddar rallado",
+          "1/2 aguacate en rodajas",
+          "10 ml de nata para cocinar",
+          "10 g de mantequilla",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 180°C.",
+          "Batir los huevos con nata, queso, sal y pimienta.",
+          "Verter la mezcla en un molde de silicona engrasado.",
+          "Cocinar 8 minutos, removiendo a la mitad.",
+          "Servir con aguacate en rodajas."
+        ],
+        "nutricion": {
+          "calorias": 500,
+          "grasas": 45,
+          "proteinas": 20,
+          "carbohidratos_netos": 4
+        }
+      },
+      "almuerzo": {
+        "nombre": "Costillas de Cerdo con Salsa de Mostaza y Mantequilla",
+        "ingredientes": [
+          "250 g de costillas de cerdo",
+          "30 g de mantequilla",
+          "20 g de mostaza Dijon",
+          "1/2 cucharadita de ajo en polvo",
+          "1/2 cucharadita de pimentón ahumado",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Precalentar la Air Fryer a 200°C.",
+          "Mezclar la mantequilla con la mostaza y las especias.",
+          "Untar las costillas con la mezcla y cocinar 15 minutos, volteando a la mitad."
+        ],
+        "nutricion": {
+          "calorias": 850,
+          "grasas": 75,
+          "proteinas": 50,
+          "carbohidratos_netos": 3
+        }
+      },
+      "cena": {
+        "nombre": "Rollitos de Salmón Ahumado con Queso Crema y Nueces",
+        "ingredientes": [
+          "100 g de salmón ahumado",
+          "50 g de queso crema",
+          "20 g de nueces picadas",
+          "10 ml de aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparacion": [
+          "Extender el salmón ahumado.",
+          "Mezclar el queso crema con las nueces, sal y pimienta.",
+          "Untar la mezcla sobre el salmón y enrollar.",
+          "Cortar en rollitos y servir con un chorrito de aceite de oliva."
+        ],
+        "nutricion": {
+          "calorias": 650,
+          "grasas": 60,
+          "proteinas": 30,
+          "carbohidratos_netos": 5
+        }
+      }
+    }
+  ]
+}
