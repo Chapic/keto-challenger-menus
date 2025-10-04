@@ -1,0 +1,2117 @@
+{
+  "programa": "Montaña",
+  "semanas": [
+    {
+      "id": 1,
+      "nombre": "Semana 1",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Base y Core",
+          "ejercicios": [
+            {
+              "nombre": "Sentadillas con mochila",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Peso muerto rumano con mancuernas",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Elevación de gemelos unilateral",
+              "series": 3,
+              "reps": "12-15/lado",
+              "descanso": "45s",
+              "tempo": "2-1-1"
+            },
+            {
+              "nombre": "Plancha frontal",
+              "series": 3,
+              "reps": "30s",
+              "descanso": "45s",
+              "tempo": "isometría"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Trekking Base (Desnivel)",
+          "ejercicios": [
+            {
+              "nombre": "Movilidad tobillo-cadera (calentamiento)",
+              "series": 1,
+              "reps": "8-10 movs",
+              "descanso": "0s",
+              "tempo": "fluido"
+            },
+            {
+              "nombre": "Caminata en pendiente Z2",
+              "series": 1,
+              "reps": "45 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Descenso técnico suave",
+              "series": 1,
+              "reps": "10 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Respiración diafragmática",
+              "series": 1,
+              "reps": "5 min",
+              "descanso": "0s",
+              "tempo": "nasal"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Fuerza Estabilidad y Rodilla",
+          "ejercicios": [
+            {
+              "nombre": "Step-up al cajón",
+              "series": 3,
+              "reps": "10-12/lado",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Split squat búlgaro",
+              "series": 3,
+              "reps": "8-12/lado",
+              "descanso": "75s",
+              "tempo": "2-0-2"
+            },
+            {
+              "nombre": "Elevación tibial (tibialis raise)",
+              "series": 3,
+              "reps": "12-20",
+              "descanso": "45s",
+              "tempo": "2-1-1"
+            },
+            {
+              "nombre": "Pallof press (antirrotación)",
+              "series": 3,
+              "reps": "10-12/lado",
+              "descanso": "45s",
+              "tempo": "2-0-2"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Cardio Cuestas (Intervalos suaves)",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento caminata Z1",
+              "series": 1,
+              "reps": "10 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Series en cuestas Z3",
+              "series": 6,
+              "reps": "2 min",
+              "descanso": "2 min",
+              "tempo": "firme"
+            },
+            {
+              "nombre": "Caminata recuperación llano",
+              "series": 1,
+              "reps": "15-20 min",
+              "descanso": "0s",
+              "tempo": "Z1"
+            },
+            {
+              "nombre": "Estiramientos cadena posterior",
+              "series": 1,
+              "reps": "8-10 movs",
+              "descanso": "0s",
+              "tempo": "suave"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Técnica + Movilidad + Respiración",
+          "ejercicios": [
+            {
+              "nombre": "Técnica con bastones (marcha nórdica)",
+              "series": 1,
+              "reps": "20 min",
+              "descanso": "0s",
+              "tempo": "cadenciado"
+            },
+            {
+              "nombre": "Equilibrio unipodal (ojos abiertos/cerrados)",
+              "series": 3,
+              "reps": "30-40s/lado",
+              "descanso": "30s",
+              "tempo": "isometría"
+            },
+            {
+              "nombre": "Escalera de agilidad (pisadas rápidas)",
+              "series": 3,
+              "reps": "20-30s",
+              "descanso": "45s",
+              "tempo": "rápido"
+            },
+            {
+              "nombre": "Movilidad global (cadera/torácica/tobillo)",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Semana 2",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Base y Core",
+          "ejercicios": [
+            {
+              "nombre": "Sentadillas con mochila (pausa 1s)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-1-1"
+            },
+            {
+              "nombre": "Peso muerto rumano con mancuernas",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "60-75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Elevación de gemelos en escalón",
+              "series": 3,
+              "reps": "15-20",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Plancha lateral",
+              "series": 3,
+              "reps": "25-35s/lado",
+              "descanso": "45s",
+              "tempo": "isometría"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Trekking Base (Desnivel)",
+          "ejercicios": [
+            {
+              "nombre": "Movilidad dinámica",
+              "series": 1,
+              "reps": "6-8 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            },
+            {
+              "nombre": "Caminata en pendiente Z2",
+              "series": 1,
+              "reps": "50 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Descenso técnico suave",
+              "series": 1,
+              "reps": "12 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Respiración diafragmática",
+              "series": 1,
+              "reps": "6 min",
+              "descanso": "0s",
+              "tempo": "nasal"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Fuerza Estabilidad y Rodilla",
+          "ejercicios": [
+            {
+              "nombre": "Step-down controlado (cajón bajo)",
+              "series": 3,
+              "reps": "8-10/lado",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Split squat búlgaro",
+              "series": 3,
+              "reps": "10-12/lado",
+              "descanso": "75s",
+              "tempo": "2-0-2"
+            },
+            {
+              "nombre": "Peso muerto a una pierna",
+              "series": 3,
+              "reps": "8-10/lado",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Pallof press",
+              "series": 3,
+              "reps": "12/lado",
+              "descanso": "45s",
+              "tempo": "2-0-2"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Cardio Cuestas (Intervalos)",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento Z1",
+              "series": 1,
+              "reps": "10 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Series en cuestas Z3",
+              "series": 6,
+              "reps": "3 min",
+              "descanso": "2 min",
+              "tempo": "firme"
+            },
+            {
+              "nombre": "Escaleras con mochila ligera",
+              "series": 1,
+              "reps": "10-12 min",
+              "descanso": "0s",
+              "tempo": "constante"
+            },
+            {
+              "nombre": "Estiramientos flexores cadera",
+              "series": 1,
+              "reps": "6-8 min",
+              "descanso": "0s",
+              "tempo": "suave"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Técnica + Movilidad + Respiración",
+          "ejercicios": [
+            {
+              "nombre": "Técnica con bastones (ritmo y empuje)",
+              "series": 1,
+              "reps": "20-25 min",
+              "descanso": "0s",
+              "tempo": "cadenciado"
+            },
+            {
+              "nombre": "Equilibrio unipodal con alcance",
+              "series": 3,
+              "reps": "8-10/lado",
+              "descanso": "45s",
+              "tempo": "controlado"
+            },
+            {
+              "nombre": "Saltitos reactivos suaves (skips)",
+              "series": 3,
+              "reps": "20-30s",
+              "descanso": "45s",
+              "tempo": "elástico"
+            },
+            {
+              "nombre": "Movilidad global + respiración",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Semana 3",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Base y Core",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla goblet",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Puente de glúteo con pausa",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-2-1"
+            },
+            {
+              "nombre": "Gemelos en excéntrico (2-1)",
+              "series": 3,
+              "reps": "10-12/lado",
+              "descanso": "45s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Plancha frontal con toques de hombro",
+              "series": 3,
+              "reps": "8-12",
+              "descanso": "45s",
+              "tempo": "controlado"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Trekking Base (Desnivel)",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento movilidad",
+              "series": 1,
+              "reps": "8 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            },
+            {
+              "nombre": "Caminata en pendiente Z2",
+              "series": 1,
+              "reps": "55-60 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Descenso técnico moderado",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Respiración diafragmática",
+              "series": 1,
+              "reps": "6 min",
+              "descanso": "0s",
+              "tempo": "nasal"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Fuerza Estabilidad y Rodilla",
+          "ejercicios": [
+            {
+              "nombre": "Step-up alto (control excéntrico)",
+              "series": 3,
+              "reps": "8-10/lado",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Split squat búlgaro (isométrico 2s)",
+              "series": 3,
+              "reps": "8-10/lado",
+              "descanso": "75s",
+              "tempo": "2-2-1"
+            },
+            {
+              "nombre": "Peso muerto a una pierna",
+              "series": 3,
+              "reps": "10-12/lado",
+              "descanso": "60s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Pallof press en split stance",
+              "series": 3,
+              "reps": "10-12/lado",
+              "descanso": "45s",
+              "tempo": "2-0-2"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Cardio Cuestas (Intervalos)",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento Z1",
+              "series": 1,
+              "reps": "10-12 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Series en cuestas Z3",
+              "series": 8,
+              "reps": "3 min",
+              "descanso": "2 min",
+              "tempo": "firme"
+            },
+            {
+              "nombre": "Escaleras con mochila",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "constante"
+            },
+            {
+              "nombre": "Estiramientos y foam roller",
+              "series": 1,
+              "reps": "8-10 min",
+              "descanso": "0s",
+              "tempo": "suave"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Técnica + Movilidad + Respiración",
+          "ejercicios": [
+            {
+              "nombre": "Técnica de apoyo en descenso (zancada corta)",
+              "series": 1,
+              "reps": "20 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Equilibrio en línea (talón-punta)",
+              "series": 3,
+              "reps": "30-40s",
+              "descanso": "30s",
+              "tempo": "isometría"
+            },
+            {
+              "nombre": "Saltitos reactivos (lateral)",
+              "series": 3,
+              "reps": "20-30s",
+              "descanso": "45s",
+              "tempo": "rápido"
+            },
+            {
+              "nombre": "Movilidad global + respiración",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Semana 4",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Base y Core",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con mochila (tempo 4-0-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "4-0-1"
+            },
+            {
+              "nombre": "Peso muerto rumano con mancuernas",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Gemelos unilateral (pausa)",
+              "series": 3,
+              "reps": "12-15/lado",
+              "descanso": "45s",
+              "tempo": "2-2-1"
+            },
+            {
+              "nombre": "Plancha frontal con desplazamiento",
+              "series": 3,
+              "reps": "30-40s",
+              "descanso": "45s",
+              "tempo": "isometría"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Trekking Base (Desnivel)",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento movilidad",
+              "series": 1,
+              "reps": "8-10 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            },
+            {
+              "nombre": "Caminata en pendiente Z2",
+              "series": 1,
+              "reps": "60-65 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Descenso técnico",
+              "series": 1,
+              "reps": "15 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Respiración diafragmática",
+              "series": 1,
+              "reps": "6-8 min",
+              "descanso": "0s",
+              "tempo": "nasal"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Fuerza Estabilidad y Rodilla",
+          "ejercicios": [
+            {
+              "nombre": "Step-down controlado (cajón medio)",
+              "series": 4,
+              "reps": "8-10/lado",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Split squat búlgaro (lastre opcional)",
+              "series": 3,
+              "reps": "10/lado",
+              "descanso": "75s",
+              "tempo": "2-0-2"
+            },
+            {
+              "nombre": "Peso muerto a una pierna",
+              "series": 3,
+              "reps": "10/lado",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Pallof press",
+              "series": 3,
+              "reps": "12/lado",
+              "descanso": "45s",
+              "tempo": "2-0-2"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Cardio Cuestas (Intervalos)",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento Z1",
+              "series": 1,
+              "reps": "12 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Series en cuestas Z3",
+              "series": 5,
+              "reps": "5 min",
+              "descanso": "3 min",
+              "tempo": "firme"
+            },
+            {
+              "nombre": "Escaleras con mochila",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "constante"
+            },
+            {
+              "nombre": "Estiramientos globales",
+              "series": 1,
+              "reps": "8-10 min",
+              "descanso": "0s",
+              "tempo": "suave"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Técnica + Movilidad + Respiración",
+          "ejercicios": [
+            {
+              "nombre": "Técnica bastones en subida pronunciada",
+              "series": 1,
+              "reps": "20-25 min",
+              "descanso": "0s",
+              "tempo": "cadenciado"
+            },
+            {
+              "nombre": "Propriocepción tobillo (alfombra/arena)",
+              "series": 3,
+              "reps": "30-40s/lado",
+              "descanso": "30s",
+              "tempo": "isometría"
+            },
+            {
+              "nombre": "Saltos cortos hacia atrás-adelante",
+              "series": 3,
+              "reps": "20-30s",
+              "descanso": "45s",
+              "tempo": "rápido"
+            },
+            {
+              "nombre": "Movilidad global + respiración",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Semana 5",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza General + Core",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con mochila",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Peso muerto rumano con mancuernas",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Gemelos unilateral (en escalón)",
+              "series": 4,
+              "reps": "12-15/lado",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Pallof press con paso lateral",
+              "series": 3,
+              "reps": "10/lado",
+              "descanso": "45s",
+              "tempo": "2-0-2"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Desnivel Continuo",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento movilidad",
+              "series": 1,
+              "reps": "8-10 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            },
+            {
+              "nombre": "Caminata en pendiente Z2",
+              "series": 1,
+              "reps": "70 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Descenso técnico moderado",
+              "series": 1,
+              "reps": "15-18 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Respiración diafragmática",
+              "series": 1,
+              "reps": "6-8 min",
+              "descanso": "0s",
+              "tempo": "nasal"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Fuerza Estabilidad Articular",
+          "ejercicios": [
+            {
+              "nombre": "Step-up alto con mochila",
+              "series": 4,
+              "reps": "8-10/lado",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Split squat búlgaro",
+              "series": 4,
+              "reps": "8-10/lado",
+              "descanso": "75s",
+              "tempo": "2-1-1"
+            },
+            {
+              "nombre": "Peso muerto a una pierna",
+              "series": 3,
+              "reps": "10/lado",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Elevación tibial (tibialis)",
+              "series": 3,
+              "reps": "15-20",
+              "descanso": "45s",
+              "tempo": "2-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Cuestas + Escaleras",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento Z1",
+              "series": 1,
+              "reps": "10-12 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Series en cuestas Z3",
+              "series": 6,
+              "reps": "5 min",
+              "descanso": "3 min",
+              "tempo": "firme"
+            },
+            {
+              "nombre": "Escaleras con mochila",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "constante"
+            },
+            {
+              "nombre": "Estiramientos + foam roller",
+              "series": 1,
+              "reps": "8-10 min",
+              "descanso": "0s",
+              "tempo": "suave"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Técnica + Movilidad + Respiración",
+          "ejercicios": [
+            {
+              "nombre": "Técnica de bastones en zigzag",
+              "series": 1,
+              "reps": "25-30 min",
+              "descanso": "0s",
+              "tempo": "cadenciado"
+            },
+            {
+              "nombre": "Equilibrio unipodal con giro de cabeza",
+              "series": 3,
+              "reps": "30-40s/lado",
+              "descanso": "30s",
+              "tempo": "isometría"
+            },
+            {
+              "nombre": "Saltitos reactivos diagonales",
+              "series": 3,
+              "reps": "20-30s",
+              "descanso": "45s",
+              "tempo": "rápido"
+            },
+            {
+              "nombre": "Movilidad global + respiración",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Semana 6",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza General + Core",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con mochila (pausa 2s)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "90s",
+              "tempo": "3-2-1"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Gemelos en excéntrico (2-1)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Plancha frontal con carga ligera",
+              "series": 3,
+              "reps": "35-45s",
+              "descanso": "45s",
+              "tempo": "isometría"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Desnivel Continuo",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento movilidad",
+              "series": 1,
+              "reps": "8-10 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            },
+            {
+              "nombre": "Caminata en pendiente Z2",
+              "series": 1,
+              "reps": "75 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Descenso técnico sostenido",
+              "series": 1,
+              "reps": "18-20 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Respiración diafragmática",
+              "series": 1,
+              "reps": "6-8 min",
+              "descanso": "0s",
+              "tempo": "nasal"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Fuerza Estabilidad Articular",
+          "ejercicios": [
+            {
+              "nombre": "Step-up alto con mochila",
+              "series": 4,
+              "reps": "8/lado",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Split squat búlgaro (tempo 3-1-1)",
+              "series": 4,
+              "reps": "8-10/lado",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto a una pierna",
+              "series": 3,
+              "reps": "10/lado",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Elevación tibial",
+              "series": 3,
+              "reps": "15-20",
+              "descanso": "45s",
+              "tempo": "2-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Cuestas + Escaleras",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento Z1",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Cuestas Z3",
+              "series": 8,
+              "reps": "4 min",
+              "descanso": "2-3 min",
+              "tempo": "firme"
+            },
+            {
+              "nombre": "Escaleras con mochila",
+              "series": 1,
+              "reps": "15 min",
+              "descanso": "0s",
+              "tempo": "constante"
+            },
+            {
+              "nombre": "Estiramientos + foam roller",
+              "series": 1,
+              "reps": "10 min",
+              "descanso": "0s",
+              "tempo": "suave"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Técnica + Movilidad + Respiración",
+          "ejercicios": [
+            {
+              "nombre": "Progresiones de bastones (cadencia variable)",
+              "series": 1,
+              "reps": "25-30 min",
+              "descanso": "0s",
+              "tempo": "variado"
+            },
+            {
+              "nombre": "Equilibrio unipodal con alcance posterior",
+              "series": 3,
+              "reps": "8-10/lado",
+              "descanso": "45s",
+              "tempo": "controlado"
+            },
+            {
+              "nombre": "Saltos en triángulo (baja altura)",
+              "series": 3,
+              "reps": "20-30s",
+              "descanso": "45s",
+              "tempo": "rápido"
+            },
+            {
+              "nombre": "Movilidad global + respiración",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Semana 7",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza General + Core",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con mochila (top set duro)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Buenos días con mochila",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Gemelos unilateral (isométrico 2s)",
+              "series": 4,
+              "reps": "12-15/lado",
+              "descanso": "45s",
+              "tempo": "2-2-1"
+            },
+            {
+              "nombre": "Plancha lateral con abducción",
+              "series": 3,
+              "reps": "25-35s/lado",
+              "descanso": "45s",
+              "tempo": "isometría"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Desnivel Continuo",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento movilidad",
+              "series": 1,
+              "reps": "8-10 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            },
+            {
+              "nombre": "Caminata en pendiente Z2",
+              "series": 1,
+              "reps": "80 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Descenso técnico sostenido",
+              "series": 1,
+              "reps": "20 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Respiración diafragmática",
+              "series": 1,
+              "reps": "8 min",
+              "descanso": "0s",
+              "tempo": "nasal"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Fuerza Estabilidad Articular",
+          "ejercicios": [
+            {
+              "nombre": "Step-up alto con mochila",
+              "series": 4,
+              "reps": "8/lado",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Copenhagen adduction (rodilla)",
+              "series": 3,
+              "reps": "8-10/lado",
+              "descanso": "60s",
+              "tempo": "2-0-2"
+            },
+            {
+              "nombre": "Peso muerto a una pierna (alcance)",
+              "series": 3,
+              "reps": "8-10/lado",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Elevación tibial",
+              "series": 3,
+              "reps": "15-20",
+              "descanso": "45s",
+              "tempo": "2-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Cuestas + Escaleras",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento Z1",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Cuestas Z3",
+              "series": 5,
+              "reps": "6 min",
+              "descanso": "3 min",
+              "tempo": "firme"
+            },
+            {
+              "nombre": "Escaleras con mochila",
+              "series": 1,
+              "reps": "15-18 min",
+              "descanso": "0s",
+              "tempo": "constante"
+            },
+            {
+              "nombre": "Estiramientos + foam",
+              "series": 1,
+              "reps": "10 min",
+              "descanso": "0s",
+              "tempo": "suave"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Técnica + Movilidad + Respiración",
+          "ejercicios": [
+            {
+              "nombre": "Bastones en terreno irregular",
+              "series": 1,
+              "reps": "25-30 min",
+              "descanso": "0s",
+              "tempo": "cadenciado"
+            },
+            {
+              "nombre": "Equilibrio unipodal con perturbaciones",
+              "series": 3,
+              "reps": "30-40s/lado",
+              "descanso": "30s",
+              "tempo": "isometría"
+            },
+            {
+              "nombre": "Saltos laterales controlados",
+              "series": 3,
+              "reps": "20-30s",
+              "descanso": "45s",
+              "tempo": "rápido"
+            },
+            {
+              "nombre": "Movilidad global + respiración",
+              "series": 1,
+              "reps": "15 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Semana 8",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza General + Core",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con mochila (tempo 4-1-1)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "90s",
+              "tempo": "4-1-1"
+            },
+            {
+              "nombre": "Buenos días con mochila",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Gemelos unilateral",
+              "series": 4,
+              "reps": "15-18/lado",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Plancha frontal con desplazamiento",
+              "series": 3,
+              "reps": "40-50s",
+              "descanso": "45s",
+              "tempo": "isometría"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Desnivel Continuo",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento movilidad",
+              "series": 1,
+              "reps": "10 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            },
+            {
+              "nombre": "Caminata en pendiente Z2",
+              "series": 1,
+              "reps": "85 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Descenso técnico sostenido",
+              "series": 1,
+              "reps": "20-22 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Respiración diafragmática",
+              "series": 1,
+              "reps": "8 min",
+              "descanso": "0s",
+              "tempo": "nasal"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Fuerza Estabilidad Articular",
+          "ejercicios": [
+            {
+              "nombre": "Step-up alto con mochila (pausa 1s)",
+              "series": 4,
+              "reps": "8/lado",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Copenhagen adduction (cadera alta)",
+              "series": 3,
+              "reps": "8-10/lado",
+              "descanso": "60s",
+              "tempo": "2-0-2"
+            },
+            {
+              "nombre": "Peso muerto a una pierna (alcance)",
+              "series": 3,
+              "reps": "8-10/lado",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Elevación tibial",
+              "series": 3,
+              "reps": "18-20",
+              "descanso": "45s",
+              "tempo": "2-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Cuestas + Escaleras (Volumen alto)",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento Z1",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Cuestas Z3",
+              "series": 6,
+              "reps": "6 min",
+              "descanso": "3 min",
+              "tempo": "firme"
+            },
+            {
+              "nombre": "Escaleras con mochila",
+              "series": 1,
+              "reps": "18-20 min",
+              "descanso": "0s",
+              "tempo": "constante"
+            },
+            {
+              "nombre": "Estiramientos + foam",
+              "series": 1,
+              "reps": "10-12 min",
+              "descanso": "0s",
+              "tempo": "suave"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Técnica + Movilidad + Respiración",
+          "ejercicios": [
+            {
+              "nombre": "Bastones en subidas largas",
+              "series": 1,
+              "reps": "25-30 min",
+              "descanso": "0s",
+              "tempo": "cadenciado"
+            },
+            {
+              "nombre": "Equilibrio unipodal (superficie blanda)",
+              "series": 3,
+              "reps": "30-40s/lado",
+              "descanso": "30s",
+              "tempo": "isometría"
+            },
+            {
+              "nombre": "Saltos controlados multi-dirección",
+              "series": 3,
+              "reps": "20-30s",
+              "descanso": "45s",
+              "tempo": "rápido"
+            },
+            {
+              "nombre": "Movilidad global + respiración",
+              "series": 1,
+              "reps": "15 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Semana 9",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Potenciación + Core",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con mochila (top set 5-6 reps)",
+              "series": 4,
+              "reps": "5-8",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto rumano (controlado)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Gemelos pesado (isométrico 3s arriba)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-3-1"
+            },
+            {
+              "nombre": "Pallof press con paso lateral",
+              "series": 3,
+              "reps": "10/lado",
+              "descanso": "45s",
+              "tempo": "2-0-2"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Desnivel Progresivo",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento movilidad",
+              "series": 1,
+              "reps": "10 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            },
+            {
+              "nombre": "Caminata en pendiente Z2 con progresión a Z3",
+              "series": 1,
+              "reps": "90 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Descenso técnico",
+              "series": 1,
+              "reps": "20-22 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Respiración diafragmática",
+              "series": 1,
+              "reps": "8-10 min",
+              "descanso": "0s",
+              "tempo": "nasal"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Fuerza Estabilidad Intensiva",
+          "ejercicios": [
+            {
+              "nombre": "Step-down (cajón medio-alto)",
+              "series": 4,
+              "reps": "8/lado",
+              "descanso": "90s",
+              "tempo": "3-2-1"
+            },
+            {
+              "nombre": "Split squat búlgaro (lastre)",
+              "series": 4,
+              "reps": "8-10/lado",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto a una pierna",
+              "series": 3,
+              "reps": "8-10/lado",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Elevación tibial",
+              "series": 3,
+              "reps": "18-20",
+              "descanso": "45s",
+              "tempo": "2-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Cuestas Tempo (Umbral)",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento Z1 + drills",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Intervalos en cuesta Z3-Z4",
+              "series": 4,
+              "reps": "8 min",
+              "descanso": "3 min",
+              "tempo": "tempo"
+            },
+            {
+              "nombre": "Escaleras con mochila",
+              "series": 1,
+              "reps": "15-18 min",
+              "descanso": "0s",
+              "tempo": "constante"
+            },
+            {
+              "nombre": "Estiramientos + foam",
+              "series": 1,
+              "reps": "10-12 min",
+              "descanso": "0s",
+              "tempo": "suave"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Técnica + Movilidad + Respiración",
+          "ejercicios": [
+            {
+              "nombre": "Gestión de ritmo y tracción con bastones",
+              "series": 1,
+              "reps": "30 min",
+              "descanso": "0s",
+              "tempo": "cadenciado"
+            },
+            {
+              "nombre": "Equilibrio unipodal (ojos cerrados)",
+              "series": 3,
+              "reps": "20-30s/lado",
+              "descanso": "30s",
+              "tempo": "isometría"
+            },
+            {
+              "nombre": "Saltos controlados en línea",
+              "series": 3,
+              "reps": "20-30s",
+              "descanso": "45s",
+              "tempo": "rápido"
+            },
+            {
+              "nombre": "Movilidad global + respiración",
+              "series": 1,
+              "reps": "15 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Semana 10",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Potenciación + Core",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con mochila (top set 4-6 reps)",
+              "series": 4,
+              "reps": "4-6",
+              "descanso": "90-120s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto rumano (tempo 4-0-1)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "90s",
+              "tempo": "4-0-1"
+            },
+            {
+              "nombre": "Gemelos pesado",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-1-1"
+            },
+            {
+              "nombre": "Plancha frontal con carga",
+              "series": 3,
+              "reps": "40-50s",
+              "descanso": "45s",
+              "tempo": "isometría"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Desnivel Progresivo",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento movilidad",
+              "series": 1,
+              "reps": "10-12 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            },
+            {
+              "nombre": "Caminata con desnivel Z2 + cambios a Z3",
+              "series": 1,
+              "reps": "95 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Descenso técnico",
+              "series": 1,
+              "reps": "22-25 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Respiración diafragmática",
+              "series": 1,
+              "reps": "8-10 min",
+              "descanso": "0s",
+              "tempo": "nasal"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Fuerza Estabilidad Intensiva",
+          "ejercicios": [
+            {
+              "nombre": "Step-down (cajón alto)",
+              "series": 4,
+              "reps": "6-8/lado",
+              "descanso": "90s",
+              "tempo": "3-2-1"
+            },
+            {
+              "nombre": "Split squat búlgaro (lastre)",
+              "series": 4,
+              "reps": "8/lado",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto a una pierna",
+              "series": 3,
+              "reps": "8-10/lado",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Elevación tibial",
+              "series": 3,
+              "reps": "18-20",
+              "descanso": "45s",
+              "tempo": "2-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Cuestas Tempo (Umbral)",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento Z1 + drills",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Intervalos en cuesta Z3-Z4",
+              "series": 5,
+              "reps": "8 min",
+              "descanso": "3 min",
+              "tempo": "tempo"
+            },
+            {
+              "nombre": "Escaleras con mochila",
+              "series": 1,
+              "reps": "18-20 min",
+              "descanso": "0s",
+              "tempo": "constante"
+            },
+            {
+              "nombre": "Estiramientos + foam",
+              "series": 1,
+              "reps": "10-12 min",
+              "descanso": "0s",
+              "tempo": "suave"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Técnica + Movilidad + Respiración",
+          "ejercicios": [
+            {
+              "nombre": "Uso de bastones en ritmo umbral",
+              "series": 1,
+              "reps": "30 min",
+              "descanso": "0s",
+              "tempo": "cadenciado"
+            },
+            {
+              "nombre": "Equilibrio dinámico (caminar en línea)",
+              "series": 3,
+              "reps": "30-40s",
+              "descanso": "30s",
+              "tempo": "controlado"
+            },
+            {
+              "nombre": "Saltos reactivos laterales",
+              "series": 3,
+              "reps": "20-30s",
+              "descanso": "45s",
+              "tempo": "rápido"
+            },
+            {
+              "nombre": "Movilidad global + respiración",
+              "series": 1,
+              "reps": "15 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "Semana 11",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Potenciación + Core",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con mochila (top set 4-5 reps)",
+              "series": 5,
+              "reps": "4-6",
+              "descanso": "120s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto rumano (tempo 4-1-1)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "90s",
+              "tempo": "4-1-1"
+            },
+            {
+              "nombre": "Gemelos pesado (isométrico 3s)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-3-1"
+            },
+            {
+              "nombre": "Plancha frontal con carga",
+              "series": 3,
+              "reps": "45-60s",
+              "descanso": "45s",
+              "tempo": "isometría"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Desnivel Progresivo",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento movilidad",
+              "series": 1,
+              "reps": "10-12 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            },
+            {
+              "nombre": "Caminata con desnivel Z2-Z3",
+              "series": 1,
+              "reps": "100 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Descenso técnico exigente",
+              "series": 1,
+              "reps": "25 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Respiración diafragmática",
+              "series": 1,
+              "reps": "8-10 min",
+              "descanso": "0s",
+              "tempo": "nasal"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Fuerza Estabilidad Intensiva",
+          "ejercicios": [
+            {
+              "nombre": "Step-down (cajón alto, pausa 2s)",
+              "series": 4,
+              "reps": "6-8/lado",
+              "descanso": "90s",
+              "tempo": "3-2-1"
+            },
+            {
+              "nombre": "Split squat búlgaro (lastre)",
+              "series": 4,
+              "reps": "8/lado",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto a una pierna (alcance)",
+              "series": 3,
+              "reps": "8-10/lado",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Elevación tibial",
+              "series": 3,
+              "reps": "18-20",
+              "descanso": "45s",
+              "tempo": "2-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Cuestas Tempo (Umbral)",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento Z1 + drills",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Intervalos en cuesta Z3-Z4",
+              "series": 4,
+              "reps": "10 min",
+              "descanso": "3-4 min",
+              "tempo": "tempo"
+            },
+            {
+              "nombre": "Escaleras con mochila",
+              "series": 1,
+              "reps": "20 min",
+              "descanso": "0s",
+              "tempo": "constante"
+            },
+            {
+              "nombre": "Estiramientos + foam",
+              "series": 1,
+              "reps": "10-12 min",
+              "descanso": "0s",
+              "tempo": "suave"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Técnica + Movilidad + Respiración",
+          "ejercicios": [
+            {
+              "nombre": "Bastones: técnica de empuje potente",
+              "series": 1,
+              "reps": "30-35 min",
+              "descanso": "0s",
+              "tempo": "cadenciado"
+            },
+            {
+              "nombre": "Equilibrio dinámico (cambios de apoyo)",
+              "series": 3,
+              "reps": "30-40s",
+              "descanso": "30s",
+              "tempo": "controlado"
+            },
+            {
+              "nombre": "Saltos en línea con giro",
+              "series": 3,
+              "reps": "20-30s",
+              "descanso": "45s",
+              "tempo": "rápido"
+            },
+            {
+              "nombre": "Movilidad global + respiración",
+              "series": 1,
+              "reps": "15-18 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Semana 12",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Culminación + Core",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con mochila (top set 3-5 reps + 2x6-8)",
+              "series": 3,
+              "reps": "3-8",
+              "descanso": "120s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto rumano (pesado)",
+              "series": 3,
+              "reps": "5-7",
+              "descanso": "120s",
+              "tempo": "4-0-1"
+            },
+            {
+              "nombre": "Gemelos pesado (isométrico 3s)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-3-1"
+            },
+            {
+              "nombre": "Plancha frontal con carga",
+              "series": 3,
+              "reps": "45-60s",
+              "descanso": "45s",
+              "tempo": "isometría"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Desnivel Progresivo",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento movilidad",
+              "series": 1,
+              "reps": "10-12 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            },
+            {
+              "nombre": "Caminata con desnivel (Z2→Z3)",
+              "series": 1,
+              "reps": "100 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Descenso técnico exigente",
+              "series": 1,
+              "reps": "25-30 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Respiración diafragmática",
+              "series": 1,
+              "reps": "10 min",
+              "descanso": "0s",
+              "tempo": "nasal"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Fuerza Estabilidad Culminación",
+          "ejercicios": [
+            {
+              "nombre": "Step-down (cajón alto, pausa 2s)",
+              "series": 4,
+              "reps": "6-8/lado",
+              "descanso": "90s",
+              "tempo": "3-2-1"
+            },
+            {
+              "nombre": "Split squat búlgaro (pesado técnico)",
+              "series": 4,
+              "reps": "6-8/lado",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto a una pierna (alcance)",
+              "series": 3,
+              "reps": "8/lado",
+              "descanso": "75s",
+              "tempo": "3-0-1"
+            },
+            {
+              "nombre": "Elevación tibial (alto rep)",
+              "series": 3,
+              "reps": "20-25",
+              "descanso": "45s",
+              "tempo": "2-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Simulación de Ascenso Largo",
+          "ejercicios": [
+            {
+              "nombre": "Calentamiento caminata Z1",
+              "series": 1,
+              "reps": "15-20 min",
+              "descanso": "0s",
+              "tempo": "continuo"
+            },
+            {
+              "nombre": "Simulación ascenso continuo con mochila",
+              "series": 1,
+              "reps": "180-210 min",
+              "descanso": "0s",
+              "tempo": "Z2 sostenido"
+            },
+            {
+              "nombre": "Descenso técnico prolongado",
+              "series": 1,
+              "reps": "30-40 min",
+              "descanso": "0s",
+              "tempo": "técnico"
+            },
+            {
+              "nombre": "Estiramientos + respiración",
+              "series": 1,
+              "reps": "12-15 min",
+              "descanso": "0s",
+              "tempo": "suave"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Técnica + Movilidad (Afinado)",
+          "ejercicios": [
+            {
+              "nombre": "Bastones: economía y ritmo final",
+              "series": 1,
+              "reps": "25-30 min",
+              "descanso": "0s",
+              "tempo": "cadenciado"
+            },
+            {
+              "nombre": "Propriocepción tobillo avanzada",
+              "series": 3,
+              "reps": "30-40s/lado",
+              "descanso": "30s",
+              "tempo": "isometría"
+            },
+            {
+              "nombre": "Drills de pies (frecuencia alta)",
+              "series": 3,
+              "reps": "20-30s",
+              "descanso": "45s",
+              "tempo": "rápido"
+            },
+            {
+              "nombre": "Movilidad global + respiración",
+              "series": 1,
+              "reps": "15-18 min",
+              "descanso": "0s",
+              "tempo": "fluido"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
