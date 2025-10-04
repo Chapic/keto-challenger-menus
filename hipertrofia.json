@@ -1,512 +1,1872 @@
 {
-"programa": "Hipertrofia",
-"semanas": [
-{
-"semana": 1,
-"dias": [
-{
-"dia": "Lunes - Pecho y tríceps",
-"ejercicios": [
-{ "nombre": "Press de banca con barra", "series": 3, "reps": "8-12", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Press inclinado con mancuernas", "series": 3, "reps": "8-12", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Aperturas en máquina o polea", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-0" },
-{ "nombre": "Fondos en paralelas (asistidos si hace falta)", "series": 2, "reps": "8-12", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Extensión de tríceps en cuerda (polea)", "series": 3, "reps": "10-14", "descanso": "60s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Miércoles - Espalda y bíceps",
-"ejercicios": [
-{ "nombre": "Jalón al pecho agarre amplio", "series": 3, "reps": "8-12", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Remo con barra pendlay", "series": 3, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-0" },
-{ "nombre": "Remo con mancuerna a una mano", "series": 2, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" },
-{ "nombre": "Face pull en polea", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Curl de bíceps con barra", "series": 3, "reps": "8-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Viernes - Piernas y glúteos",
-"ejercicios": [
-{ "nombre": "Sentadilla trasera (barra alta)", "series": 3, "reps": "6-10", "descanso": "120s", "tempo": "3-0-1-0" },
-{ "nombre": "Prensa de piernas", "series": 3, "reps": "10-15", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Peso muerto rumano", "series": 3, "reps": "8-12", "descanso": "120s", "tempo": "3-0-1-1" },
-{ "nombre": "Curl femoral tumbado", "series": 2, "reps": "10-14", "descanso": "75s", "tempo": "2-0-1-1" },
-{ "nombre": "Elevación de gemelos en máquina", "series": 3, "reps": "12-20", "descanso": "60s", "tempo": "2-1-2-1" }
-]
-},
-{
-"dia": "Sábado - Hombros y core",
-"ejercicios": [
-{ "nombre": "Press militar con barra (de pie)", "series": 3, "reps": "6-10", "descanso": "120s", "tempo": "2-0-1-0" },
-{ "nombre": "Elevaciones laterales con mancuernas", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Pájaros (elevación lateral inclinada)", "series": 2, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Encogimientos en polea o crunch en máquina", "series": 3, "reps": "12-20", "descanso": "45s", "tempo": "2-1-2-1" },
-{ "nombre": "Plancha", "series": 3, "reps": "30-45s", "descanso": "45s", "tempo": "isométrico" }
-]
-}
-]
-},
-{
-"semana": 2,
-"dias": [
-{
-"dia": "Lunes - Pecho y tríceps",
-"ejercicios": [
-{ "nombre": "Press de banca con barra", "series": 4, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-0" },
-{ "nombre": "Press inclinado con mancuernas", "series": 3, "reps": "8-12", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Aperturas en máquina o polea", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-0" },
-{ "nombre": "Fondos en paralelas", "series": 3, "reps": "8-12", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Extensión de tríceps en cuerda (polea)", "series": 3, "reps": "10-14", "descanso": "60s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Miércoles - Espalda y bíceps",
-"ejercicios": [
-{ "nombre": "Dominadas asistidas o jalón al pecho", "series": 3, "reps": "6-10", "descanso": "120s", "tempo": "2-0-1-1" },
-{ "nombre": "Remo con barra T o con barra", "series": 3, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-0" },
-{ "nombre": "Pullover en polea alta", "series": 2, "reps": "12-15", "descanso": "60s", "tempo": "2-0-2-1" },
-{ "nombre": "Face pull en polea", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Curl inclinado con mancuernas", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Viernes - Piernas y glúteos",
-"ejercicios": [
-{ "nombre": "Sentadilla trasera (barra alta)", "series": 4, "reps": "6-10", "descanso": "120s", "tempo": "3-0-1-0" },
-{ "nombre": "Prensa de piernas", "series": 3, "reps": "10-15", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Peso muerto rumano", "series": 3, "reps": "8-12", "descanso": "120s", "tempo": "3-0-1-1" },
-{ "nombre": "Extensión de cuádriceps", "series": 2, "reps": "12-15", "descanso": "60s", "tempo": "2-1-1-1" },
-{ "nombre": "Elevación de gemelos en máquina", "series": 3, "reps": "12-20", "descanso": "60s", "tempo": "2-1-2-1" }
-]
-},
-{
-"dia": "Sábado - Hombros y core",
-"ejercicios": [
-{ "nombre": "Press militar con barra (de pie)", "series": 3, "reps": "6-10", "descanso": "120s", "tempo": "2-0-1-0" },
-{ "nombre": "Elevaciones laterales con mancuernas", "series": 4, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Pájaros (elevación lateral inclinada)", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Rueda abdominal (ab-wheel) o crunch", "series": 3, "reps": "8-12", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Plancha lateral", "series": 3, "reps": "20-30s", "descanso": "45s", "tempo": "isométrico" }
-]
-}
-]
-},
-{
-"semana": 3,
-"dias": [
-{
-"dia": "Lunes - Pecho y tríceps",
-"ejercicios": [
-{ "nombre": "Press de banca con barra (última serie AMRAP dejando 1-2 RIR)", "series": 4, "reps": "6-10", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Press inclinado con mancuernas", "series": 4, "reps": "8-12", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Aperturas con mancuernas en banco plano", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-0" },
-{ "nombre": "Fondos en paralelas lastrados o asistidos", "series": 3, "reps": "8-10", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Extensión de tríceps en cuerda (polea)", "series": 4, "reps": "10-12", "descanso": "60s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Miércoles - Espalda y bíceps",
-"ejercicios": [
-{ "nombre": "Dominadas pronas (asistidas si es necesario)", "series": 4, "reps": "6-10", "descanso": "120s", "tempo": "2-0-1-1" },
-{ "nombre": "Remo con barra", "series": 4, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-0" },
-{ "nombre": "Jalón al pecho agarre neutro", "series": 3, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Face pull en polea", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Curl martillo con mancuernas", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Viernes - Piernas y glúteos",
-"ejercicios": [
-{ "nombre": "Sentadilla trasera (pausada 1s abajo en primeras 2 series)", "series": 4, "reps": "6-8", "descanso": "150s", "tempo": "3-1-1-0" },
-{ "nombre": "Prensa de piernas", "series": 4, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Peso muerto rumano", "series": 4, "reps": "8-10", "descanso": "150s", "tempo": "3-0-1-1" },
-{ "nombre": "Zancadas caminando", "series": 2, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Elevación de gemelos en máquina", "series": 4, "reps": "12-20", "descanso": "60s", "tempo": "2-1-2-1" }
-]
-},
-{
-"dia": "Sábado - Hombros y core",
-"ejercicios": [
-{ "nombre": "Press militar con mancuernas (sentado)", "series": 4, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-0" },
-{ "nombre": "Elevaciones laterales en polea", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Pájaros en peck-deck", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Crunch inverso", "series": 3, "reps": "12-20", "descanso": "45s", "tempo": "2-1-2-1" },
-{ "nombre": "Plancha", "series": 3, "reps": "45-60s", "descanso": "45s", "tempo": "isométrico" }
-]
-}
-]
-},
-{
-"semana": 4,
-"dias": [
-{
-"dia": "Lunes - Pecho y tríceps (Descarga)",
-"ejercicios": [
-{ "nombre": "Press de banca con barra", "series": 2, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-0" },
-{ "nombre": "Press inclinado con mancuernas", "series": 2, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Aperturas en polea", "series": 2, "reps": "12-15", "descanso": "75s", "tempo": "2-1-2-0" },
-{ "nombre": "Extensión de tríceps en cuerda", "series": 2, "reps": "12-15", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Miércoles - Espalda y bíceps (Descarga)",
-"ejercicios": [
-{ "nombre": "Jalón al pecho", "series": 2, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Remo con mancuerna a una mano", "series": 2, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Face pull", "series": 2, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Curl de bíceps con barra", "series": 2, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Viernes - Piernas y glúteos (Descarga)",
-"ejercicios": [
-{ "nombre": "Sentadilla goblet", "series": 2, "reps": "10-12", "descanso": "90s", "tempo": "3-0-1-0" },
-{ "nombre": "Prensa de piernas", "series": 2, "reps": "12-15", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Peso muerto rumano con mancuernas", "series": 2, "reps": "10-12", "descanso": "120s", "tempo": "3-0-1-1" },
-{ "nombre": "Elevación de gemelos", "series": 2, "reps": "15-20", "descanso": "60s", "tempo": "2-1-2-1" }
-]
-}
-]
-},
-{
-"semana": 5,
-"dias": [
-{
-"dia": "Lunes - Pecho y tríceps (variación B)",
-"ejercicios": [
-{ "nombre": "Press inclinado con barra", "series": 4, "reps": "6-10", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Press de banca con mancuernas", "series": 4, "reps": "8-12", "descanso": "120s", "tempo": "2-0-1-1" },
-{ "nombre": "Cruce de poleas alto-pecho", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Press cerrado con barra", "series": 3, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-0" },
-{ "nombre": "Extensión de tríceps por encima de la cabeza (cuerda)", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Martes - Piernas y glúteos",
-"ejercicios": [
-{ "nombre": "Sentadilla frontal", "series": 4, "reps": "6-8", "descanso": "150s", "tempo": "3-0-1-0" },
-{ "nombre": "Prensa de piernas (pies altos para isquios/glúteo)", "series": 4, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Peso muerto rumano", "series": 4, "reps": "8-10", "descanso": "150s", "tempo": "3-0-1-1" },
-{ "nombre": "Curl femoral sentado", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" },
-{ "nombre": "Elevación de gemelos en prensa", "series": 4, "reps": "12-20", "descanso": "60s", "tempo": "2-1-2-1" }
-]
-},
-{
-"dia": "Jueves - Espalda y bíceps",
-"ejercicios": [
-{ "nombre": "Jalón al pecho agarre supino", "series": 4, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-1" },
-{ "nombre": "Remo en máquina pecho apoyado", "series": 4, "reps": "8-12", "descanso": "120s", "tempo": "2-0-1-1" },
-{ "nombre": "Pulldown con agarre en V", "series": 3, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Curl de bíceps en predicador", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" },
-{ "nombre": "Curl martillo con cuerda", "series": 2, "reps": "12-15", "descanso": "60s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Sábado - Hombros y core",
-"ejercicios": [
-{ "nombre": "Press militar en máquina o smith", "series": 4, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-0" },
-{ "nombre": "Elevaciones laterales (método 1.5 reps)", "series": 3, "reps": "12-15", "descanso": "75s", "tempo": "1-0-1-0/0.5" },
-{ "nombre": "Remo al mentón con barra Z", "series": 3, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Pájaros en banco inclinado", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Rueda abdominal (ab-wheel) o plancha", "series": 3, "reps": "8-12", "descanso": "60s", "tempo": "controlado" }
-]
-}
-]
-},
-{
-"semana": 6,
-"dias": [
-{
-"dia": "Lunes - Pecho y tríceps",
-"ejercicios": [
-{ "nombre": "Press inclinado con barra (pausado 1s en el pecho)", "series": 4, "reps": "6-8", "descanso": "150s", "tempo": "2-1-1-0" },
-{ "nombre": "Press de banca con mancuernas", "series": 4, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-1" },
-{ "nombre": "Cruce de poleas bajo-pecho", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Press cerrado con barra", "series": 4, "reps": "6-8", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Extensión de tríceps por encima de la cabeza (mancuerna)", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Martes - Piernas y glúteos",
-"ejercicios": [
-{ "nombre": "Sentadilla frontal", "series": 4, "reps": "6-8", "descanso": "150s", "tempo": "3-0-1-0" },
-{ "nombre": "Prensa de piernas", "series": 4, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Peso muerto rumano", "series": 4, "reps": "8-10", "descanso": "150s", "tempo": "3-0-1-1" },
-{ "nombre": "Extensión de cuádriceps", "series": 3, "reps": "12-15", "descanso": "75s", "tempo": "2-1-1-1" },
-{ "nombre": "Elevación de gemelos en prensa", "series": 4, "reps": "12-20", "descanso": "60s", "tempo": "2-1-2-1" }
-]
-},
-{
-"dia": "Jueves - Espalda y bíceps",
-"ejercicios": [
-{ "nombre": "Dominadas supinas (asistidas o lastradas)", "series": 4, "reps": "6-10", "descanso": "150s", "tempo": "2-0-1-1" },
-{ "nombre": "Remo con barra T o pecho apoyado", "series": 4, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-1" },
-{ "nombre": "Pullover en polea", "series": 3, "reps": "12-15", "descanso": "75s", "tempo": "2-0-2-1" },
-{ "nombre": "Curl de bíceps en predicador", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" },
-{ "nombre": "Curl martillo con cuerda", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Sábado - Hombros y core",
-"ejercicios": [
-{ "nombre": "Press militar en máquina o smith", "series": 4, "reps": "6-8", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Elevaciones laterales (método 1.5 reps)", "series": 4, "reps": "12-15", "descanso": "75s", "tempo": "1-0-1-0/0.5" },
-{ "nombre": "Remo al mentón con barra Z", "series": 3, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Pájaros en banco inclinado", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Crunch cable alto", "series": 3, "reps": "12-20", "descanso": "60s", "tempo": "2-1-2-1" }
-]
-}
-]
-},
-{
-"semana": 7,
-"dias": [
-{
-"dia": "Lunes - Pecho y tríceps",
-"ejercicios": [
-{ "nombre": "Press inclinado con barra (última serie AMRAP 1 RIR)", "series": 5, "reps": "6-8", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Press de banca con mancuernas", "series": 4, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-1" },
-{ "nombre": "Cruce de poleas", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Press cerrado con barra", "series": 4, "reps": "6-8", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Extensión de tríceps por encima de la cabeza (cuerda)", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Martes - Piernas y glúteos",
-"ejercicios": [
-{ "nombre": "Sentadilla frontal", "series": 5, "reps": "5-7", "descanso": "150s", "tempo": "3-0-1-0" },
-{ "nombre": "Prensa de piernas", "series": 4, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Peso muerto rumano", "series": 4, "reps": "8-10", "descanso": "150s", "tempo": "3-0-1-1" },
-{ "nombre": "Extensión de cuádriceps", "series": 3, "reps": "12-15", "descanso": "75s", "tempo": "2-1-1-1" },
-{ "nombre": "Elevación de gemelos en prensa", "series": 4, "reps": "15-20", "descanso": "60s", "tempo": "2-1-2-1" }
-]
-},
-{
-"dia": "Jueves - Espalda y bíceps",
-"ejercicios": [
-{ "nombre": "Dominadas pronas (lastradas si procede)", "series": 4, "reps": "6-8", "descanso": "150s", "tempo": "2-0-1-1" },
-{ "nombre": "Remo con barra", "series": 5, "reps": "6-8", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Pulldown con agarre en V", "series": 3, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Curl de bíceps en predicador", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" },
-{ "nombre": "Curl martillo con cuerda", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Sábado - Hombros y core",
-"ejercicios": [
-{ "nombre": "Press militar en máquina o smith", "series": 5, "reps": "6-8", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Elevaciones laterales", "series": 4, "reps": "12-15", "descanso": "75s", "tempo": "2-1-2-1" },
-{ "nombre": "Pájaros en peck-deck", "series": 4, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Crunch cable alto", "series": 3, "reps": "12-20", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Plancha", "series": 3, "reps": "45-60s", "descanso": "45s", "tempo": "isométrico" }
-]
-}
-]
-},
-{
-"semana": 8,
-"dias": [
-{
-"dia": "Lunes - Pecho y tríceps (Descarga)",
-"ejercicios": [
-{ "nombre": "Press de banca con barra", "series": 2, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-0" },
-{ "nombre": "Press inclinado con mancuernas", "series": 2, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Cruce de poleas", "series": 2, "reps": "12-15", "descanso": "75s", "tempo": "2-1-2-1" }
-]
-},
-{
-"dia": "Miércoles - Espalda y bíceps (Descarga)",
-"ejercicios": [
-{ "nombre": "Jalón al pecho", "series": 2, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Remo con mancuerna", "series": 2, "reps": "10-12", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Curl de bíceps con barra", "series": 2, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Viernes - Piernas y glúteos (Descarga)",
-"ejercicios": [
-{ "nombre": "Sentadilla goblet", "series": 2, "reps": "10-12", "descanso": "90s", "tempo": "3-0-1-0" },
-{ "nombre": "Prensa de piernas", "series": 2, "reps": "12-15", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Peso muerto rumano con mancuernas", "series": 2, "reps": "10-12", "descanso": "120s", "tempo": "3-0-1-1" }
-]
-}
-]
-},
-{
-"semana": 9,
-"dias": [
-{
-"dia": "Lunes - Pecho y tríceps (fase intensificación)",
-"ejercicios": [
-{ "nombre": "Press de banca con barra (pausado 1s)", "series": 4, "reps": "5-8", "descanso": "150s", "tempo": "2-1-1-0" },
-{ "nombre": "Press inclinado con mancuernas", "series": 4, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-1" },
-{ "nombre": "Aperturas en máquina", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-0" },
-{ "nombre": "Fondos en paralelas", "series": 3, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-0" },
-{ "nombre": "Extensión de tríceps en cuerda", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Martes - Piernas y glúteos",
-"ejercicios": [
-{ "nombre": "Sentadilla trasera (barra alta)", "series": 4, "reps": "5-8", "descanso": "150s", "tempo": "3-0-1-0" },
-{ "nombre": "Prensa de piernas", "series": 4, "reps": "8-12", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Peso muerto rumano", "series": 4, "reps": "6-10", "descanso": "150s", "tempo": "3-0-1-1" },
-{ "nombre": "Zancadas búlgaras", "series": 2, "reps": "8-10", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Elevación de gemelos de pie", "series": 4, "reps": "12-18", "descanso": "60s", "tempo": "2-1-2-1" }
-]
-},
-{
-"dia": "Jueves - Espalda y bíceps",
-"ejercicios": [
-{ "nombre": "Dominadas pronas (lastradas si procede)", "series": 4, "reps": "5-8", "descanso": "150s", "tempo": "2-0-1-1" },
-{ "nombre": "Remo con barra", "series": 4, "reps": "6-8", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Pulldown en V", "series": 3, "reps": "8-10", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Curl de bíceps con barra", "series": 3, "reps": "8-10", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Curl martillo alterno", "series": 2, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Sábado - Hombros y core",
-"ejercicios": [
-{ "nombre": "Press militar con barra (de pie)", "series": 4, "reps": "5-8", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Elevaciones laterales", "series": 4, "reps": "12-15", "descanso": "75s", "tempo": "2-1-2-1" },
-{ "nombre": "Pájaros en peck-deck", "series": 3, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Crunch en máquina", "series": 3, "reps": "12-20", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Plancha", "series": 3, "reps": "45-60s", "descanso": "45s", "tempo": "isométrico" }
-]
-}
-]
-},
-{
-"semana": 10,
-"dias": [
-{
-"dia": "Lunes - Pecho y tríceps",
-"ejercicios": [
-{ "nombre": "Press de banca con barra (última serie AMRAP 1 RIR)", "series": 5, "reps": "5-7", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Press inclinado con mancuernas", "series": 4, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-1" },
-{ "nombre": "Aperturas en máquina", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-1-2-0" },
-{ "nombre": "Fondos en paralelas", "series": 3, "reps": "6-8", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Extensión de tríceps en cuerda", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Martes - Piernas y glúteos",
-"ejercicios": [
-{ "nombre": "Sentadilla trasera (barra alta)", "series": 5, "reps": "4-6", "descanso": "150s", "tempo": "3-0-1-0" },
-{ "nombre": "Prensa de piernas", "series": 4, "reps": "8-10", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Peso muerto rumano", "series": 4, "reps": "6-8", "descanso": "150s", "tempo": "3-0-1-1" },
-{ "nombre": "Extensión de cuádriceps", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-1-1-1" },
-{ "nombre": "Elevación de gemelos", "series": 4, "reps": "12-18", "descanso": "60s", "tempo": "2-1-2-1" }
-]
-},
-{
-"dia": "Jueves - Espalda y bíceps",
-"ejercicios": [
-{ "nombre": "Dominadas (lastradas si procede)", "series": 5, "reps": "4-6", "descanso": "150s", "tempo": "2-0-1-1" },
-{ "nombre": "Remo con barra", "series": 5, "reps": "5-7", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Pulldown en V", "series": 3, "reps": "8-10", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Curl de bíceps con barra", "series": 3, "reps": "8-10", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Curl martillo alterno", "series": 2, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Sábado - Hombros y core",
-"ejercicios": [
-{ "nombre": "Press militar con barra (de pie)", "series": 5, "reps": "4-6", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Elevaciones laterales", "series": 4, "reps": "10-12", "descanso": "75s", "tempo": "2-1-2-1" },
-{ "nombre": "Pájaros en peck-deck", "series": 3, "reps": "10-12", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Crunch en máquina", "series": 3, "reps": "12-20", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Plancha con carga ligera", "series": 3, "reps": "45-60s", "descanso": "60s", "tempo": "isométrico" }
-]
-}
-]
-},
-{
-"semana": 11,
-"dias": [
-{
-"dia": "Lunes - Pecho y tríceps",
-"ejercicios": [
-{ "nombre": "Press de banca con barra (pausado 1s, AMRAP 1 RIR)", "series": 5, "reps": "4-6", "descanso": "180s", "tempo": "2-1-1-0" },
-{ "nombre": "Press inclinado con mancuernas", "series": 4, "reps": "6-8", "descanso": "150s", "tempo": "2-0-1-1" },
-{ "nombre": "Aperturas en máquina", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-1-2-0" },
-{ "nombre": "Fondos en paralelas", "series": 3, "reps": "6-8", "descanso": "150s", "tempo": "2-0-1-0" },
-{ "nombre": "Extensión de tríceps en cuerda", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Martes - Piernas y glúteos",
-"ejercicios": [
-{ "nombre": "Sentadilla trasera (barra alta)", "series": 5, "reps": "4-6", "descanso": "180s", "tempo": "3-0-1-0" },
-{ "nombre": "Prensa de piernas", "series": 4, "reps": "8-10", "descanso": "90s", "tempo": "2-0-1-0" },
-{ "nombre": "Peso muerto rumano", "series": 4, "reps": "6-8", "descanso": "150s", "tempo": "3-0-1-1" },
-{ "nombre": "Extensión de cuádriceps", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-1-1-1" },
-{ "nombre": "Elevación de gemelos", "series": 4, "reps": "12-18", "descanso": "60s", "tempo": "2-1-2-1" }
-]
-},
-{
-"dia": "Jueves - Espalda y bíceps",
-"ejercicios": [
-{ "nombre": "Dominadas (lastradas si procede)", "series": 5, "reps": "4-6", "descanso": "180s", "tempo": "2-0-1-1" },
-{ "nombre": "Remo con barra", "series": 5, "reps": "4-6", "descanso": "180s", "tempo": "2-0-1-0" },
-{ "nombre": "Pulldown en V", "series": 3, "reps": "8-10", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Curl de bíceps con barra", "series": 3, "reps": "8-10", "descanso": "90s", "tempo": "2-0-1-1" },
-{ "nombre": "Curl martillo alterno", "series": 2, "reps": "10-12", "descanso": "75s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Sábado - Hombros y core",
-"ejercicios": [
-{ "nombre": "Press militar con barra (de pie)", "series": 5, "reps": "4-6", "descanso": "180s", "tempo": "2-0-1-0" },
-{ "nombre": "Elevaciones laterales", "series": 4, "reps": "10-12", "descanso": "75s", "tempo": "2-1-2-1" },
-{ "nombre": "Pájaros en peck-deck", "series": 3, "reps": "10-12", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Crunch en máquina", "series": 3, "reps": "12-20", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Plancha con carga ligera", "series": 3, "reps": "45-60s", "descanso": "60s", "tempo": "isométrico" }
-]
-}
-]
-},
-{
-"semana": 12,
-"dias": [
-{
-"dia": "Lunes - Pecho y tríceps (culminación)",
-"ejercicios": [
-{ "nombre": "Press de banca con barra (top set pesado 3-5 reps + back-off 2x6-8)", "series": 3, "reps": "3-8", "descanso": "180s", "tempo": "2-0-1-0" },
-{ "nombre": "Press inclinado con mancuernas", "series": 3, "reps": "6-8", "descanso": "150s", "tempo": "2-0-1-1" },
-{ "nombre": "Aperturas en máquina (estrés metabólico)", "series": 2, "reps": "15-20", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Press cerrado con barra", "series": 3, "reps": "5-7", "descanso": "150s", "tempo": "2-0-1-0" }
-]
-},
-{
-"dia": "Martes - Piernas y glúteos (culminación)",
-"ejercicios": [
-{ "nombre": "Sentadilla trasera (top set 3-5 reps + back-off 2x6-8)", "series": 3, "reps": "3-8", "descanso": "180s", "tempo": "3-0-1-0" },
-{ "nombre": "Prensa de piernas (rango completo)", "series": 3, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-0" },
-{ "nombre": "Peso muerto rumano", "series": 3, "reps": "5-7", "descanso": "180s", "tempo": "3-0-1-1" },
-{ "nombre": "Elevación de gemelos pesado", "series": 3, "reps": "10-12", "descanso": "75s", "tempo": "2-1-2-1" }
-]
-},
-{
-"dia": "Jueves - Espalda y bíceps (culminación)",
-"ejercicios": [
-{ "nombre": "Dominadas lastradas (top set 3-5 reps + back-off 2x6-8)", "series": 3, "reps": "3-8", "descanso": "180s", "tempo": "2-0-1-1" },
-{ "nombre": "Remo con barra (estricto)", "series": 3, "reps": "5-7", "descanso": "180s", "tempo": "2-0-1-0" },
-{ "nombre": "Pulldown en V", "series": 2, "reps": "8-10", "descanso": "120s", "tempo": "2-0-1-1" },
-{ "nombre": "Curl de bíceps con barra", "series": 3, "reps": "6-8", "descanso": "120s", "tempo": "2-0-1-1" }
-]
-},
-{
-"dia": "Sábado - Hombros y core (culminación)",
-"ejercicios": [
-{ "nombre": "Press militar con barra (top set 3-5 reps + back-off 2x6-8)", "series": 3, "reps": "3-8", "descanso": "180s", "tempo": "2-0-1-0" },
-{ "nombre": "Elevaciones laterales en series descendentes", "series": 2, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Pájaros en peck-deck", "series": 2, "reps": "12-15", "descanso": "60s", "tempo": "2-1-2-1" },
-{ "nombre": "Crunch pesado en máquina", "series": 3, "reps": "10-12", "descanso": "60s", "tempo": "2-1-2-1" }
-]
-}
-]
-}
-]
+  "programa": "Hipertrofia",
+  "semanas": [
+    {
+      "id": 1,
+      "nombre": "Semana 1",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Pecho y tríceps",
+          "ejercicios": [
+            {
+              "nombre": "Press de banca con barra",
+              "series": 3,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas",
+              "series": 3,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Aperturas en máquina o polea",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-0"
+            },
+            {
+              "nombre": "Fondos en paralelas (asistidos si hace falta)",
+              "series": 2,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Extensión de tríceps en cuerda (polea)",
+              "series": 3,
+              "reps": "10-14",
+              "descanso": "60s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Miércoles - Espalda y bíceps",
+          "ejercicios": [
+            {
+              "nombre": "Jalón al pecho agarre amplio",
+              "series": 3,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Remo con barra pendlay",
+              "series": 3,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Face pull en polea",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Curl de bíceps con barra",
+              "series": 3,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Viernes - Piernas y glúteos",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera (barra alta)",
+              "series": 3,
+              "reps": "6-10",
+              "descanso": "120s",
+              "tempo": "3-0-1-0"
+            },
+            {
+              "nombre": "Prensa de piernas",
+              "series": 3,
+              "reps": "10-15",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 3,
+              "reps": "8-12",
+              "descanso": "120s",
+              "tempo": "3-0-1-1"
+            },
+            {
+              "nombre": "Curl femoral tumbado",
+              "series": 2,
+              "reps": "10-14",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Elevación de gemelos en máquina",
+              "series": 3,
+              "reps": "12-20",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Sábado - Hombros y core",
+          "ejercicios": [
+            {
+              "nombre": "Press militar con barra (de pie)",
+              "series": 3,
+              "reps": "6-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Elevaciones laterales con mancuernas",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Pájaros (elevación lateral inclinada)",
+              "series": 2,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Encogimientos en polea o crunch en máquina",
+              "series": 3,
+              "reps": "12-20",
+              "descanso": "45s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Plancha",
+              "series": 3,
+              "reps": "30-45s",
+              "descanso": "45s",
+              "tempo": "isométrico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Semana 2",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Pecho y tríceps",
+          "ejercicios": [
+            {
+              "nombre": "Press de banca con barra",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas",
+              "series": 3,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Aperturas en máquina o polea",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-0"
+            },
+            {
+              "nombre": "Fondos en paralelas",
+              "series": 3,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Extensión de tríceps en cuerda (polea)",
+              "series": 3,
+              "reps": "10-14",
+              "descanso": "60s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Miércoles - Espalda y bíceps",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas asistidas o jalón al pecho",
+              "series": 3,
+              "reps": "6-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Remo con barra T o con barra",
+              "series": 3,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Pullover en polea alta",
+              "series": 2,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-2-1"
+            },
+            {
+              "nombre": "Face pull en polea",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Curl inclinado con mancuernas",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Viernes - Piernas y glúteos",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera (barra alta)",
+              "series": 4,
+              "reps": "6-10",
+              "descanso": "120s",
+              "tempo": "3-0-1-0"
+            },
+            {
+              "nombre": "Prensa de piernas",
+              "series": 3,
+              "reps": "10-15",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 3,
+              "reps": "8-12",
+              "descanso": "120s",
+              "tempo": "3-0-1-1"
+            },
+            {
+              "nombre": "Extensión de cuádriceps",
+              "series": 2,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-1-1"
+            },
+            {
+              "nombre": "Elevación de gemelos en máquina",
+              "series": 3,
+              "reps": "12-20",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Sábado - Hombros y core",
+          "ejercicios": [
+            {
+              "nombre": "Press militar con barra (de pie)",
+              "series": 3,
+              "reps": "6-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Elevaciones laterales con mancuernas",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Pájaros (elevación lateral inclinada)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Rueda abdominal (ab-wheel) o crunch",
+              "series": 3,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Plancha lateral",
+              "series": 3,
+              "reps": "20-30s",
+              "descanso": "45s",
+              "tempo": "isométrico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Semana 3",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Pecho y tríceps",
+          "ejercicios": [
+            {
+              "nombre": "Press de banca con barra (última serie AMRAP dejando 1-2 RIR)",
+              "series": 4,
+              "reps": "6-10",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Aperturas con mancuernas en banco plano",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-0"
+            },
+            {
+              "nombre": "Fondos en paralelas lastrados o asistidos",
+              "series": 3,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Extensión de tríceps en cuerda (polea)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Miércoles - Espalda y bíceps",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas pronas (asistidas si es necesario)",
+              "series": 4,
+              "reps": "6-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Remo con barra",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Jalón al pecho agarre neutro",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Face pull en polea",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Curl martillo con mancuernas",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Viernes - Piernas y glúteos",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera (pausada 1s abajo en primeras 2 series)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "3-1-1-0"
+            },
+            {
+              "nombre": "Prensa de piernas",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "150s",
+              "tempo": "3-0-1-1"
+            },
+            {
+              "nombre": "Zancadas caminando",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Elevación de gemelos en máquina",
+              "series": 4,
+              "reps": "12-20",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Sábado - Hombros y core",
+          "ejercicios": [
+            {
+              "nombre": "Press militar con mancuernas (sentado)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Elevaciones laterales en polea",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Pájaros en peck-deck",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Crunch inverso",
+              "series": 3,
+              "reps": "12-20",
+              "descanso": "45s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Plancha",
+              "series": 3,
+              "reps": "45-60s",
+              "descanso": "45s",
+              "tempo": "isométrico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Semana 4",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Pecho y tríceps (Descarga)",
+          "ejercicios": [
+            {
+              "nombre": "Press de banca con barra",
+              "series": 2,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Aperturas en polea",
+              "series": 2,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-1-2-0"
+            },
+            {
+              "nombre": "Extensión de tríceps en cuerda",
+              "series": 2,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Miércoles - Espalda y bíceps (Descarga)",
+          "ejercicios": [
+            {
+              "nombre": "Jalón al pecho",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Face pull",
+              "series": 2,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Curl de bíceps con barra",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Viernes - Piernas y glúteos (Descarga)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla goblet",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "3-0-1-0"
+            },
+            {
+              "nombre": "Prensa de piernas",
+              "series": 2,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Peso muerto rumano con mancuernas",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "120s",
+              "tempo": "3-0-1-1"
+            },
+            {
+              "nombre": "Elevación de gemelos",
+              "series": 2,
+              "reps": "15-20",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Semana 5",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Pecho y tríceps (variación B)",
+          "ejercicios": [
+            {
+              "nombre": "Press inclinado con barra",
+              "series": 4,
+              "reps": "6-10",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Press de banca con mancuernas",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "120s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Cruce de poleas alto-pecho",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Press cerrado con barra",
+              "series": 3,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Extensión de tríceps por encima de la cabeza (cuerda)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Piernas y glúteos",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "3-0-1-0"
+            },
+            {
+              "nombre": "Prensa de piernas (pies altos para isquios/glúteo)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "150s",
+              "tempo": "3-0-1-1"
+            },
+            {
+              "nombre": "Curl femoral sentado",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Elevación de gemelos en prensa",
+              "series": 4,
+              "reps": "12-20",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Espalda y bíceps",
+          "ejercicios": [
+            {
+              "nombre": "Jalón al pecho agarre supino",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Remo en máquina pecho apoyado",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "120s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Pulldown con agarre en V",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Curl de bíceps en predicador",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Curl martillo con cuerda",
+              "series": 2,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Sábado - Hombros y core",
+          "ejercicios": [
+            {
+              "nombre": "Press militar en máquina o smith",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Elevaciones laterales (método 1.5 reps)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "1-0-1-0/0.5"
+            },
+            {
+              "nombre": "Remo al mentón con barra Z",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Pájaros en banco inclinado",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Rueda abdominal (ab-wheel) o plancha",
+              "series": 3,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "controlado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Semana 6",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Pecho y tríceps",
+          "ejercicios": [
+            {
+              "nombre": "Press inclinado con barra (pausado 1s en el pecho)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "2-1-1-0"
+            },
+            {
+              "nombre": "Press de banca con mancuernas",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Cruce de poleas bajo-pecho",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Press cerrado con barra",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Extensión de tríceps por encima de la cabeza (mancuerna)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Piernas y glúteos",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "3-0-1-0"
+            },
+            {
+              "nombre": "Prensa de piernas",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "150s",
+              "tempo": "3-0-1-1"
+            },
+            {
+              "nombre": "Extensión de cuádriceps",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-1-1-1"
+            },
+            {
+              "nombre": "Elevación de gemelos en prensa",
+              "series": 4,
+              "reps": "12-20",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Espalda y bíceps",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas supinas (asistidas o lastradas)",
+              "series": 4,
+              "reps": "6-10",
+              "descanso": "150s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Remo con barra T o pecho apoyado",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Pullover en polea",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-0-2-1"
+            },
+            {
+              "nombre": "Curl de bíceps en predicador",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Curl martillo con cuerda",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Sábado - Hombros y core",
+          "ejercicios": [
+            {
+              "nombre": "Press militar en máquina o smith",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Elevaciones laterales (método 1.5 reps)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "1-0-1-0/0.5"
+            },
+            {
+              "nombre": "Remo al mentón con barra Z",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Pájaros en banco inclinado",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Crunch cable alto",
+              "series": 3,
+              "reps": "12-20",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Semana 7",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Pecho y tríceps",
+          "ejercicios": [
+            {
+              "nombre": "Press inclinado con barra (última serie AMRAP 1 RIR)",
+              "series": 5,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Press de banca con mancuernas",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Cruce de poleas",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Press cerrado con barra",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Extensión de tríceps por encima de la cabeza (cuerda)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Piernas y glúteos",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal",
+              "series": 5,
+              "reps": "5-7",
+              "descanso": "150s",
+              "tempo": "3-0-1-0"
+            },
+            {
+              "nombre": "Prensa de piernas",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "150s",
+              "tempo": "3-0-1-1"
+            },
+            {
+              "nombre": "Extensión de cuádriceps",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-1-1-1"
+            },
+            {
+              "nombre": "Elevación de gemelos en prensa",
+              "series": 4,
+              "reps": "15-20",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Espalda y bíceps",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas pronas (lastradas si procede)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Remo con barra",
+              "series": 5,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Pulldown con agarre en V",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Curl de bíceps en predicador",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Curl martillo con cuerda",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Sábado - Hombros y core",
+          "ejercicios": [
+            {
+              "nombre": "Press militar en máquina o smith",
+              "series": 5,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Elevaciones laterales",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Pájaros en peck-deck",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Crunch cable alto",
+              "series": 3,
+              "reps": "12-20",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Plancha",
+              "series": 3,
+              "reps": "45-60s",
+              "descanso": "45s",
+              "tempo": "isométrico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Semana 8",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Pecho y tríceps (Descarga)",
+          "ejercicios": [
+            {
+              "nombre": "Press de banca con barra",
+              "series": 2,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Cruce de poleas",
+              "series": 2,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Miércoles - Espalda y bíceps (Descarga)",
+          "ejercicios": [
+            {
+              "nombre": "Jalón al pecho",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Remo con mancuerna",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Curl de bíceps con barra",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Viernes - Piernas y glúteos (Descarga)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla goblet",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "3-0-1-0"
+            },
+            {
+              "nombre": "Prensa de piernas",
+              "series": 2,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Peso muerto rumano con mancuernas",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "120s",
+              "tempo": "3-0-1-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Semana 9",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Pecho y tríceps (fase intensificación)",
+          "ejercicios": [
+            {
+              "nombre": "Press de banca con barra (pausado 1s)",
+              "series": 4,
+              "reps": "5-8",
+              "descanso": "150s",
+              "tempo": "2-1-1-0"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Aperturas en máquina",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-0"
+            },
+            {
+              "nombre": "Fondos en paralelas",
+              "series": 3,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Extensión de tríceps en cuerda",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Piernas y glúteos",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera (barra alta)",
+              "series": 4,
+              "reps": "5-8",
+              "descanso": "150s",
+              "tempo": "3-0-1-0"
+            },
+            {
+              "nombre": "Prensa de piernas",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 4,
+              "reps": "6-10",
+              "descanso": "150s",
+              "tempo": "3-0-1-1"
+            },
+            {
+              "nombre": "Zancadas búlgaras",
+              "series": 2,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Elevación de gemelos de pie",
+              "series": 4,
+              "reps": "12-18",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Espalda y bíceps",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas pronas (lastradas si procede)",
+              "series": 4,
+              "reps": "5-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Remo con barra",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Pulldown en V",
+              "series": 3,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Curl de bíceps con barra",
+              "series": 3,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Curl martillo alterno",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Sábado - Hombros y core",
+          "ejercicios": [
+            {
+              "nombre": "Press militar con barra (de pie)",
+              "series": 4,
+              "reps": "5-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Elevaciones laterales",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Pájaros en peck-deck",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Crunch en máquina",
+              "series": 3,
+              "reps": "12-20",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Plancha",
+              "series": 3,
+              "reps": "45-60s",
+              "descanso": "45s",
+              "tempo": "isométrico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Semana 10",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Pecho y tríceps",
+          "ejercicios": [
+            {
+              "nombre": "Press de banca con barra (última serie AMRAP 1 RIR)",
+              "series": 5,
+              "reps": "5-7",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Aperturas en máquina",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-1-2-0"
+            },
+            {
+              "nombre": "Fondos en paralelas",
+              "series": 3,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Extensión de tríceps en cuerda",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Piernas y glúteos",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera (barra alta)",
+              "series": 5,
+              "reps": "4-6",
+              "descanso": "150s",
+              "tempo": "3-0-1-0"
+            },
+            {
+              "nombre": "Prensa de piernas",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "3-0-1-1"
+            },
+            {
+              "nombre": "Extensión de cuádriceps",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-1-1-1"
+            },
+            {
+              "nombre": "Elevación de gemelos",
+              "series": 4,
+              "reps": "12-18",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Espalda y bíceps",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas (lastradas si procede)",
+              "series": 5,
+              "reps": "4-6",
+              "descanso": "150s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Remo con barra",
+              "series": 5,
+              "reps": "5-7",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Pulldown en V",
+              "series": 3,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Curl de bíceps con barra",
+              "series": 3,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Curl martillo alterno",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Sábado - Hombros y core",
+          "ejercicios": [
+            {
+              "nombre": "Press militar con barra (de pie)",
+              "series": 5,
+              "reps": "4-6",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Elevaciones laterales",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Pájaros en peck-deck",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Crunch en máquina",
+              "series": 3,
+              "reps": "12-20",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Plancha con carga ligera",
+              "series": 3,
+              "reps": "45-60s",
+              "descanso": "60s",
+              "tempo": "isométrico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "Semana 11",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Pecho y tríceps",
+          "ejercicios": [
+            {
+              "nombre": "Press de banca con barra (pausado 1s, AMRAP 1 RIR)",
+              "series": 5,
+              "reps": "4-6",
+              "descanso": "180s",
+              "tempo": "2-1-1-0"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Aperturas en máquina",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-1-2-0"
+            },
+            {
+              "nombre": "Fondos en paralelas",
+              "series": 3,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Extensión de tríceps en cuerda",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Piernas y glúteos",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera (barra alta)",
+              "series": 5,
+              "reps": "4-6",
+              "descanso": "180s",
+              "tempo": "3-0-1-0"
+            },
+            {
+              "nombre": "Prensa de piernas",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "3-0-1-1"
+            },
+            {
+              "nombre": "Extensión de cuádriceps",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-1-1-1"
+            },
+            {
+              "nombre": "Elevación de gemelos",
+              "series": 4,
+              "reps": "12-18",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Espalda y bíceps",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas (lastradas si procede)",
+              "series": 5,
+              "reps": "4-6",
+              "descanso": "180s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Remo con barra",
+              "series": 5,
+              "reps": "4-6",
+              "descanso": "180s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Pulldown en V",
+              "series": 3,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Curl de bíceps con barra",
+              "series": 3,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Curl martillo alterno",
+              "series": 2,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Sábado - Hombros y core",
+          "ejercicios": [
+            {
+              "nombre": "Press militar con barra (de pie)",
+              "series": 5,
+              "reps": "4-6",
+              "descanso": "180s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Elevaciones laterales",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Pájaros en peck-deck",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Crunch en máquina",
+              "series": 3,
+              "reps": "12-20",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Plancha con carga ligera",
+              "series": 3,
+              "reps": "45-60s",
+              "descanso": "60s",
+              "tempo": "isométrico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Semana 12",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Pecho y tríceps (culminación)",
+          "ejercicios": [
+            {
+              "nombre": "Press de banca con barra (top set pesado 3-5 reps + back-off 2x6-8)",
+              "series": 3,
+              "reps": "3-8",
+              "descanso": "180s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas",
+              "series": 3,
+              "reps": "6-8",
+              "descanso": "150s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Aperturas en máquina (estrés metabólico)",
+              "series": 2,
+              "reps": "15-20",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Press cerrado con barra",
+              "series": 3,
+              "reps": "5-7",
+              "descanso": "150s",
+              "tempo": "2-0-1-0"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Piernas y glúteos (culminación)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera (top set 3-5 reps + back-off 2x6-8)",
+              "series": 3,
+              "reps": "3-8",
+              "descanso": "180s",
+              "tempo": "3-0-1-0"
+            },
+            {
+              "nombre": "Prensa de piernas (rango completo)",
+              "series": 3,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 3,
+              "reps": "5-7",
+              "descanso": "180s",
+              "tempo": "3-0-1-1"
+            },
+            {
+              "nombre": "Elevación de gemelos pesado",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Jueves - Espalda y bíceps (culminación)",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas lastradas (top set 3-5 reps + back-off 2x6-8)",
+              "series": 3,
+              "reps": "3-8",
+              "descanso": "180s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Remo con barra (estricto)",
+              "series": 3,
+              "reps": "5-7",
+              "descanso": "180s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Pulldown en V",
+              "series": 2,
+              "reps": "8-10",
+              "descanso": "120s",
+              "tempo": "2-0-1-1"
+            },
+            {
+              "nombre": "Curl de bíceps con barra",
+              "series": 3,
+              "reps": "6-8",
+              "descanso": "120s",
+              "tempo": "2-0-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Sábado - Hombros y core (culminación)",
+          "ejercicios": [
+            {
+              "nombre": "Press militar con barra (top set 3-5 reps + back-off 2x6-8)",
+              "series": 3,
+              "reps": "3-8",
+              "descanso": "180s",
+              "tempo": "2-0-1-0"
+            },
+            {
+              "nombre": "Elevaciones laterales en series descendentes",
+              "series": 2,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Pájaros en peck-deck",
+              "series": 2,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            },
+            {
+              "nombre": "Crunch pesado en máquina",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-1-2-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
