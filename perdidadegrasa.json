@@ -1,0 +1,2607 @@
+{
+  "programa": "Pérdida de Grasa",
+  "semanas": [
+    {
+      "id": 1,
+      "nombre": "Semana 1",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Full Body Fire (Adaptativa)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla goblet con mancuerna",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Flexiones de pecho",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Remo con banda elástica",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Zancadas alternas",
+              "series": 3,
+              "reps": "12-14/lado",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Plancha frontal",
+              "series": 3,
+              "reps": "30-40s",
+              "descanso": "30s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Saltos de comba",
+              "series": 3,
+              "reps": "60s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio & Core Burn",
+          "ejercicios": [
+            {
+              "nombre": "Cinta inclinada o caminata en pendiente (Z2)",
+              "series": 3,
+              "reps": "8-10 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Escalador de montaña",
+              "series": 3,
+              "reps": "40-50s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Crunch en bicicleta",
+              "series": 3,
+              "reps": "20-24",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Kettlebell swing o bisagra con mancuerna",
+              "series": 3,
+              "reps": "15-20",
+              "descanso": "45s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Farmer carry (pasos)",
+              "series": 3,
+              "reps": "40-60m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Full Body Metabólico",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas ligeras",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo inclinado con mancuernas",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Puente de glúteo",
+              "series": 3,
+              "reps": "15-20",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Press de hombros con banda",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Burpees paso a paso",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "Fluido"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Jueves - Cardio Interválico Suave",
+          "ejercicios": [
+            {
+              "nombre": "Bici estática o elíptica (Z2)",
+              "series": 3,
+              "reps": "8-10 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Intervalos suaves 30:30 (trote o remo)",
+              "series": 3,
+              "reps": "6-8 rep",
+              "descanso": "60s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Abdominales tipo hollow hold",
+              "series": 3,
+              "reps": "25-35s",
+              "descanso": "30s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Saltos laterales sobre línea",
+              "series": 3,
+              "reps": "40-50s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Paseos del oso (bear crawl)",
+              "series": 3,
+              "reps": "20-30m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Viernes - Conditioning Total",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con salto bajo impacto",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Flexiones con manos elevadas",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo con TRX o mesa",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Zancadas caminando",
+              "series": 3,
+              "reps": "12-14/lado",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Plancha lateral",
+              "series": 3,
+              "reps": "25-35s/lado",
+              "descanso": "30s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Salto a la comba rápido",
+              "series": 3,
+              "reps": "60s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Semana 2",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Full Body Fire",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla goblet con pausa",
+              "series": 3,
+              "reps": "12-14",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Flexiones (últimas reps lentas)",
+              "series": 3,
+              "reps": "10-14",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Remo con banda agarre supino",
+              "series": 3,
+              "reps": "12-16",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Peso muerto rumano con mancuernas",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Plancha con toques de hombro",
+              "series": 3,
+              "reps": "16-20",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Burpees bajos (sin salto alto)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "40s",
+              "tempo": "Rítmico"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio & Core Burn",
+          "ejercicios": [
+            {
+              "nombre": "Caminata rápida Z2",
+              "series": 3,
+              "reps": "10 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Intervalos 45:30 (trote o bici)",
+              "series": 3,
+              "reps": "6-8 rep",
+              "descanso": "60s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Crunch oblicuo",
+              "series": 3,
+              "reps": "16-20/lado",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Swing con kettlebell/mancuerna",
+              "series": 3,
+              "reps": "15-18",
+              "descanso": "40s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Farmer carry",
+              "series": 3,
+              "reps": "50-70m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Full Body Metabólico",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas",
+              "series": 3,
+              "reps": "12-14",
+              "descanso": "40s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo invertido bajo",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Puente de glúteo a una pierna",
+              "series": 3,
+              "reps": "10-12/lado",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Press de hombros con mancuernas",
+              "series": 3,
+              "reps": "12-14",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Jumping jacks",
+              "series": 3,
+              "reps": "60s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Jueves - Cardio Interválico Suave",
+          "ejercicios": [
+            {
+              "nombre": "Elíptica Z2",
+              "series": 3,
+              "reps": "10 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Intervalos 30:30 subida ligera",
+              "series": 3,
+              "reps": "8 rep",
+              "descanso": "60s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Hollow hold alternando piernas",
+              "series": 3,
+              "reps": "30-35s",
+              "descanso": "30s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Skater jumps controlados",
+              "series": 3,
+              "reps": "16-20",
+              "descanso": "40s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Bear crawl atrás/adelante",
+              "series": 3,
+              "reps": "20-30m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Viernes - Conditioning Total",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con salto",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "40s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Flexiones diamante o normales",
+              "series": 3,
+              "reps": "10-14",
+              "descanso": "40s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano",
+              "series": 3,
+              "reps": "12-14/lado",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Zancadas atrás",
+              "series": 3,
+              "reps": "12-14/lado",
+              "descanso": "40s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Plancha lateral con elevación de cadera",
+              "series": 3,
+              "reps": "20-30s/lado",
+              "descanso": "30s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Comba a intervalos 40:20",
+              "series": 3,
+              "reps": "6-8 rep",
+              "descanso": "45s",
+              "tempo": "Rápido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Semana 3",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Full Body Fire",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla goblet (tempo 3-1-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Flexiones con pausa abajo",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "45s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Remo con banda alta",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Plancha frontal con toques",
+              "series": 4,
+              "reps": "16-20",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio & Core Burn",
+          "ejercicios": [
+            {
+              "nombre": "Caminata/cinta Z2 sostenida",
+              "series": 4,
+              "reps": "7-9 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Intervalos 45:30 moderados",
+              "series": 4,
+              "reps": "6-8 rep",
+              "descanso": "60s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Crunch piernas elevadas",
+              "series": 4,
+              "reps": "16-20",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Swing con kettlebell/mancuerna",
+              "series": 4,
+              "reps": "15-18",
+              "descanso": "40s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Saltar la comba (dobles opc.)",
+              "series": 4,
+              "reps": "45-60s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Full Body Metabólico",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "40s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo invertido",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Hip thrust a 2s arriba",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "2-2-2"
+            },
+            {
+              "nombre": "Press de hombros en Z",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "40s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Burpees",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Jueves - Cardio Interválico Suave",
+          "ejercicios": [
+            {
+              "nombre": "Bici o elíptica Z2",
+              "series": 4,
+              "reps": "7-9 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Fartlek 30-60-90",
+              "series": 4,
+              "reps": "1 bloque",
+              "descanso": "60s",
+              "tempo": "Variable"
+            },
+            {
+              "nombre": "Hollow body",
+              "series": 4,
+              "reps": "25-35s",
+              "descanso": "30s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Skater jumps",
+              "series": 4,
+              "reps": "18-22",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Bear crawl lateral",
+              "series": 4,
+              "reps": "12-16m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Viernes - Conditioning Total",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con salto",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "40s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Flexiones declinadas o normales",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "40s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Remo con mancuerna",
+              "series": 4,
+              "reps": "12-14/lado",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Zancadas caminando largas",
+              "series": 4,
+              "reps": "12-14/lado",
+              "descanso": "40s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Plancha lateral con abducción",
+              "series": 4,
+              "reps": "25-35s/lado",
+              "descanso": "30s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Comba a intervalos 45:15",
+              "series": 4,
+              "reps": "6-8 rep",
+              "descanso": "45s",
+              "tempo": "Rápido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Semana 4",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Full Body Fire",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla goblet pesada técnica",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Flexiones toque hombro",
+              "series": 4,
+              "reps": "12-16",
+              "descanso": "40s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo con banda anclada",
+              "series": 4,
+              "reps": "12-16",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Plancha con deslizadores",
+              "series": 4,
+              "reps": "12-16",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio & Core Burn",
+          "ejercicios": [
+            {
+              "nombre": "Caminata/cinta Z2 sostenida",
+              "series": 4,
+              "reps": "9-10 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Intervalos 60:30 moderados",
+              "series": 4,
+              "reps": "6-8 rep",
+              "descanso": "60s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Crunch inverso",
+              "series": 4,
+              "reps": "16-20",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Swing ruso",
+              "series": 4,
+              "reps": "16-20",
+              "descanso": "40s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Saltar la comba",
+              "series": 4,
+              "reps": "60-75s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Full Body Metabólico",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con pausa abajo",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "35s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Remo invertido pies adelantados",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Hip thrust unilateral",
+              "series": 4,
+              "reps": "10-12/lado",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Press de hombros estricto",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "40s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Burpees",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "35s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Jueves - Cardio Interválico Suave",
+          "ejercicios": [
+            {
+              "nombre": "Bici/elíptica Z2",
+              "series": 4,
+              "reps": "9-10 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Fartlek 1-2-3",
+              "series": 4,
+              "reps": "1 bloque",
+              "descanso": "60s",
+              "tempo": "Variable"
+            },
+            {
+              "nombre": "Hollow body rocks",
+              "series": 4,
+              "reps": "12-16",
+              "descanso": "30s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Skater jumps largos",
+              "series": 4,
+              "reps": "20-24",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Bear crawl diagonal",
+              "series": 4,
+              "reps": "12-16m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Viernes - Conditioning Total",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con salto",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "35s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Flexiones estilo spiderman",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "40s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Remo con mancuerna alterno",
+              "series": 4,
+              "reps": "12-14/lado",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Estocadas laterales",
+              "series": 4,
+              "reps": "12-14/lado",
+              "descanso": "40s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Plancha con arrastre de mancuerna",
+              "series": 4,
+              "reps": "12-16",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Comba 45:15",
+              "series": 4,
+              "reps": "6-8 rep",
+              "descanso": "45s",
+              "tempo": "Rápido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Semana 5",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Circuito Full Body Blaze",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla goblet",
+              "series": 4,
+              "reps": "14-16",
+              "descanso": "30s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Flexiones",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "30s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Remo con banda",
+              "series": 4,
+              "reps": "14-16",
+              "descanso": "30s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "30s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Mountain climbers",
+              "series": 4,
+              "reps": "40-50s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Comba",
+              "series": 4,
+              "reps": "60s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Metabólico Builder",
+          "ejercicios": [
+            {
+              "nombre": "Cinta inclinada Z2→Z3",
+              "series": 4,
+              "reps": "8-9 min",
+              "descanso": "30s",
+              "tempo": "Progresivo"
+            },
+            {
+              "nombre": "Intervalos 45:15 (trote/bici)",
+              "series": 4,
+              "reps": "6-8 rep",
+              "descanso": "45s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Crunch en V",
+              "series": 4,
+              "reps": "14-18",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Swing con KB/DB",
+              "series": 4,
+              "reps": "16-18",
+              "descanso": "30s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Farmer carry",
+              "series": 4,
+              "reps": "60-80m",
+              "descanso": "40s",
+              "tempo": "Firme"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Superseries Metabólicas",
+          "ejercicios": [
+            {
+              "nombre": "Thruster + Remo banda (A1)",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "20s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Remo banda + Thruster (A2)",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "40s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Zancadas caminando (B1)",
+              "series": 4,
+              "reps": "12-14/lado",
+              "descanso": "20s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Plancha toques hombro (B2)",
+              "series": 4,
+              "reps": "16-20",
+              "descanso": "40s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Burpees rápidos",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Jueves - Cardio Tempo & Core",
+          "ejercicios": [
+            {
+              "nombre": "Bici/elíptica tempo Z3",
+              "series": 4,
+              "reps": "7-8 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Fartlek 1-2-1-3",
+              "series": 4,
+              "reps": "1 bloque",
+              "descanso": "60s",
+              "tempo": "Variable"
+            },
+            {
+              "nombre": "Hollow body con toques talón",
+              "series": 4,
+              "reps": "16-20",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Skater jumps",
+              "series": 4,
+              "reps": "20-24",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Bear crawl con pausa",
+              "series": 4,
+              "reps": "14-18m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Viernes - Circuito Fat Burner",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con salto",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Flexiones",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo con mancuerna",
+              "series": 4,
+              "reps": "12-14/lado",
+              "descanso": "25s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Estocadas laterales",
+              "series": 4,
+              "reps": "12-14/lado",
+              "descanso": "25s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Plancha lateral",
+              "series": 4,
+              "reps": "30-40s/lado",
+              "descanso": "25s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Comba 40:20",
+              "series": 4,
+              "reps": "6-8 rep",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Semana 6",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Circuito Full Body Blaze",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla goblet (tempo 3-1-1)",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Flexiones con palmada ligera",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "25s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Remo con banda doble",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Mountain climbers rápidos",
+              "series": 4,
+              "reps": "45-50s",
+              "descanso": "25s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Comba alta cadencia",
+              "series": 4,
+              "reps": "60-75s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Metabólico Builder",
+          "ejercicios": [
+            {
+              "nombre": "Cinta inclinada Z2→Z3",
+              "series": 4,
+              "reps": "9 min",
+              "descanso": "30s",
+              "tempo": "Progresivo"
+            },
+            {
+              "nombre": "Intervalos 60:20 (trote/bici)",
+              "series": 4,
+              "reps": "6-8 rep",
+              "descanso": "45s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Crunch en V alterno",
+              "series": 4,
+              "reps": "16-20",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Swing americano",
+              "series": 4,
+              "reps": "14-16",
+              "descanso": "30s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Farmer carry pesado",
+              "series": 4,
+              "reps": "70-90m",
+              "descanso": "40s",
+              "tempo": "Firme"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Superseries Metabólicas",
+          "ejercicios": [
+            {
+              "nombre": "Thruster (A1)",
+              "series": 4,
+              "reps": "12",
+              "descanso": "20s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo con banda (A2)",
+              "series": 4,
+              "reps": "14",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Zancadas caminando (B1)",
+              "series": 4,
+              "reps": "14/lado",
+              "descanso": "20s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Plancha pasos laterales (B2)",
+              "series": 4,
+              "reps": "16-20",
+              "descanso": "40s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Burpees",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Jueves - Cardio Tempo & Core",
+          "ejercicios": [
+            {
+              "nombre": "Bici/elíptica tempo Z3",
+              "series": 4,
+              "reps": "8 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Fartlek 2-3-2",
+              "series": 4,
+              "reps": "1 bloque",
+              "descanso": "60s",
+              "tempo": "Variable"
+            },
+            {
+              "nombre": "Hollow body con rodillas al pecho",
+              "series": 4,
+              "reps": "16-20",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Skater jumps con pausa",
+              "series": 4,
+              "reps": "20-24",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Bear crawl con bandas",
+              "series": 4,
+              "reps": "14-18m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Viernes - Circuito Fat Burner",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con salto",
+              "series": 4,
+              "reps": "14-16",
+              "descanso": "25s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Flexiones estrechas",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "25s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo con mancuerna alterno",
+              "series": 4,
+              "reps": "12-14/lado",
+              "descanso": "25s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Estocadas laterales profundas",
+              "series": 4,
+              "reps": "12-14/lado",
+              "descanso": "25s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Plancha lateral con elevación pierna",
+              "series": 4,
+              "reps": "25-35s/lado",
+              "descanso": "25s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Comba 45:15",
+              "series": 4,
+              "reps": "6-8 rep",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Semana 7",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Circuito Full Body Max",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla goblet continua",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Flexiones veloces",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Remo banda alta",
+              "series": 5,
+              "reps": "14-16",
+              "descanso": "25s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Mountain climbers",
+              "series": 5,
+              "reps": "45-60s",
+              "descanso": "25s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Tempo & Core",
+          "ejercicios": [
+            {
+              "nombre": "Cinta inclinada Z3 ligera",
+              "series": 5,
+              "reps": "7-8 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Intervalos 60:20 intensos",
+              "series": 5,
+              "reps": "5-6 rep",
+              "descanso": "45s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Crunch en V",
+              "series": 5,
+              "reps": "16-20",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Swing potente",
+              "series": 5,
+              "reps": "14-16",
+              "descanso": "30s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Farmer carry",
+              "series": 5,
+              "reps": "70-90m",
+              "descanso": "40s",
+              "tempo": "Firme"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Superseries Metabólicas",
+          "ejercicios": [
+            {
+              "nombre": "Thruster (A1)",
+              "series": 5,
+              "reps": "12",
+              "descanso": "20s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo con banda (A2)",
+              "series": 5,
+              "reps": "14",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Zancadas (B1)",
+              "series": 5,
+              "reps": "12-14/lado",
+              "descanso": "20s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Plancha con toques (B2)",
+              "series": 5,
+              "reps": "18-22",
+              "descanso": "40s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Burpees",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Jueves - Cardio Tempo & Core",
+          "ejercicios": [
+            {
+              "nombre": "Bici/elíptica Z3",
+              "series": 5,
+              "reps": "7-8 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Fartlek 2-3-4",
+              "series": 5,
+              "reps": "1 bloque",
+              "descanso": "60s",
+              "tempo": "Variable"
+            },
+            {
+              "nombre": "Hollow hold avanzado",
+              "series": 5,
+              "reps": "30-40s",
+              "descanso": "30s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Skater jumps",
+              "series": 5,
+              "reps": "22-26",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Bear crawl",
+              "series": 5,
+              "reps": "16-20m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Viernes - Circuito Fat Burner Plus",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con salto",
+              "series": 5,
+              "reps": "14-16",
+              "descanso": "25s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Flexiones (tempo 2-1-1)",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo mancuerna",
+              "series": 5,
+              "reps": "12-14/lado",
+              "descanso": "25s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Estocadas laterales",
+              "series": 5,
+              "reps": "12-14/lado",
+              "descanso": "25s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Comba 45:15",
+              "series": 5,
+              "reps": "6-8 rep",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Semana 8",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Circuito Full Body Max",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla goblet pesada técnica",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Flexiones pliométricas suaves",
+              "series": 5,
+              "reps": "8-12",
+              "descanso": "25s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Remo banda doble",
+              "series": 5,
+              "reps": "14-16",
+              "descanso": "25s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Circuito"
+            },
+            {
+              "nombre": "Mountain climbers cruzados",
+              "series": 5,
+              "reps": "45-60s",
+              "descanso": "25s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio Tempo & Core",
+          "ejercicios": [
+            {
+              "nombre": "Cinta inclinada Z3",
+              "series": 5,
+              "reps": "7-8 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Intervalos 60:20 exigentes",
+              "series": 5,
+              "reps": "6 rep",
+              "descanso": "45s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Crunch en V con giro",
+              "series": 5,
+              "reps": "18-22",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Swing potente",
+              "series": 5,
+              "reps": "14-16",
+              "descanso": "30s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Farmer carry",
+              "series": 5,
+              "reps": "80-100m",
+              "descanso": "40s",
+              "tempo": "Firme"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Superseries Metabólicas",
+          "ejercicios": [
+            {
+              "nombre": "Thruster (A1)",
+              "series": 5,
+              "reps": "12",
+              "descanso": "20s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo con banda (A2)",
+              "series": 5,
+              "reps": "14",
+              "descanso": "40s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Zancadas (B1)",
+              "series": 5,
+              "reps": "14/lado",
+              "descanso": "20s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Plancha con toques (B2)",
+              "series": 5,
+              "reps": "20-24",
+              "descanso": "40s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Burpees",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Jueves - Cardio Tempo & Core",
+          "ejercicios": [
+            {
+              "nombre": "Bici/elíptica Z3 sostenida",
+              "series": 5,
+              "reps": "7-8 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Fartlek 3-4-5",
+              "series": 5,
+              "reps": "1 bloque",
+              "descanso": "60s",
+              "tempo": "Variable"
+            },
+            {
+              "nombre": "Hollow hold avanzado",
+              "series": 5,
+              "reps": "35-45s",
+              "descanso": "30s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Skater jumps largos",
+              "series": 5,
+              "reps": "24-28",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Bear crawl con pausa",
+              "series": 5,
+              "reps": "18-22m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Viernes - Circuito Fat Burner Elite",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con salto",
+              "series": 5,
+              "reps": "14-16",
+              "descanso": "25s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Flexiones con pausa",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo mancuerna alterno",
+              "series": 5,
+              "reps": "12-14/lado",
+              "descanso": "25s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Estocadas laterales profundas",
+              "series": 5,
+              "reps": "12-14/lado",
+              "descanso": "25s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Comba 45:15",
+              "series": 5,
+              "reps": "8 rep",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Semana 9",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - HIIT Full Body Ignite",
+          "ejercicios": [
+            {
+              "nombre": "EMOM Sentadilla goblet (cada min)",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "EMOM Flexiones (min 2)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "EMOM Remo banda (min 3)",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "EMOM Peso rumano (min 4)",
+              "series": 4,
+              "reps": "12",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "Saltos de comba rápidos",
+              "series": 4,
+              "reps": "60-75s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio HIIT Controlado",
+          "ejercicios": [
+            {
+              "nombre": "Sprints en cinta o exterior",
+              "series": 4,
+              "reps": "30s",
+              "descanso": "45s",
+              "tempo": "Máxima intensidad"
+            },
+            {
+              "nombre": "Recuperación caminata Z1-Z2",
+              "series": 4,
+              "reps": "90s",
+              "descanso": "30s",
+              "tempo": "Suave"
+            },
+            {
+              "nombre": "Crunch en V",
+              "series": 4,
+              "reps": "18-22",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Swing potente",
+              "series": 4,
+              "reps": "16-18",
+              "descanso": "30s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Farmer carry",
+              "series": 4,
+              "reps": "90-110m",
+              "descanso": "40s",
+              "tempo": "Firme"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Fuerza-Resistencia Total",
+          "ejercicios": [
+            {
+              "nombre": "Thruster pesado técnico",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "35s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo invertido",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "35s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Zancadas caminando veloces",
+              "series": 4,
+              "reps": "14-16/lado",
+              "descanso": "35s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Plancha con toques + marcha",
+              "series": 4,
+              "reps": "18-22",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Burpees rápidos",
+              "series": 4,
+              "reps": "14-16",
+              "descanso": "35s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Jueves - Cardio Tempo Largo",
+          "ejercicios": [
+            {
+              "nombre": "Cinta inclinada tempo Z3",
+              "series": 4,
+              "reps": "8-10 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Fartlek 2-3-4-3-2",
+              "series": 4,
+              "reps": "1 bloque",
+              "descanso": "60s",
+              "tempo": "Variable"
+            },
+            {
+              "nombre": "Hollow hold con respiración",
+              "series": 4,
+              "reps": "35-45s",
+              "descanso": "30s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Skater jumps potentes",
+              "series": 4,
+              "reps": "24-28",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Bear crawl rápido",
+              "series": 4,
+              "reps": "18-22m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Viernes - Finisher Metabólico",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con salto",
+              "series": 4,
+              "reps": "14-16",
+              "descanso": "25s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Flexiones rápidas",
+              "series": 4,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Remo con mancuerna",
+              "series": 4,
+              "reps": "12-14/lado",
+              "descanso": "25s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Estocadas laterales",
+              "series": 4,
+              "reps": "14-16/lado",
+              "descanso": "25s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Comba 60:20",
+              "series": 4,
+              "reps": "6-8 rep",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Semana 10",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - HIIT Full Body Ignite",
+          "ejercicios": [
+            {
+              "nombre": "EMOM Sentadilla goblet",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "EMOM Flexiones",
+              "series": 5,
+              "reps": "10-12",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "EMOM Remo banda",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "EMOM Peso rumano",
+              "series": 5,
+              "reps": "12",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "Comba rápida",
+              "series": 5,
+              "reps": "60-75s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Cardio HIIT Controlado",
+          "ejercicios": [
+            {
+              "nombre": "Sprints 30s",
+              "series": 5,
+              "reps": "30s",
+              "descanso": "45s",
+              "tempo": "Máxima intensidad"
+            },
+            {
+              "nombre": "Recuperación 90s",
+              "series": 5,
+              "reps": "90s",
+              "descanso": "30s",
+              "tempo": "Suave"
+            },
+            {
+              "nombre": "Crunch en V",
+              "series": 5,
+              "reps": "18-22",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Swing potente",
+              "series": 5,
+              "reps": "14-16",
+              "descanso": "30s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Farmer carry",
+              "series": 5,
+              "reps": "100-120m",
+              "descanso": "40s",
+              "tempo": "Firme"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Fuerza-Resistencia Total",
+          "ejercicios": [
+            {
+              "nombre": "Thruster sostenido",
+              "series": 5,
+              "reps": "10-12",
+              "descanso": "35s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo invertido",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "35s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Zancadas veloces",
+              "series": 5,
+              "reps": "14-16/lado",
+              "descanso": "35s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Plancha toques + marcha",
+              "series": 5,
+              "reps": "20-24",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Burpees",
+              "series": 5,
+              "reps": "14-16",
+              "descanso": "35s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Jueves - Cardio Tempo Largo",
+          "ejercicios": [
+            {
+              "nombre": "Cinta inclinada Z3",
+              "series": 5,
+              "reps": "8-10 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Fartlek 3-4-5-4-3",
+              "series": 5,
+              "reps": "1 bloque",
+              "descanso": "60s",
+              "tempo": "Variable"
+            },
+            {
+              "nombre": "Hollow hold con respiración",
+              "series": 5,
+              "reps": "40-50s",
+              "descanso": "30s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Skater jumps potentes",
+              "series": 5,
+              "reps": "26-30",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Bear crawl rápido",
+              "series": 5,
+              "reps": "20-24m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Viernes - Finisher Metabólico",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con salto",
+              "series": 5,
+              "reps": "14-16",
+              "descanso": "25s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Flexiones rápidas",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Remo con mancuerna",
+              "series": 5,
+              "reps": "12-14/lado",
+              "descanso": "25s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Estocadas laterales",
+              "series": 5,
+              "reps": "14-16/lado",
+              "descanso": "25s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Comba 60:20",
+              "series": 5,
+              "reps": "8 rep",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "Semana 11",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - HIIT Infernal",
+          "ejercicios": [
+            {
+              "nombre": "Sprints 30s en cinta/exterior",
+              "series": 5,
+              "reps": "30s",
+              "descanso": "30s",
+              "tempo": "Máxima intensidad"
+            },
+            {
+              "nombre": "Recuperación caminata",
+              "series": 5,
+              "reps": "60s",
+              "descanso": "30s",
+              "tempo": "Suave"
+            },
+            {
+              "nombre": "Burpees explosivos",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "30s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Swing potente",
+              "series": 5,
+              "reps": "16",
+              "descanso": "30s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Plancha con toques",
+              "series": 5,
+              "reps": "20-24",
+              "descanso": "25s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Fuerza-Resistencia Pro",
+          "ejercicios": [
+            {
+              "nombre": "Thruster denso",
+              "series": 5,
+              "reps": "10-12",
+              "descanso": "30s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo invertido",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "30s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Zancadas caminando rápidas",
+              "series": 5,
+              "reps": "14-16/lado",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Flexiones con pausa",
+              "series": 5,
+              "reps": "10-12",
+              "descanso": "30s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Comba alta cadencia",
+              "series": 5,
+              "reps": "60-75s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Cardio Tempo Largo",
+          "ejercicios": [
+            {
+              "nombre": "Cinta inclinada Z3 sostenida",
+              "series": 5,
+              "reps": "9-10 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Fartlek 4-5-4",
+              "series": 5,
+              "reps": "1 bloque",
+              "descanso": "60s",
+              "tempo": "Variable"
+            },
+            {
+              "nombre": "Hollow hold avanzado",
+              "series": 5,
+              "reps": "45-55s",
+              "descanso": "30s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Skater jumps potentes",
+              "series": 5,
+              "reps": "28-32",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Bear crawl rápido",
+              "series": 5,
+              "reps": "22-26m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Jueves - EMOM Full Body",
+          "ejercicios": [
+            {
+              "nombre": "EMOM Sentadilla goblet",
+              "series": 5,
+              "reps": "14",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "EMOM Flexiones",
+              "series": 5,
+              "reps": "12",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "EMOM Remo banda",
+              "series": 5,
+              "reps": "14",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "EMOM Peso rumano",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "Comba 60:20",
+              "series": 5,
+              "reps": "8 rep",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Viernes - Finisher Metabólico Pro",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con salto",
+              "series": 5,
+              "reps": "16",
+              "descanso": "25s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Flexiones rápidas",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Remo mancuerna alterno",
+              "series": 5,
+              "reps": "12-14/lado",
+              "descanso": "25s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Estocadas laterales",
+              "series": 5,
+              "reps": "16/lado",
+              "descanso": "25s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Burpees",
+              "series": 5,
+              "reps": "14-16",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Semana 12",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - HIIT Infernal Final",
+          "ejercicios": [
+            {
+              "nombre": "Sprints 30s máxima intensidad",
+              "series": 5,
+              "reps": "30s",
+              "descanso": "30s",
+              "tempo": "Máxima intensidad"
+            },
+            {
+              "nombre": "Recuperación 60s caminata",
+              "series": 5,
+              "reps": "60s",
+              "descanso": "30s",
+              "tempo": "Suave"
+            },
+            {
+              "nombre": "Burpees explosivos",
+              "series": 5,
+              "reps": "14-16",
+              "descanso": "30s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Swing potente",
+              "series": 5,
+              "reps": "16-18",
+              "descanso": "30s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Plancha con toques",
+              "series": 5,
+              "reps": "22-26",
+              "descanso": "25s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Fuerza-Resistencia Culminación",
+          "ejercicios": [
+            {
+              "nombre": "Thruster denso final",
+              "series": 5,
+              "reps": "10-12",
+              "descanso": "25s",
+              "tempo": "Rítmico"
+            },
+            {
+              "nombre": "Remo invertido estricto",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Zancadas caminando rápidas",
+              "series": 5,
+              "reps": "16/lado",
+              "descanso": "25s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Flexiones con pausa",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "25s",
+              "tempo": "Controlado"
+            },
+            {
+              "nombre": "Comba 60:20",
+              "series": 5,
+              "reps": "8-10 rep",
+              "descanso": "35s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Cardio Tempo Largo Final",
+          "ejercicios": [
+            {
+              "nombre": "Cinta inclinada Z3",
+              "series": 5,
+              "reps": "10 min",
+              "descanso": "30s",
+              "tempo": "Constante"
+            },
+            {
+              "nombre": "Fartlek 5-4-3-2-1",
+              "series": 5,
+              "reps": "1 bloque",
+              "descanso": "60s",
+              "tempo": "Variable"
+            },
+            {
+              "nombre": "Hollow hold avanzado",
+              "series": 5,
+              "reps": "50-60s",
+              "descanso": "30s",
+              "tempo": "Isométrico"
+            },
+            {
+              "nombre": "Skater jumps máximos",
+              "series": 5,
+              "reps": "28-32",
+              "descanso": "40s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Bear crawl potente",
+              "series": 5,
+              "reps": "24-28m",
+              "descanso": "45s",
+              "tempo": "Controlado"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Jueves - EMOM Full Body Final",
+          "ejercicios": [
+            {
+              "nombre": "EMOM Sentadilla goblet",
+              "series": 5,
+              "reps": "14-16",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "EMOM Flexiones",
+              "series": 5,
+              "reps": "12-14",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "EMOM Remo banda",
+              "series": 5,
+              "reps": "14-16",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "EMOM Peso rumano",
+              "series": 5,
+              "reps": "14",
+              "descanso": "15s",
+              "tempo": "EMOM"
+            },
+            {
+              "nombre": "Comba rápida",
+              "series": 5,
+              "reps": "75-90s",
+              "descanso": "30s",
+              "tempo": "Rápido"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Viernes - Finisher Máximo",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla con salto",
+              "series": 5,
+              "reps": "16-18",
+              "descanso": "25s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Flexiones rápidas",
+              "series": 5,
+              "reps": "12-16",
+              "descanso": "25s",
+              "tempo": "Rápido"
+            },
+            {
+              "nombre": "Remo mancuerna alterno",
+              "series": 5,
+              "reps": "14-16/lado",
+              "descanso": "25s",
+              "tempo": "2-1-2"
+            },
+            {
+              "nombre": "Burpees finales",
+              "series": 5,
+              "reps": "16-18",
+              "descanso": "25s",
+              "tempo": "Explosivo"
+            },
+            {
+              "nombre": "Comba 60:20",
+              "series": 5,
+              "reps": "8-10 rep",
+              "descanso": "35s",
+              "tempo": "Rápido"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
