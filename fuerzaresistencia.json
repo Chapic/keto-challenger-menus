@@ -1,0 +1,2537 @@
+{
+  "programa": "Fuerza y Resistencia",
+  "semanas": [
+    {
+      "id": 1,
+      "nombre": "Semana 1",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Total (Power & Endure)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera con barra",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press de banca con barra",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con barra inclinado",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto rumano con barra",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press militar de pie",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Circuito Metabólico (Athletic Flow)",
+          "ejercicios": [
+            {
+              "nombre": "Kettlebell swing ruso",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Sentadilla goblet",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Flexiones de pecho",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancadas alternas caminando",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Tren Inferior (Iron Legs)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con barra",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Hip Thrust con barra",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancada búlgara con mancuernas",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto a una pierna con mancuerna",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Elevaciones de pantorrilla de pie",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Upper + Resistencia (Iron Core Upper)",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas asistidas o jalón al pecho",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna en banco",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Fondos en banco (tríceps)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Elevaciones laterales con mancuernas",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Conditioning Funcional (Engine Builder)",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo renegado con mancuernas",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Kettlebell clean alterno",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Peso muerto con kettlebell",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Plancha frontal",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Semana 2",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Total (Power & Endure)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera con barra (pausa 1s)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press de banca con barra agarre medio",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con barra Pendlay",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto rumano con barra",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press militar sentado",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Circuito Metabólico (Athletic Flow)",
+          "ejercicios": [
+            {
+              "nombre": "Kettlebell swing ruso",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Sentadilla goblet (tempo controlado)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Flexiones de pecho (rodillas si necesario)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancadas alternas atrás",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Tren Inferior (Iron Legs)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con barra",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Hip Thrust con barra (pausa)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancada búlgara con mancuernas",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Buenos días con barra ligera",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Elevaciones de pantorrilla sentado",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Upper + Resistencia (Iron Core Upper)",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas asistidas o jalón al pecho",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas (neutro)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna en banco (pausa)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Fondos en banco (tríceps)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Face pull con banda o polea",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Conditioning Funcional (Engine Builder)",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas (rítmico)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo renegado con mancuernas",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Kettlebell clean alterno",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Peso muerto con kettlebell (sumo)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Plancha lateral alterna",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Semana 3",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Total (Power & Endure)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera con barra (profunda)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press de banca con barra (pausa 1s)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Remo con barra en T",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Peso muerto rumano con barra",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press militar de pie (estrecho)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Circuito Metabólico (Athletic Flow)",
+          "ejercicios": [
+            {
+              "nombre": "Kettlebell swing ruso",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Sentadilla goblet (3-1-1)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Flexiones de pecho (estrechas)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano (pausa)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Zancadas alternas adelante",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Tren Inferior (Iron Legs)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con barra (3-1-1)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Hip Thrust con barra (top 1s)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancada búlgara con mancuernas (3-1-1)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Buenos días con barra ligera (3-1-1)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Elevaciones de pantorrilla de pie (pausa)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Upper + Resistencia (Iron Core Upper)",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas asistidas o jalón al pecho (pausa)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas (3-1-1)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Remo con mancuerna en banco (neutro)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Fondos en banco (tríceps) con lastre ligero",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Face pull con banda o polea (alto rep)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Conditioning Funcional (Engine Builder)",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas (explosivo)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo renegado con mancuernas (3-1-1)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Kettlebell clean alterno (explosivo)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Peso muerto con kettlebell (sumo 3-1-1)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Plancha frontal (3-1-1)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Semana 4",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Total (Power & Endure)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera con barra (controlada)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "120s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press de banca con barra (volumen técnico)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "105s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con barra inclinado (pausa 1s)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "105s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto rumano con barra (ligero)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "105s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press militar de pie (ligero)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Circuito Metabólico (Athletic Flow)",
+          "ejercicios": [
+            {
+              "nombre": "Kettlebell swing ruso (técnico)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Sentadilla goblet (2-0-1)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Flexiones de pecho (controladas)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano (2-0-1)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancadas alternas caminando (ligeras)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Tren Inferior (Iron Legs) [Descarga]",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con barra (ligera)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "105s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Hip Thrust con barra (top 1s, ligero)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancada búlgara con mancuernas (técnica)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Peso muerto a una pierna con mancuerna (ligero)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Elevaciones de pantorrilla (controladas)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Upper + Resistencia (Iron Core Upper) [Descarga]",
+          "ejercicios": [
+            {
+              "nombre": "Jalón al pecho (técnico)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas (ligero)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna en banco (ligero)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Fondos en banco (rango cómodo)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Elevaciones laterales (técnica)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Conditioning Funcional (Engine Builder) [Descarga]",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas (ligero)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo renegado con mancuernas (técnico)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Kettlebell clean alterno (ligero)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Peso muerto con kettlebell (controlado)",
+              "series": 3,
+              "reps": "12-15",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Plancha frontal (control respiración)",
+              "series": 3,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Semana 5",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Total (Power & Endure)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera con barra",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press de banca con barra",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con barra inclinado",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto rumano",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press militar de pie",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Circuito Metabólico (Athletic Flow)",
+          "ejercicios": [
+            {
+              "nombre": "Kettlebell swing ruso",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Sentadilla goblet",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Flexiones de pecho",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancadas alternas caminando",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Tren Inferior (Iron Legs)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con barra",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Hip Thrust con barra (top 2s)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancada búlgara con mancuernas",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Buenos días con barra",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Elevaciones de pantorrilla (pausa)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Upper + Resistencia (Upper Grind)",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas o jalón al pecho",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna en banco",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Fondos en paralelas asistidos",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Face pull con banda/polea",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Conditioning Funcional (Engine Builder)",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo renegado con mancuernas",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Kettlebell clean alterno",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Peso muerto con kettlebell (sumo)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Plancha frontal",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Semana 6",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Total (Power & Endure)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera con barra (profunda)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press de banca con barra (estrecho)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con barra Pendlay",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto rumano con barra (3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press militar de pie",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Circuito Metabólico (Athletic Flow)",
+          "ejercicios": [
+            {
+              "nombre": "Kettlebell swing ruso (potente)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Sentadilla goblet (rítmica)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Flexiones de pecho (pies elevados opc.)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano (rango completo)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancadas alternas atrás (rítmicas)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Tren Inferior (Iron Legs)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con barra (pausa 1s)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Hip Thrust con barra (top 2s)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancada búlgara con mancuernas (profunda)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Buenos días con barra (3-1-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Elevaciones de pantorrilla (pausa 1s)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Upper + Resistencia (Upper Grind)",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas o jalón al pecho (rango completo)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas (neutro)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna en banco (3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Fondos en paralelas asistidos (rítmicos)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Face pull con banda/polea (alto rep)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Conditioning Funcional (Engine Builder)",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas (potente)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo renegado con mancuernas (3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Kettlebell clean alterno (potente)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Peso muerto con kettlebell (sumo 3-1-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Plancha frontal (3-1-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Semana 7",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Total (Power & Endure)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera con barra (pausa 1s)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press de banca con barra (volumen denso)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con barra en T (3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto rumano (barra)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press militar de pie (rítmico)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Circuito Metabólico (Athletic Flow)",
+          "ejercicios": [
+            {
+              "nombre": "Kettlebell swing ruso (intenso)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Sentadilla goblet (2-0-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Flexiones de pecho (tempo 3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano (2-0-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancadas alternas caminando (rítmicas)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Tren Inferior (Iron Legs)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con barra (profunda)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Hip Thrust con barra (top 2s)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancada búlgara con mancuernas (3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Buenos días con barra (rítmico 2-0-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Elevaciones de pantorrilla (pesadas)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Upper + Resistencia (Upper Grind)",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas o jalón al pecho (rango completo)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas (rítmico)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna en banco (3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Fondos en paralelas asistidos (rango)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Face pull con banda/polea (alto rep)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Conditioning Funcional (Engine Builder)",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas (explosivo)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo renegado con mancuernas (3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Kettlebell clean alterno (potente)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Peso muerto con kettlebell (sumo 3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Plancha frontal (3-1-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Semana 8",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Total (Power & Endure) [Densidad]",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera con barra (rango completo)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press de banca con barra (2-0-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con barra inclinado (3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Peso muerto rumano (barra)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press militar de pie (2-0-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Circuito Metabólico (Athletic Flow) [Densidad]",
+          "ejercicios": [
+            {
+              "nombre": "Kettlebell swing ruso (intenso)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Sentadilla goblet (2-0-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Flexiones de pecho (estrechas 3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano (2-0-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancadas alternas adelante (rítmicas)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Tren Inferior (Iron Legs) [Densidad]",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con barra (3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Hip Thrust con barra (top 2s)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancada búlgara con mancuernas (profunda)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Buenos días con barra (2-0-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Elevaciones de pantorrilla (pausa)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Upper + Resistencia (Upper Grind) [Densidad]",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas o jalón al pecho (rango completo)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas (2-0-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna en banco (3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Fondos en paralelas asistidos (rítmicos)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Face pull con banda/polea (alto rep)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Conditioning Funcional (Engine Builder) [Densidad]",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas (explosivo)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo renegado con mancuernas (3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Kettlebell clean alterno (potente)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Peso muerto con kettlebell (sumo 3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Plancha frontal (3-1-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Semana 9",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Total (Power & Endure)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera con barra (pesada técnica)",
+              "series": 5,
+              "reps": "6-10",
+              "descanso": "120s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press de banca con barra (pausa 1s)",
+              "series": 5,
+              "reps": "6-10",
+              "descanso": "105s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Remo con barra inclinado (estricto)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Peso muerto rumano (barra)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "105s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press militar de pie (firme)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Circuito Metabólico (Athletic Flow) Intensivo",
+          "ejercicios": [
+            {
+              "nombre": "Kettlebell swing ruso (potente)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Sentadilla goblet (rápida controlada)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Flexiones de pecho (rango completo)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "45s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano (fluido)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancadas alternas caminando (rápidas)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Tren Inferior (Iron Legs) Intensivo",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con barra (pesada controlada)",
+              "series": 4,
+              "reps": "6-10",
+              "descanso": "105s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Hip Thrust con barra (top 2s)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancada búlgara con mancuernas (profunda)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Buenos días con barra (controlados)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Elevaciones de pantorrilla (pesadas)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Upper + Resistencia (Upper Grind) Intensivo",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas (asistidas si es necesario)",
+              "series": 4,
+              "reps": "6-10",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas (firme)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna en banco (3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Fondos en paralelas (asistidos/lastre)",
+              "series": 4,
+              "reps": "6-10",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Face pull (alto rep)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Conditioning Funcional (Engine Builder) Intensivo",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas (potente)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo renegado con mancuernas (estricto)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Clean con kettlebell alterno (rápido)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Peso muerto con kettlebell (sumo 3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Plancha frontal (tensión total)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Semana 10",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Total (Power & Endure)",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera con barra (pesada controlada)",
+              "series": 5,
+              "reps": "6-10",
+              "descanso": "120s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press de banca con barra (firme)",
+              "series": 5,
+              "reps": "6-10",
+              "descanso": "105s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con barra inclinado (estricto)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Peso muerto rumano (barra 3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "105s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press militar de pie (2-0-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Circuito Metabólico (Athletic Flow) Avanzado",
+          "ejercicios": [
+            {
+              "nombre": "Kettlebell swing ruso (alto impulso)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Sentadilla goblet (rápida controlada)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Flexiones de pecho (con palmada opc.)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "45s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano (rango)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancadas alternas atrás (rápidas)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Tren Inferior (Iron Legs) Avanzado",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con barra (pesada)",
+              "series": 4,
+              "reps": "6-10",
+              "descanso": "105s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Hip Thrust con barra (top 2-3s)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancada búlgara con mancuernas (firme)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Buenos días con barra (estricto 3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Elevaciones de pantorrilla (pausa 1s)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Upper + Resistencia (Upper Grind) Avanzado",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas (lastre o asistidas)",
+              "series": 4,
+              "reps": "6-10",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas (firme)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna en banco (3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Fondos en paralelas (rango completo)",
+              "series": 4,
+              "reps": "6-10",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Face pull (alto rep, control)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Conditioning Funcional (Engine Builder) Avanzado",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas (rápido y potente)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo renegado con mancuernas (control)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Clean con kettlebell alterno (potente)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Peso muerto con kettlebell (sumo 3-1-1)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Plancha frontal (tensión total 3-1-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "Semana 11",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Total (Power & Endure) Peak",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera con barra (pesada, técnica)",
+              "series": 5,
+              "reps": "6-8",
+              "descanso": "120s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press de banca con barra (pausa 1s)",
+              "series": 5,
+              "reps": "6-8",
+              "descanso": "105s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Remo con barra inclinado (firme 2-0-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Peso muerto rumano (barra 3-1-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "105s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press militar de pie (sólido)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Circuito Metabólico (Athletic Flow) Peak",
+          "ejercicios": [
+            {
+              "nombre": "Kettlebell swing ruso (máxima potencia técnica)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Sentadilla goblet (rápida controlada 2-0-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Flexiones de pecho (variación declinada)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "45s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano (pausa 1s)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Zancadas alternas adelante (rápidas)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Tren Inferior (Iron Legs) Peak",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con barra (pesada técnica)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "105s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Hip Thrust con barra (top 3s)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancada búlgara con mancuernas (firme 3-1-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Buenos días con barra (estricto)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Elevaciones de pantorrilla (pesadas 3-1-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Upper + Resistencia (Upper Grind) Peak",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas (lastre/asistidas)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas (sólido)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna en banco (pausa 1s)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Fondos en paralelas (rango completo)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Face pull (alto rep, control)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Conditioning Funcional (Engine Builder) Peak",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas (rápido y potente)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo renegado con mancuernas (estricto 3-1-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Clean con kettlebell alterno (potente)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Peso muerto con kettlebell (sumo firme)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Plancha frontal (tensión total 3-1-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Semana 12",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Lunes - Fuerza Total (Power & Endure) Culminación",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla trasera con barra (top performance)",
+              "series": 5,
+              "reps": "6-8",
+              "descanso": "120s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press de banca con barra (pausa 1s, sólido)",
+              "series": 5,
+              "reps": "6-8",
+              "descanso": "105s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Remo con barra inclinado (firme 2-0-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Peso muerto rumano (controlado 3-1-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "105s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Press militar de pie (firme 2-0-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Martes - Circuito Metabólico (Athletic Flow) Culminación",
+          "ejercicios": [
+            {
+              "nombre": "Kettlebell swing ruso (máxima potencia técnica)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Sentadilla goblet (rápida controlada)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Flexiones de pecho (variación desafiante)",
+              "series": 4,
+              "reps": "8-12",
+              "descanso": "45s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo con mancuerna a una mano (rango completo)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "45s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancadas alternas caminando (rápidas y firmes)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "45s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Miércoles - Tren Inferior (Iron Legs) Culminación",
+          "ejercicios": [
+            {
+              "nombre": "Sentadilla frontal con barra (pesada, técnica)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "105s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Hip Thrust con barra (top 3s)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Zancada búlgara con mancuernas (estricto 3-1-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Buenos días con barra (controlados 2-0-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Elevaciones de pantorrilla (pesadas 3-1-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Viernes - Upper + Resistencia (Upper Grind) Culminación",
+          "ejercicios": [
+            {
+              "nombre": "Dominadas (lastre/asistidas, firmes)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "90s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Press inclinado con mancuernas (sólido 2-0-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Remo con mancuerna en banco (pausa 1s)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "75s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Fondos en paralelas (rango completo)",
+              "series": 4,
+              "reps": "6-8",
+              "descanso": "75s",
+              "tempo": "2-0-1"
+            },
+            {
+              "nombre": "Face pull (alto rep, control)",
+              "series": 4,
+              "reps": "12-15",
+              "descanso": "60s",
+              "tempo": "2-0-1"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Sábado - Conditioning Funcional (Engine Builder) Culminación",
+          "ejercicios": [
+            {
+              "nombre": "Thruster con mancuernas (potencia máxima técnica)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Remo renegado con mancuernas (estricto 3-1-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Clean con kettlebell alterno (rápido y potente)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "60s",
+              "tempo": "explosivo"
+            },
+            {
+              "nombre": "Peso muerto con kettlebell (sumo firme 3-1-1)",
+              "series": 4,
+              "reps": "8-10",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            },
+            {
+              "nombre": "Plancha frontal (tensión total 3-1-1)",
+              "series": 4,
+              "reps": "10-12",
+              "descanso": "60s",
+              "tempo": "3-1-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
