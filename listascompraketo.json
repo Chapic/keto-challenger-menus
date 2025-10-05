@@ -1,430 +1,904 @@
 {
-  "mensual": {
-    "nombre": "Despensa básica Keto",
-    "items": [
-      "Tomate en conserva: Triturado, entero pelado, frito (passata) y concentrado",
-      "Legumbres cocidas: Garbanzos, lentejas, alubias (blancas y rojas)",
-      "Pescado en conserva: Atún (al natural o en aceite), caballa, sardinas, mejillones",
-      "Verduras en conserva: Maíz dulce, guisantes, pimientos del piquillo, espárragos, aceitunas (verdes y negras)",
-      "Encurtidos: Pepinillos en vinagre, alcaparras",
-      "Arroz: De grano redondo (para guisos), de grano largo (para guarniciones), integral, vaporizado",
-      "Pasta: Larga (espaguetis, tallarines) y corta (macarrones, penne, fusilli). También placas para lasaña",
-      "Legumbres secas: Lentejas (pardina, castellana), garbanzos",
-      "Harina de trigo: De todo uso, ideal para rebozados, salsas y repostería básica",
-      "Pan: Pan rallado (para empanar), picos o colines",
-      "Otros cereales: Cuscús, quinoa, avena en copos (para desayunos o porridge)",
-      "Aceite de Oliva Virgen Extra: Para consumir en crudo (ensaladas, tostadas)",
-      "Aceite de Oliva Suave o de Girasol: Para cocinar a altas temperaturas y freír",
-      "Vinagre: De vino (tinto y blanco), de manzana, balsámico de Módena",
-      "Sal: Fina de mesa y gruesa o en escamas",
-      "Azúcar: Blanco y moreno",
-      "Salsas básicas: Soja, mostaza de Dijon, mayonesa, kétchup",
-      "Básicas: Pimienta negra (en grano y molida), pimentón (dulce y picante), orégano, comino molido, ajo en polvo, cebolla en polvo, laurel en hojas, canela molida, nuez moscada",
-      "Recomendadas: Romero, tomillo, curry en polvo, jengibre en polvo, clavo",
-      "Caldo en brick o en pastillas: De pollo, de carne, de verduras y de pescado",
-      "Leche de coco: Para curris y platos de inspiración asiática",
-      "Nata para cocinar: Para salsas cremosas y gratinados",
-      "Levadura: Química en polvo (tipo Royal) para bizcochos y levadura seca de panadero",
-      "Frutos secos: Nueces, almendras, avellanas",
-      "Frutas deshidratadas: Pasas, orejones, dátiles",
-      "Semillas: De girasol, de calabaza, de chía, de lino",
-      "Huevos",
-      "Ajos",
-      "Cebollas",
-      "Patatas",
-      "Zanahorias",
-      "Limones",
-      "Mantequilla",
-      "Queso curado y queso para rallar (Parmesano, Grana Padano)",
-      "Café: Molido o en grano",
-      "Té e infusiones: Tila, manzanilla, té verde",
-      "Cacao puro en polvo",
-      "Leche UHT (o tu bebida vegetal preferida)",
-      "Miel y mermeladas"
-    ]
-  },
+  "basicos": [
+    "Aceite de oliva",
+    "Aceite de coco",
+    "Mantequilla",
+    "Ghee",
+    "Sal marina",
+    "Pimienta negra",
+    "Vinagre de manzana",
+    "Mostaza Dijon (sin azúcar)",
+    "Orégano",
+    "Comino",
+    "Pimentón",
+    "Cúrcuma",
+    "Canela",
+    "Atún en aceite de oliva",
+    "Sardinas",
+    "Aceitunas",
+    "Tomate triturado (sin azúcar)",
+    "Harina de almendra",
+    "Harina de coco",
+    "Eritritol",
+    "Cacao puro en polvo",
+    "Chocolate 85% o más",
+    "Café",
+    "Té",
+    "Bebida de almendras (sin azúcar)",
+    "Huevos",
+    "Caldo de huesos o pollo"
+  ],
   "semanas": [
     {
       "semana": 1,
-      "grupos": [
+      "categorias": [
         {
-          "categoria": "Proteínas",
-          "items": ["Huevos", "Pechuga de pollo", "Salmón", "Filete de res", "Atún en aceite", "Carne molida (cerdo o res)", "Jamón serrano", "Pescado blanco (merluza o bacalao)"]
+          "nombre": "Proteínas",
+          "items": [
+            "Huevos",
+            "Pechuga de pollo",
+            "Salmón",
+            "Filete de res",
+            "Atún en aceite",
+            "Carne molida (cerdo o res)",
+            "Jamón serrano",
+            "Pescado blanco (merluza o bacalao)"
+          ]
         },
         {
-          "categoria": "Grasas y Aceites",
-          "items": ["Mantequilla", "Aceite de oliva", "Mayonesa (sin azúcar)", "Crema agria", "Crema de leche (nata líquida)", "Salsa holandesa"]
+          "nombre": "Verduras",
+          "items": [
+            "Espárragos",
+            "Aguacate",
+            "Brócoli",
+            "Espinacas frescas",
+            "Champiñones",
+            "Coliflor",
+            "Frambuesas o moras"
+          ]
         },
         {
-          "categoria": "Lácteos y Derivados",
-          "items": ["Queso cheddar", "Queso mozzarella", "Queso parmesano", "Queso de cabra", "Crema de coco"]
-        },
-        {
-          "categoria": "Verduras y Hortalizas",
-          "items": ["Espárragos", "Aguacate", "Brócoli", "Espinacas frescas", "Champiñones", "Coliflor"]
-        },
-        {
-          "categoria": "Frutas y Endulzantes",
-          "items": ["Frambuesas o moras", "Coco rallado", "Eritritol o endulzante keto"]
-        },
-        {
-          "categoria": "Harinas y Otros",
-          "items": ["Harina de almendra", "Semillas de chía", "Polvo de hornear", "Cacao en polvo sin azúcar", "Crema de almendras"]
-        },
-        {
-          "categoria": "Especias y Extras",
-          "items": ["Curry en polvo", "Cúrcuma", "Jengibre", "Perejil fresco", "Albahaca fresca", "Tomillo fresco", "Sal", "Pimienta", "Jugo de limón", "Salsa de tomate natural (sin azúcar)", "Extracto de vainilla"]
+          "nombre": "Grasas",
+          "items": [
+            "Mantequilla",
+            "Aceite de oliva",
+            "Mayonesa (sin azúcar)",
+            "Crema agria",
+            "Crema de leche (nata líquida)",
+            "Salsa holandesa",
+            "Queso cheddar",
+            "Queso mozzarella",
+            "Queso parmesano",
+            "Queso de cabra",
+            "Crema de coco",
+            "Coco rallado",
+            "Eritritol o endulzante keto",
+            "Harina de almendra",
+            "Semillas de chía",
+            "Polvo de hornear",
+            "Cacao en polvo sin azúcar",
+            "Crema de almendras",
+            "Curry en polvo",
+            "Cúrcuma",
+            "Jengibre",
+            "Perejil fresco",
+            "Albahaca fresca",
+            "Tomillo fresco",
+            "Sal",
+            "Pimienta",
+            "Jugo de limón",
+            "Salsa de tomate natural (sin azúcar)",
+            "Extracto de vainilla"
+          ]
         }
       ]
     },
     {
       "semana": 2,
-      "grupos": [
+      "categorias": [
         {
-          "categoria": "Proteínas",
-          "items": ["Huevos", "Carne molida (res o cerdo)", "Pechuga de pollo", "Filete de atún fresco", "Chuletas de cerdo", "Salmón fresco", "Salmón ahumado"]
+          "nombre": "Proteínas",
+          "items": [
+            "Huevos",
+            "Carne molida (res o cerdo)",
+            "Pechuga de pollo",
+            "Filete de atún fresco",
+            "Chuletas de cerdo",
+            "Salmón fresco",
+            "Salmón ahumado"
+          ]
         },
         {
-          "categoria": "Grasas y Aceites",
-          "items": ["Queso cheddar rallado", "Queso mozzarella rallado", "Queso parmesano", "Queso azul", "Queso brie", "Mantequilla", "Aceite de oliva", "Crema agria", "Crema de coco", "Mayonesa"]
+          "nombre": "Verduras",
+          "items": [
+            "Espinacas frescas",
+            "Brócoli",
+            "Pimientos rojos",
+            "Calabacín",
+            "Espárragos verdes",
+            "Lechuga romana",
+            "Aguacate",
+            "Limón"
+          ]
         },
         {
-          "categoria": "Vegetales y Frutas",
-          "items": ["Espinacas frescas", "Brócoli", "Pimientos rojos", "Calabacín", "Espárragos verdes", "Lechuga romana", "Aguacate", "Limón"]
-        },
-        {
-          "categoria": "Especias y Extras",
-          "items": ["Chorizo (sin azúcar)", "Mostaza Dijon (sin azúcar)", "Salsa de tomate (sin azúcar)", "Almendras laminadas", "Yogur griego natural (sin azúcar)", "Harina de almendra", "Cacao en polvo sin azúcar", "Chocolate negro (85% o más)", "Polvo para hornear", "Extracto de vainilla", "Sal"]
+          "nombre": "Grasas",
+          "items": [
+            "Queso cheddar rallado",
+            "Queso mozzarella rallado",
+            "Queso parmesano",
+            "Queso azul",
+            "Queso brie",
+            "Mantequilla",
+            "Aceite de oliva",
+            "Crema agria",
+            "Crema de coco",
+            "Mayonesa",
+            "Chorizo (sin azúcar)",
+            "Mostaza Dijon (sin azúcar)",
+            "Salsa de tomate (sin azúcar)",
+            "Almendras laminadas",
+            "Yogur griego natural (sin azúcar)",
+            "Harina de almendra",
+            "Cacao en polvo sin azúcar",
+            "Chocolate negro (85% o más)",
+            "Polvo para hornear",
+            "Extracto de vainilla",
+            "Sal"
+          ]
         }
       ]
     },
     {
       "semana": 3,
-      "grupos": [
+      "categorias": [
         {
-          "categoria": "Proteínas",
-          "items": ["Huevos", "Tocino", "Carne molida de res o cerdo", "Solomillo de cerdo", "Pechuga de pollo", "Muslo de pollo", "Camarones pelados", "Calamares en rodajas", "Salmón fresco", "Pulpo cocido", "Pechuga de pato o pollo", "Filete de atún fresco", "Chorizo sin azúcar", "Jamón serrano", "Jamón cocido (sin azúcar)", "Chuleta de cerdo"]
+          "nombre": "Proteínas",
+          "items": [
+            "Huevos",
+            "Tocino",
+            "Carne molida de res o cerdo",
+            "Solomillo de cerdo",
+            "Pechuga de pollo",
+            "Muslo de pollo",
+            "Camarones pelados",
+            "Calamares en rodajas",
+            "Salmón fresco",
+            "Pulpo cocido",
+            "Pechuga de pato o pollo",
+            "Filete de atún fresco",
+            "Chorizo sin azúcar",
+            "Jamón serrano",
+            "Jamón cocido (sin azúcar)",
+            "Chuleta de cerdo"
+          ]
         },
         {
-          "categoria": "Grasas y Aceites",
-          "items": ["Aguacates", "Mantequilla", "Aceite de oliva", "Harina de coco", "Crema de almendras", "Nueces"]
+          "nombre": "Verduras",
+          "items": [
+            "Espinacas frescas",
+            "Coliflor",
+            "Calabacín",
+            "Pimientos rojos",
+            "Champiñones frescos",
+            "Puerro",
+            "Albahaca fresca",
+            "Perejil fresco",
+            "Romero fresco",
+            "Lechuga romana",
+            "Ajo",
+            "Cebolla",
+            "Limón",
+            "Frambuesas"
+          ]
         },
         {
-          "categoria": "Lácteos y Derivados",
-          "items": ["Queso crema", "Queso cheddar rallado", "Queso parmesano rallado", "Queso mozzarella rallado", "Queso azul", "Crema de coco", "Crema agria", "Yogur griego natural (sin azúcar)", "Ricota", "Leche de almendra sin azúcar"]
-        },
-        {
-          "categoria": "Verduras y Hortalizas",
-          "items": ["Espinacas frescas", "Coliflor", "Calabacín", "Pimientos rojos", "Champiñones frescos", "Puerro", "Albahaca fresca", "Perejil fresco", "Romero fresco", "Lechuga romana", "Ajo", "Cebolla", "Limón"]
-        },
-        {
-          "categoria": "Frutas y Endulzantes",
-          "items": ["Frambuesas", "Chocolate 85% cacao", "Eritritol"]
-        },
-        {
-          "categoria": "Harinas y Otros",
-          "items": ["Harina de almendra", "Polvo de hornear", "Salsa de tomate sin azúcar", "Mostaza Dijon", "Vinagre de manzana", "Caldo de pescado", "Gelatina sin sabor"]
-        },
-        {
-          "categoria": "Especias y Extras",
-          "items": ["Sal yodada", "Pimienta negra", "Ajo en polvo", "Orégano seco", "Curry en polvo", "Cúrcuma", "Canela en polvo"]
+          "nombre": "Grasas",
+          "items": [
+            "Aguacates",
+            "Mantequilla",
+            "Aceite de oliva",
+            "Harina de coco",
+            "Crema de almendras",
+            "Nueces",
+            "Queso crema",
+            "Queso cheddar rallado",
+            "Queso parmesano rallado",
+            "Queso mozzarella rallado",
+            "Queso azul",
+            "Crema de coco",
+            "Crema agria",
+            "Yogur griego natural (sin azúcar)",
+            "Ricota",
+            "Leche de almendra sin azúcar",
+            "Chocolate 85% cacao",
+            "Eritritol",
+            "Harina de almendra",
+            "Polvo de hornear",
+            "Salsa de tomate sin azúcar",
+            "Mostaza Dijon",
+            "Vinagre de manzana",
+            "Caldo de pescado",
+            "Gelatina sin sabor",
+            "Sal yodada",
+            "Pimienta negra",
+            "Ajo en polvo",
+            "Orégano seco",
+            "Curry en polvo",
+            "Cúrcuma",
+            "Canela en polvo"
+          ]
         }
       ]
     },
     {
       "semana": 4,
-      "grupos": [
+      "categorias": [
         {
-          "categoria": "Proteínas",
-          "items": ["Huevos", "Costillas de cerdo", "Pechuga de pollo", "Entrecot de ternera", "Chuleta de cerdo", "Filete de merluza", "Filete de salmón fresco", "Salmón ahumado", "Atún en aceite de oliva", "Jamón serrano o de pavo", "Carne de res molida", "Camarones cocidos"]
+          "nombre": "Proteínas",
+          "items": [
+            "Huevos",
+            "Costillas de cerdo",
+            "Pechuga de pollo",
+            "Entrecot de ternera",
+            "Chuleta de cerdo",
+            "Filete de merluza",
+            "Filete de salmón fresco",
+            "Salmón ahumado",
+            "Atún en aceite de oliva",
+            "Jamón serrano o de pavo",
+            "Carne de res molida",
+            "Camarones cocidos"
+          ]
         },
         {
-          "categoria": "Grasas y Aceites",
-          "items": ["Mantequilla", "Aceite de oliva", "Mayonesa sin azúcar", "Mostaza Dijon", "Salsa Worcestershire sin azúcar", "Crema de leche", "Leche de almendra sin azúcar", "Leche de coco sin azúcar"]
+          "nombre": "Verduras",
+          "items": [
+            "Coliflor",
+            "Espárragos verdes",
+            "Brócoli",
+            "Lechuga mixta",
+            "Aguacate",
+            "Pepinillos en vinagre",
+            "Champiñones en rodajas",
+            "Cebolla",
+            "Ajo",
+            "Perejil",
+            "Limón",
+            "Frutos rojos (arándanos o frambuesas)"
+          ]
         },
         {
-          "categoria": "Lácteos y Derivados",
-          "items": ["Queso crema", "Queso parmesano rallado", "Queso cheddar rallado", "Yogur griego sin azúcar", "Nata montada sin azúcar", "Mozzarella rallada"]
-        },
-        {
-          "categoria": "Verduras y Hortalizas",
-          "items": ["Coliflor", "Espárragos verdes", "Brócoli", "Lechuga mixta", "Aguacate", "Pepinillos en vinagre", "Champiñones en rodajas", "Cebolla", "Ajo", "Perejil", "Limón"]
-        },
-        {
-          "categoria": "Frutas y Endulzantes",
-          "items": ["Frutos rojos (arándanos o frambuesas)", "Eritritol o monk fruit"]
-        },
-        {
-          "categoria": "Harinas y Otros",
-          "items": ["Harina de almendra", "Harina de coco", "Semillas de chía", "Almendras fileteadas", "Nueces picadas", "Puré de tomate sin azúcar", "Vinagre de manzana"]
-        },
-        {
-          "categoria": "Especias y Extras",
-          "items": ["Pimentón ahumado", "Comino en polvo", "Canela en polvo", "Ajo en polvo", "Cebolla en polvo", "Orégano seco", "Sal", "Pimienta", "Cayena (opcional)", "Aceitunas negras", "Albahaca fresca"]
+          "nombre": "Grasas",
+          "items": [
+            "Mantequilla",
+            "Aceite de oliva",
+            "Mayonesa sin azúcar",
+            "Mostaza Dijon",
+            "Salsa Worcestershire sin azúcar",
+            "Crema de leche",
+            "Leche de almendra sin azúcar",
+            "Leche de coco sin azúcar",
+            "Queso crema",
+            "Queso parmesano rallado",
+            "Queso cheddar rallado",
+            "Yogur griego sin azúcar",
+            "Nata montada sin azúcar",
+            "Mozzarella rallada",
+            "Eritritol o monk fruit",
+            "Harina de almendra",
+            "Harina de coco",
+            "Semillas de chía",
+            "Almendras fileteadas",
+            "Nueces picadas",
+            "Puré de tomate sin azúcar",
+            "Vinagre de manzana",
+            "Pimentón ahumado",
+            "Comino en polvo",
+            "Canela en polvo",
+            "Ajo en polvo",
+            "Cebolla en polvo",
+            "Orégano seco",
+            "Sal",
+            "Pimienta",
+            "Cayena (opcional)",
+            "Aceitunas negras",
+            "Albahaca fresca"
+          ]
         }
       ]
     },
     {
       "semana": 5,
-      "grupos": [
+      "categorias": [
         {
-          "categoria": "Proteínas",
-          "items": ["Pechuga de pollo", "Alitas de pollo", "Chuletas de cerdo", "Costillas de cerdo", "Ternera molida", "Salmón ahumado", "Atún en aceite de oliva", "Bacon en lonchas", "Jamón serrano en tiras", "Huevos"]
+          "nombre": "Proteínas",
+          "items": [
+            "Pechuga de pollo",
+            "Alitas de pollo",
+            "Chuletas de cerdo",
+            "Costillas de cerdo",
+            "Ternera molida",
+            "Salmón ahumado",
+            "Atún en aceite de oliva",
+            "Bacon en lonchas",
+            "Jamón serrano en tiras",
+            "Huevos"
+          ]
         },
         {
-          "categoria": "Grasas y Aceites",
-          "items": ["Aceite de oliva virgen extra", "Mantequilla sin sal", "Nata para cocinar", "Nueces picadas", "Aguacates"]
+          "nombre": "Verduras",
+          "items": [
+            "Espinacas frescas",
+            "Calabacines",
+            "Berenjenas",
+            "Pimientos rojos",
+            "Champiñones",
+            "Espárragos verdes",
+            "Lechuga variada",
+            "Frutos rojos (arándanos o frambuesas)"
+          ]
         },
         {
-          "categoria": "Lácteos y Derivados",
-          "items": ["Queso crema", "Queso cheddar rallado", "Queso parmesano rallado", "Queso feta desmenuzado", "Queso mozzarella rallado", "Ricotta", "Leche de almendra sin azúcar"]
-        },
-        {
-          "categoria": "Verduras y Hortalizas",
-          "items": ["Espinacas frescas", "Calabacines", "Berenjenas", "Pimientos rojos", "Champiñones", "Espárragos verdes", "Lechuga variada"]
-        },
-        {
-          "categoria": "Frutas y Endulzantes",
-          "items": ["Frutos rojos (arándanos o frambuesas)", "Eritritol o monk fruit", "Canela en polvo"]
-        },
-        {
-          "categoria": "Harinas y Otros",
-          "items": ["Harina de almendra", "Harina de coco", "Polvo de hornear", "Salsa Worcestershire sin azúcar", "Salsa BBQ keto casera", "Mostaza Dijon sin azúcar", "Puré de tomate sin azúcar"]
-        },
-        {
-          "categoria": "Especias y Extras",
-          "items": ["Cebolla en polvo", "Ajo en polvo", "Pimentón ahumado", "Orégano seco", "Comino en polvo", "Sal", "Pimienta"]
+          "nombre": "Grasas",
+          "items": [
+            "Aceite de oliva virgen extra",
+            "Mantequilla sin sal",
+            "Nata para cocinar",
+            "Nueces picadas",
+            "Aguacates",
+            "Queso crema",
+            "Queso cheddar rallado",
+            "Queso parmesano rallado",
+            "Queso feta desmenuzado",
+            "Queso mozzarella rallado",
+            "Ricotta",
+            "Leche de almendra sin azúcar",
+            "Eritritol o monk fruit",
+            "Canela en polvo",
+            "Harina de almendra",
+            "Harina de coco",
+            "Polvo de hornear",
+            "Salsa Worcestershire sin azúcar",
+            "Salsa BBQ keto casera",
+            "Mostaza Dijon sin azúcar",
+            "Puré de tomate sin azúcar",
+            "Cebolla en polvo",
+            "Ajo en polvo",
+            "Pimentón ahumado",
+            "Orégano seco",
+            "Comino en polvo",
+            "Sal",
+            "Pimienta"
+          ]
         }
       ]
     },
     {
       "semana": 6,
-      "grupos": [
+      "categorias": [
         {
-          "categoria": "Proteínas",
-          "items": ["Pechugas de pollo", "Muslos de pollo deshuesados", "Carne de ternera (aguja o falda)", "Costillas de cerdo", "Lomo de cerdo", "Bacalao desalado", "Salmón fresco", "Falda de res", "Carne de cerdo para desmenuzar", "Huevos"]
+          "nombre": "Proteínas",
+          "items": [
+            "Pechugas de pollo",
+            "Muslos de pollo deshuesados",
+            "Carne de ternera (aguja o falda)",
+            "Costillas de cerdo",
+            "Lomo de cerdo",
+            "Bacalao desalado",
+            "Salmón fresco",
+            "Falda de res",
+            "Carne de cerdo para desmenuzar",
+            "Huevos"
+          ]
         },
         {
-          "categoria": "Grasas y Aceites",
-          "items": ["Mantequilla", "Aceite de oliva virgen extra", "Leche de coco entera", "Crema de leche o nata para cocinar"]
+          "nombre": "Verduras",
+          "items": [
+            "Espárragos verdes",
+            "Champiñones frescos",
+            "Brócoli",
+            "Calabacín",
+            "Pimientos rojos",
+            "Pimientos verdes",
+            "Cebolla blanca o amarilla",
+            "Ajo",
+            "Tomate triturado sin azúcar",
+            "Espinacas frescas",
+            "Coliflor en floretes",
+            "Frambuesas o moras"
+          ]
         },
         {
-          "categoria": "Lácteos y Derivados",
-          "items": ["Queso cheddar rallado", "Queso parmesano rallado", "Queso azul"]
-        },
-        {
-          "categoria": "Verduras y Hortalizas",
-          "items": ["Espárragos verdes", "Champiñones frescos", "Brócoli", "Calabacín", "Pimientos rojos", "Pimientos verdes", "Cebolla blanca o amarilla", "Ajo", "Tomate triturado sin azúcar", "Espinacas frescas", "Coliflor en floretes"]
-        },
-        {
-          "categoria": "Frutas y Endulzantes",
-          "items": ["Frambuesas o moras", "Coco rallado", "Eritritol o endulzante keto"]
-        },
-        {
-          "categoria": "Harinas y Otros",
-          "items": ["Harina de almendra", "Semillas de chía", "Polvo de hornear", "Cacao en polvo sin azúcar", "Crema de almendras"]
-        },
-        {
-          "categoria": "Especias y Extras",
-          "items": ["Sal y pimienta", "Pimentón dulce", "Comino en polvo", "Romero seco", "Tomillo seco", "Orégano seco", "Mostaza Dijon", "Vinagre de manzana", "Caldo de res o pollo", "Jengibre fresco", "Esencia de vainilla"]
+          "nombre": "Grasas",
+          "items": [
+            "Mantequilla",
+            "Aceite de oliva virgen extra",
+            "Leche de coco entera",
+            "Crema de leche o nata para cocinar",
+            "Queso cheddar rallado",
+            "Queso parmesano rallado",
+            "Queso azul",
+            "Coco rallado",
+            "Eritritol o endulzante keto",
+            "Harina de almendra",
+            "Semillas de chía",
+            "Polvo de hornear",
+            "Cacao en polvo sin azúcar",
+            "Crema de almendras",
+            "Sal y pimienta",
+            "Pimentón dulce",
+            "Comino en polvo",
+            "Romero seco",
+            "Tomillo seco",
+            "Orégano seco",
+            "Mostaza Dijon",
+            "Vinagre de manzana",
+            "Caldo de res o pollo",
+            "Jengibre fresco",
+            "Esencia de vainilla"
+          ]
         }
       ]
     },
     {
       "semana": 7,
-      "grupos": [
+      "categorias": [
         {
-          "categoria": "Proteínas",
-          "items": ["Huevos", "Carne picada de ternera", "Carne picada de pavo", "Solomillo de cerdo", "Solomillo de ternera", "Pechuga de pollo", "Muslos de pollo deshuesados", "Bacon", "Hamburguesa de ternera", "Merluza", "Marisco mixto (gambas, calamar, mejillones)"]
+          "nombre": "Proteínas",
+          "items": [
+            "Huevos",
+            "Carne picada de ternera",
+            "Carne picada de pavo",
+            "Solomillo de cerdo",
+            "Solomillo de ternera",
+            "Pechuga de pollo",
+            "Muslos de pollo deshuesados",
+            "Bacon",
+            "Hamburguesa de ternera",
+            "Merluza",
+            "Marisco mixto (gambas, calamar, mejillones)"
+          ]
         },
         {
-          "categoria": "Grasas y Aceites",
-          "items": ["Mantequilla", "Aceite de oliva virgen extra", "Aguacates", "Mayonesa keto", "Nata para cocinar"]
+          "nombre": "Verduras",
+          "items": [
+            "Espárragos verdes",
+            "Espinacas frescas",
+            "Calabacines",
+            "Coliflor",
+            "Tomate triturado sin azúcar",
+            "Cebolla",
+            "Ajo",
+            "Lechuga",
+            "Frutos rojos (fresas, frambuesas o arándanos)"
+          ]
         },
         {
-          "categoria": "Lácteos y Derivados",
-          "items": ["Yogur griego natural sin azúcar", "Queso crema", "Queso cheddar", "Queso parmesano rallado", "Queso de cabra", "Queso mozzarella rallado", "Queso azul"]
-        },
-        {
-          "categoria": "Verduras y Hortalizas",
-          "items": ["Espárragos verdes", "Espinacas frescas", "Calabacines", "Coliflor", "Tomate triturado sin azúcar", "Cebolla", "Ajo", "Lechuga"]
-        },
-        {
-          "categoria": "Frutas y Endulzantes",
-          "items": ["Frutos rojos (fresas, frambuesas o arándanos)", "Eritritol o stevia"]
-        },
-        {
-          "categoria": "Harinas y Otros",
-          "items": ["Harina de almendra", "Semillas de chía", "Nueces", "Polvo de hornear"]
-        },
-        {
-          "categoria": "Especias y Extras",
-          "items": ["Sal marina", "Pimienta negra", "Orégano seco", "Perejil seco o fresco", "Nuez moscada", "Mostaza Dijon", "Limones", "Azafrán o cúrcuma", "Caldo de pescado", "Caldo de pollo", "Canela"]
+          "nombre": "Grasas",
+          "items": [
+            "Mantequilla",
+            "Aceite de oliva virgen extra",
+            "Aguacates",
+            "Mayonesa keto",
+            "Nata para cocinar",
+            "Yogur griego natural sin azúcar",
+            "Queso crema",
+            "Queso cheddar",
+            "Queso parmesano rallado",
+            "Queso de cabra",
+            "Queso mozzarella rallado",
+            "Queso azul",
+            "Eritritol o stevia",
+            "Harina de almendra",
+            "Semillas de chía",
+            "Nueces",
+            "Polvo de hornear",
+            "Sal marina",
+            "Pimienta negra",
+            "Orégano seco",
+            "Perejil seco o fresco",
+            "Nuez moscada",
+            "Mostaza Dijon",
+            "Limones",
+            "Azafrán o cúrcuma",
+            "Caldo de pescado",
+            "Caldo de pollo",
+            "Canela"
+          ]
         }
       ]
     },
     {
       "semana": 8,
-      "grupos": [
+      "categorias": [
         {
-          "categoria": "Proteínas",
-          "items": ["Huevos", "Carne picada de pavo", "Carne picada de ternera", "Carne picada mixta", "Paleta de cerdo cocida y desmenuzada", "Pechuga de pollo", "Muslos de pollo", "Lomo de merluza", "Gambas peladas", "Calamares en anillas", "Mejillones cocidos"]
+          "nombre": "Proteínas",
+          "items": [
+            "Huevos",
+            "Carne picada de pavo",
+            "Carne picada de ternera",
+            "Carne picada mixta",
+            "Paleta de cerdo cocida y desmenuzada",
+            "Pechuga de pollo",
+            "Muslos de pollo",
+            "Lomo de merluza",
+            "Gambas peladas",
+            "Calamares en anillas",
+            "Mejillones cocidos"
+          ]
         },
         {
-          "categoria": "Grasas y Aceites",
-          "items": ["Mantequilla", "Aceite de oliva virgen extra", "Manteca de cerdo o aceite de coco", "Crema de almendras 100% natural", "Crema de coco densa", "Mayonesa keto", "Nata para cocinar"]
+          "nombre": "Verduras",
+          "items": [
+            "Espinacas frescas",
+            "Coliflor",
+            "Calabacín",
+            "Lechuga romana o iceberg",
+            "Cebolla",
+            "Champiñones",
+            "Repollo blanco",
+            "Ajo",
+            "Cebollino fresco",
+            "Guisantes cocidos",
+            "Frambuesas frescas o liofilizadas"
+          ]
         },
         {
-          "categoria": "Lácteos y Derivados",
-          "items": ["Yogur griego natural 10% MG", "Queso cheddar rallado", "Queso gouda o cheddar en lonchas", "Queso azul", "Queso rallado tipo emmental o gouda", "Queso parmesano rallado"]
-        },
-        {
-          "categoria": "Verduras y Hortalizas",
-          "items": ["Espinacas frescas", "Coliflor", "Calabacín", "Lechuga romana o iceberg", "Cebolla", "Champiñones", "Repollo blanco", "Ajo", "Cebollino fresco", "Guisantes cocidos"]
-        },
-        {
-          "categoria": "Frutas y Endulzantes",
-          "items": ["Frambuesas frescas o liofilizadas", "Coco rallado", "Eritritol"]
-        },
-        {
-          "categoria": "Harinas y Otros",
-          "items": ["Harina de almendra", "Semillas de chía", "Semillas de lino molidas", "Pan keto bajo en carbohidratos"]
-        },
-        {
-          "categoria": "Especias y Extras",
-          "items": ["Sal y pimienta", "Canela", "Ajo en polvo", "Cebolla en polvo", "Orégano seco", "Romero fresco", "Mostaza Dijon", "Tomate concentrado sin azúcar", "Vinagre de manzana", "Esencia de vainilla", "Hebras de azafrán"]
+          "nombre": "Grasas",
+          "items": [
+            "Mantequilla",
+            "Aceite de oliva virgen extra",
+            "Manteca de cerdo o aceite de coco",
+            "Crema de almendras 100% natural",
+            "Crema de coco densa",
+            "Mayonesa keto",
+            "Nata para cocinar",
+            "Yogur griego natural 10% MG",
+            "Queso cheddar rallado",
+            "Queso gouda o cheddar en lonchas",
+            "Queso azul",
+            "Queso rallado tipo emmental o gouda",
+            "Queso parmesano rallado",
+            "Coco rallado",
+            "Eritritol",
+            "Harina de almendra",
+            "Semillas de chía",
+            "Semillas de lino molidas",
+            "Pan keto bajo en carbohidratos",
+            "Sal y pimienta",
+            "Canela",
+            "Ajo en polvo",
+            "Cebolla en polvo",
+            "Orégano seco",
+            "Romero fresco",
+            "Mostaza Dijon",
+            "Tomate concentrado sin azúcar",
+            "Vinagre de manzana",
+            "Esencia de vainilla",
+            "Hebras de azafrán"
+          ]
         }
       ]
     },
     {
       "semana": 9,
-      "grupos": [
+      "categorias": [
         {
-          "categoria": "Proteínas",
-          "items": ["Huevos", "Tofu firme", "Queso de cabra", "Carne picada de ternera (opcional)", "Hamburguesa de ternera (opcional)", "Pechuga de pollo (opcional)", "Bacon o panceta (opcional)"]
+          "nombre": "Proteínas",
+          "items": [
+            "Huevos",
+            "Tofu firme",
+            "Queso de cabra",
+            "Carne picada de ternera (opcional)",
+            "Hamburguesa de ternera (opcional)",
+            "Pechuga de pollo (opcional)",
+            "Bacon o panceta (opcional)"
+          ]
         },
         {
-          "categoria": "Grasas y Aceites",
-          "items": ["Aceite de oliva virgen extra", "Mantequilla", "Aceite de coco", "Crema de avellanas 100% natural"]
+          "nombre": "Verduras",
+          "items": [
+            "Espinacas frescas",
+            "Espárragos verdes",
+            "Bimi (brócoli tierno)",
+            "Brócoli",
+            "Tomate",
+            "Calabacín",
+            "Aguacates",
+            "Cebolla",
+            "Pimiento rojo",
+            "Calabaza cocida",
+            "Lechuga romana o iceberg",
+            "Frambuesas frescas o liofilizadas"
+          ]
         },
         {
-          "categoria": "Lácteos y Derivados",
-          "items": ["Queso parmesano rallado", "Queso azul", "Queso rallado para gratinar", "Nata para cocinar", "Yogur griego sin azúcar", "Queso gouda o cheddar"]
-        },
-        {
-          "categoria": "Verduras y Hortalizas",
-          "items": ["Espinacas frescas", "Espárragos verdes", "Bimi (brócoli tierno)", "Brócoli", "Tomate", "Calabacín", "Aguacates", "Cebolla", "Pimiento rojo", "Calabaza cocida", "Lechuga romana o iceberg"]
-        },
-        {
-          "categoria": "Frutas y Endulzantes",
-          "items": ["Frambuesas frescas o liofilizadas", "Coco rallado", "Eritritol"]
-        },
-        {
-          "categoria": "Harinas y Otros",
-          "items": ["Harina de almendra", "Harina de coco", "Semillas de lino molidas", "Semillas de chía", "Semillas de sésamo", "Pan keto bajo en carbohidratos", "Bebida de almendras sin azúcar", "Caldo vegetal", "Caldo de pescado", "Cacao en polvo sin azúcar"]
-        },
-        {
-          "categoria": "Especias y Extras",
-          "items": ["Sal y pimienta", "Ajo en polvo", "Cúrcuma", "Canela en polvo", "Nuez moscada", "Orégano", "Romero fresco", "Jengibre en polvo", "Salsa de soja baja en sal", "Esencia de vainilla"]
+          "nombre": "Grasas",
+          "items": [
+            "Aceite de oliva virgen extra",
+            "Mantequilla",
+            "Aceite de coco",
+            "Crema de avellanas 100% natural",
+            "Queso parmesano rallado",
+            "Queso azul",
+            "Queso rallado para gratinar",
+            "Nata para cocinar",
+            "Yogur griego sin azúcar",
+            "Queso gouda o cheddar",
+            "Coco rallado",
+            "Eritritol",
+            "Harina de almendra",
+            "Harina de coco",
+            "Semillas de lino molidas",
+            "Semillas de chía",
+            "Semillas de sésamo",
+            "Pan keto bajo en carbohidratos",
+            "Bebida de almendras sin azúcar",
+            "Caldo vegetal",
+            "Caldo de pescado",
+            "Cacao en polvo sin azúcar",
+            "Sal y pimienta",
+            "Ajo en polvo",
+            "Cúrcuma",
+            "Canela en polvo",
+            "Nuez moscada",
+            "Orégano",
+            "Romero fresco",
+            "Jengibre en polvo",
+            "Salsa de soja baja en sal",
+            "Esencia de vainilla"
+          ]
         }
       ]
     },
     {
       "semana": 10,
-      "grupos": [
+      "categorias": [
         {
-          "categoria": "Proteínas",
-          "items": ["Huevos", "Pechuga de pollo", "Muslos de pollo", "Lomo de cerdo", "Costillas de cerdo", "Falda o aguja de ternera", "Queso (cheddar, gouda, parmesano, curado, crema, gruyère, de cabra)", "Bacon o panceta", "Chicharrón prensado molido"]
+          "nombre": "Proteínas",
+          "items": [
+            "Huevos",
+            "Pechuga de pollo",
+            "Muslos de pollo",
+            "Lomo de cerdo",
+            "Costillas de cerdo",
+            "Falda o aguja de ternera",
+            "Queso (cheddar, gouda, parmesano, curado, crema, gruyère, de cabra)",
+            "Bacon o panceta",
+            "Chicharrón prensado molido"
+          ]
         },
         {
-          "categoria": "Verduras y Hortalizas",
-          "items": ["Coliflor", "Brócoli", "Calabacines", "Pimientos rojos", "Cebollas", "Ajo", "Espinacas frescas", "Tomillo", "Romero"]
+          "nombre": "Verduras",
+          "items": [
+            "Coliflor",
+            "Brócoli",
+            "Calabacines",
+            "Pimientos rojos",
+            "Cebollas",
+            "Ajo",
+            "Espinacas frescas",
+            "Tomillo",
+            "Romero",
+            "Frambuesas",
+            "Limón"
+          ]
         },
         {
-          "categoria": "Frutas",
-          "items": ["Frambuesas", "Limón"]
-        },
-        {
-          "categoria": "Grasas y Aceites",
-          "items": ["Aceite de oliva virgen extra", "Mantequilla", "Manteca de cerdo", "Mantequilla de coco"]
-        },
-        {
-          "categoria": "Lácteos y Derivados",
-          "items": ["Nata para cocinar / montar", "Queso crema", "Queso rallado variado", "Crema agria"]
-        },
-        {
-          "categoria": "Harinas, Frutos Secos y Semillas",
-          "items": ["Harina de almendra", "Harina de coco", "Semillas de lino", "Nueces", "Pistachos sin sal (o harina de pistacho)", "Coco rallado sin azúcar"]
-        },
-        {
-          "categoria": "Despensa y Condimentos",
-          "items": ["Pan keto bajo en carbohidratos", "Bebida vegetal sin azúcar (almendra o coco)", "Caldo de huesos o vegetal", "Levadura química (o polvo de hornear)", "Eritritol (o monk fruit)", "Extracto de vainilla", "Goma xantana (o maicena)", "Canela en polvo", "Sal marina", "Pimienta negra", "Pimentón dulce", "Nuez moscada", "Mostaza Dijon", "Orégano seco", "Vinagre", "Papel de horno"]
+          "nombre": "Grasas",
+          "items": [
+            "Aceite de oliva virgen extra",
+            "Mantequilla",
+            "Manteca de cerdo",
+            "Mantequilla de coco",
+            "Nata para cocinar / montar",
+            "Queso crema",
+            "Queso rallado variado",
+            "Crema agria",
+            "Harina de almendra",
+            "Harina de coco",
+            "Semillas de lino",
+            "Nueces",
+            "Pistachos sin sal (o harina de pistacho)",
+            "Coco rallado sin azúcar",
+            "Pan keto bajo en carbohidratos",
+            "Bebida vegetal sin azúcar (almendra o coco)",
+            "Caldo de huesos o vegetal",
+            "Levadura química (o polvo de hornear)",
+            "Eritritol (o monk fruit)",
+            "Extracto de vainilla",
+            "Goma xantana (o maicena)",
+            "Canela en polvo",
+            "Sal marina",
+            "Pimienta negra",
+            "Pimentón dulce",
+            "Nuez moscada",
+            "Mostaza Dijon",
+            "Orégano seco",
+            "Vinagre",
+            "Papel de horno"
+          ]
         }
       ]
     },
     {
       "semana": 11,
-      "grupos": [
+      "categorias": [
         {
-          "categoria": "Proteínas",
-          "items": ["Huevos", "Carne picada de ternera", "Pechuga de pollo", "Muslos de pollo", "Tofu firme", "Atún en aceite", "Filete de pescado blanco", "Bacon", "Queso feta", "Queso halloumi (o similar)"]
+          "nombre": "Proteínas",
+          "items": [
+            "Huevos",
+            "Carne picada de ternera",
+            "Pechuga de pollo",
+            "Muslos de pollo",
+            "Tofu firme",
+            "Atún en aceite",
+            "Filete de pescado blanco",
+            "Bacon",
+            "Queso feta",
+            "Queso halloumi (o similar)"
+          ]
         },
         {
-          "categoria": "Verduras y Hortalizas",
-          "items": ["Berenjena", "Tomate (natural y cherry)", "Pepino", "Calabacín", "Coliflor", "Espinacas frescas", "Cebolla", "Pimiento (rojo y/o verde)", "Lechuga (romana o iceberg)", "Ajo", "Jengibre fresco", "Cilantro fresco", "Aceitunas kalamata"]
+          "nombre": "Verduras",
+          "items": [
+            "Berenjena",
+            "Tomate (natural y cherry)",
+            "Pepino",
+            "Calabacín",
+            "Coliflor",
+            "Espinacas frescas",
+            "Cebolla",
+            "Pimiento (rojo y/o verde)",
+            "Lechuga (romana o iceberg)",
+            "Ajo",
+            "Jengibre fresco",
+            "Cilantro fresco",
+            "Aceitunas kalamata",
+            "Limón",
+            "Lima",
+            "Frutos rojos (frambuesas o arándanos)",
+            "Pistachos"
+          ]
         },
         {
-          "categoria": "Frutas",
-          "items": ["Limón", "Lima", "Frutos rojos (frambuesas o arándanos)", "Pistachos"]
-        },
-        {
-          "categoria": "Grasas y Aceites",
-          "items": ["Aceite de oliva virgen extra", "Aceite de coco", "Mantequilla", "Ghee", "Tahini (pasta de sésamo)"]
-        },
-        {
-          "categoria": "Lácteos y Derivados",
-          "items": ["Nata para cocinar (o para montar, min. 35% MG)", "Yogur griego natural sin azúcar", "Queso parmesano", "Queso mozzarella", "Queso crema", "Queso cheddar", "Queso mascarpone", "Leche o bebida de almendra sin azúcar"]
-        },
-        {
-          "categoria": "Harinas, Frutos Secos y Semillas",
-          "items": ["Harina de almendra", "Harina de coco", "Psyllium en polvo", "Semillas de chía", "Semillas de lino molidas", "Semillas de sésamo", "Harina de lupino (opcional)", "Nueces", "Coco rallado sin azúcar"]
-        },
-        {
-          "categoria": "Despensa, Condimentos y Especias",
-          "items": ["Eritritol o monk fruit", "Esencia de vainilla", "Agua de azahar", "Agua de rosas", "Levadura química (o bicarbonato)", "Canela en polvo", "Cúrcuma", "Curry en polvo", "Comino", "Ras el hanout (opcional)", "Orégano seco", "Romero", "Pimienta negra", "Sal (marina o rosa)", "Pimentón (dulce o picante)", "Cardamomo molido", "Caldo de verduras o de pollo (sin azúcar)", "Salsa de soja baja en sal (o tamari)"]
+          "nombre": "Grasas",
+          "items": [
+            "Aceite de oliva virgen extra",
+            "Aceite de coco",
+            "Mantequilla",
+            "Ghee",
+            "Tahini (pasta de sésamo)",
+            "Nata para cocinar (o para montar, min. 35% MG)",
+            "Yogur griego natural sin azúcar",
+            "Queso parmesano",
+            "Queso mozzarella",
+            "Queso crema",
+            "Queso cheddar",
+            "Queso mascarpone",
+            "Leche o bebida de almendra sin azúcar",
+            "Harina de almendra",
+            "Harina de coco",
+            "Psyllium en polvo",
+            "Semillas de chía",
+            "Semillas de lino molidas",
+            "Semillas de sésamo",
+            "Harina de lupino (opcional)",
+            "Nueces",
+            "Coco rallado sin azúcar",
+            "Eritritol o monk fruit",
+            "Esencia de vainilla",
+            "Agua de azahar",
+            "Agua de rosas",
+            "Levadura química (o bicarbonato)",
+            "Canela en polvo",
+            "Cúrcuma",
+            "Curry en polvo",
+            "Comino",
+            "Ras el hanout (opcional)",
+            "Orégano seco",
+            "Romero",
+            "Pimienta negra",
+            "Sal (marina o rosa)",
+            "Pimentón (dulce o picante)",
+            "Cardamomo molido",
+            "Caldo de verduras o de pollo (sin azúcar)",
+            "Salsa de soja baja en sal (o tamari)"
+          ]
         }
       ]
     },
     {
       "semana": 12,
-      "grupos": [
+      "categorias": [
         {
-          "categoria": "Proteínas",
-          "items": ["Huevos", "Bacon", "Salmón ahumado", "Muslos de pollo deshuesados", "Pechuga de pollo", "Carne picada de cordero o ternera", "Entrecot / filete de ternera", "Lomo de salmón", "Filete de caballa (fresco o en conserva)", "Jamón curado o cocido sin azúcar", "Queso de cabra en rulo", "Burrata o mozzarella de búfala", "Lubina u otro pescado blanco"]
+          "nombre": "Proteínas",
+          "items": [
+            "Huevos",
+            "Bacon",
+            "Salmón ahumado",
+            "Muslos de pollo deshuesados",
+            "Pechuga de pollo",
+            "Carne picada de cordero o ternera",
+            "Entrecot / filete de ternera",
+            "Lomo de salmón",
+            "Filete de caballa (fresco o en conserva)",
+            "Jamón curado o cocido sin azúcar",
+            "Queso de cabra en rulo",
+            "Burrata o mozzarella de búfala",
+            "Lubina u otro pescado blanco"
+          ]
         },
         {
-          "categoria": "Verduras y Hortalizas",
-          "items": ["Espinacas frescas", "Tomates cherry", "Tomate natural triturado", "Tomate pequeño", "Calabacín", "Cebolla morada", "Cebolla normal", "Champiñones frescos", "Apio", "Judías verdes", "Coliflor", "Col rizada / kale", "Espárragos verdes frescos"]
+          "nombre": "Verduras",
+          "items": [
+            "Espinacas frescas",
+            "Tomates cherry",
+            "Tomate natural triturado",
+            "Tomate pequeño",
+            "Calabacín",
+            "Cebolla morada",
+            "Cebolla normal",
+            "Champiñones frescos",
+            "Apio",
+            "Judías verdes",
+            "Coliflor",
+            "Col rizada / kale",
+            "Espárragos verdes frescos",
+            "Limón",
+            "Lima",
+            "Frutos rojos (frambuesas o arándanos)"
+          ]
         },
         {
-          "categoria": "Frutas y Endulzantes",
-          "items": ["Limón", "Lima", "Frutos rojos (frambuesas o arándanos)", "Eritritol o monk fruit", "Esencia de vainilla"]
-        },
-        {
-          "categoria": "Grasas y Aceites",
-          "items": ["Mantequilla", "Ghee o mantequilla clarificada", "Aceite de oliva virgen extra", "Aceite de coco", "Aceite de sésamo (opcional)", "Manteca de cacao"]
-        },
-        {
-          "categoria": "Lácteos y Derivados",
-          "items": ["Nata para cocinar / montar (mín. 35% MG)", "Leche de coco entera", "Queso parmesano rallado", "Queso emmental rallado", "Queso curado (manchego, parmesano o nórdico)", "Queso brie", "Queso crema", "Queso mascarpone"]
-        },
-        {
-          "categoria": "Harinas, Frutos Secos y Semillas",
-          "items": ["Harina de almendra", "Pistachos (molidos y picados)", "Harina de coco", "Psyllium en polvo", "Semillas de chía", "Semillas de lino molidas", "Semillas de sésamo", "Harina de lupino (o alternativa keto)", "Nueces", "Almendra molida"]
-        },
-        {
-          "categoria": "Despensa, Condimentos y Especias",
-          "items": ["Levadura química o bicarbonato", "Canela", "Cúrcuma", "Curry en polvo", "Comino", "Ras el hanout (opcional)", "Orégano seco", "Romero", "Pimienta negra", "Sal (marina o rosa)", "Pimentón (dulce o picante)", "Caldo de verduras o de pollo (sin azúcar)", "Salsa de soja baja en sal (o tamari)", "Chocolate negro (mínimo 85% cacao) sin azúcar", "Cardamomo molido", "Cacao puro en polvo", "Pasta de harissa (o pimentón picante ahumado)", "Vinagre de manzana"]
+          "nombre": "Grasas",
+          "items": [
+            "Mantequilla",
+            "Ghee o mantequilla clarificada",
+            "Aceite de oliva virgen extra",
+            "Aceite de coco",
+            "Aceite de sésamo (opcional)",
+            "Manteca de cacao",
+            "Nata para cocinar / montar (mín. 35% MG)",
+            "Leche de coco entera",
+            "Queso parmesano rallado",
+            "Queso emmental rallado",
+            "Queso curado (manchego, parmesano o nórdico)",
+            "Queso brie",
+            "Queso crema",
+            "Queso mascarpone",
+            "Eritritol o monk fruit",
+            "Esencia de vainilla",
+            "Harina de almendra",
+            "Pistachos (molidos y picados)",
+            "Harina de coco",
+            "Psyllium en polvo",
+            "Semillas de chía",
+            "Semillas de lino molidas",
+            "Semillas de sésamo",
+            "Harina de lupino (o alternativa keto)",
+            "Nueces",
+            "Almendra molida",
+            "Levadura química o bicarbonato",
+            "Canela",
+            "Cúrcuma",
+            "Curry en polvo",
+            "Comino",
+            "Ras el hanout (opcional)",
+            "Orégano seco",
+            "Romero",
+            "Pimienta negra",
+            "Sal (marina o rosa)",
+            "Pimentón (dulce o picante)",
+            "Caldo de verduras o de pollo (sin azúcar)",
+            "Salsa de soja baja en sal (o tamari)",
+            "Chocolate negro (mínimo 85% cacao) sin azúcar",
+            "Cardamomo molido",
+            "Cacao puro en polvo",
+            "Pasta de harissa (o pimentón picante ahumado)",
+            "Vinagre de manzana"
+          ]
         }
       ]
     }
