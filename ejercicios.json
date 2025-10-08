@@ -97,7 +97,7 @@
   { "nombre": "Ab wheel rollout (rueda abdominal)", "enlace": "https://www.acefitness.org/resources/everyone/exercise-library/309/roll-out/" },
   { "nombre": "Elevación de piernas colgado", "enlace": "https://www.acefitness.org/resources/pros/expert-articles/5452/6-exercises-for-a-stronger-core/" },
   { "nombre": "Pallof Press (anti-rotación de pie)", "enlace": "https://www.acefitness.org/resources/everyone/exercise-library/332/standing-anti-rotation-press/" },
-
+  { "nombre": "Extensión de cuádriceps", "enlace": "https://musclewiki.com/es-es/exercise/machine-leg-extension" },
   { "nombre": "Farmer's Carry (paseo del granjero)", "enlace": "https://www.acefitness.org/resources/everyone/exercise-library/359/farmer-s-carry/" },
   { "nombre": "Suitcase Carry (carga unilateral)", "enlace": "https://www.acefitness.org/resources/everyone/exercise-library/358/suitcase-carry/" },
   { "nombre": "Step-off/Push-off alterno en cajón", "enlace": "https://www.acefitness.org/resources/everyone/exercise-library/equipment/raised-platform-box/" },
@@ -122,3 +122,4 @@
   { "nombre": "Bear Crawl", "enlace": "https://www.acefitness.org/resources/everyone/exercise-library/150/bear-crawl/" }
 
 ]
+
