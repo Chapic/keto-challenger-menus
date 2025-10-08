@@ -109,7 +109,7 @@
   { "nombre": "Abducción de cadera de pie (bandas/máquina)", "enlace": "https://www.acefitness.org/resources/everyone/exercise-library/155/standing-hip-abduction/" },
   { "nombre": "Inversión de tobillo con banda", "enlace": "https://musclewiki.com/exercise/ankle-inversion" },
   { "nombre": "Rotación torácica en plancha alta", "enlace": "https://www.acefitness.org/resources/everyone/exercise-library/330/high-plank-t-spine-rotation/" },
-
+  { "nombre": "Press inclinado con barra", "enlace": "https://musclewiki.com/es-es/exercise/barbell-incline-bench-press" },
   { "nombre": "Burpees", "enlace": "https://www.acefitness.org/resources/everyone/exercise-library/306/burpee/" },
   { "nombre": "Sentadilla con salto (Jump Squat)", "enlace": "https://www.acefitness.org/resources/everyone/exercise-library/222/squat-jump/" },
   { "nombre": "Flexiones pliométricas (Plyo Push-up)", "enlace": "https://www.acefitness.org/resources/pros/expert-articles/3131/try-this-explosive-plyometric-workout/" },
@@ -122,4 +122,5 @@
   { "nombre": "Bear Crawl", "enlace": "https://www.acefitness.org/resources/everyone/exercise-library/150/bear-crawl/" }
 
 ]
+
 
