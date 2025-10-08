@@ -81,7 +81,7 @@
   { "nombre": "Skipping en el sitio (rodillas altas)", "enlace": "https://musclewiki.com/exercise/high-knees" },
   { "nombre": "Jumping Jacks", "enlace": "https://musclewiki.com/exercise/jumping-jacks" },
   { "nombre": "Saltos en el sitio (baja altura)", "enlace": "https://musclewiki.com/exercise/pogo-hops" },
-
+  { "nombre": "Curl inclinado con mancuernas", "enlace": "https://musclewiki.com/es-es/exercise/dumbbell-incline-curl" },
   { "nombre": "Cruces en polea (Cable Crossover)", "enlace": "https://musclewiki.com/exercise/cable-crossover" },
   { "nombre": "Pec Deck (Aperturas en máquina)", "enlace": "https://musclewiki.com/exercise/pec-deck" },
   { "nombre": "Press declinado con barra", "enlace": "https://musclewiki.com/exercise/decline-bench-press" },
@@ -120,4 +120,5 @@
   { "nombre": "Battle Ropes – Power Slams", "enlace": "https://www.acefitness.org/continuing-education/certified/march-2023/8267/battle-rope-ready-a-research-based-workout/" },
   { "nombre": "Box Jumps", "enlace": "https://www.acefitness.org/resources/everyone/exercise-library/115/box-jumps/" },
   { "nombre": "Bear Crawl", "enlace": "https://www.acefitness.org/resources/everyone/exercise-library/150/bear-crawl/" }
+
 ]
