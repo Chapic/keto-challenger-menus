@@ -1,0 +1,713 @@
+{
+  "programa": "Pérdida de Grasa Inteligente",
+  "descripcion": "Transformación metabólica en 3 fases (Base → Activación → Optimización). 12 semanas con 4 días/semana: 3 días de fuerza + 1 día metabólico PHA. Progresión automática y notas educativas para guiar al usuario.",
+  "semanas": [
+    {
+      "id": 1,
+      "nombre": "Semana 1 - Base técnica",
+      "fase": "Fase 1: Reeducación y Base (Semanas 1-4)",
+      "texto_introduccion": "Arrancamos con técnica, control y hábitos. Objetivo: aprender a moverse bien, sin dolor, y crear constancia. Intensidad moderada y respiración fluida.",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Fuerza Inferior + Core",
+          "descripcion": "Movimiento limpio y rangos controlados.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet con mancuerna", "series": "3", "repeticiones": "12-15", "descanso": "60-75s", "tempo": "2-0-2", "notas": "Espalda neutra y pies firmes." },
+            { "nombre": "Peso muerto rumano con mancuernas", "series": "3", "repeticiones": "12", "descanso": "60-75s", "tempo": "2-1-2", "notas": "Siente el estiramiento en isquios." },
+            { "nombre": "Zancadas estáticas", "series": "3", "repeticiones": "10-12 x pierna", "descanso": "60s", "tempo": "2-0-2", "notas": "Rodilla alineada con el pie." },
+            { "nombre": "Elevación de talones de pie", "series": "3", "repeticiones": "15-20", "descanso": "45s", "tempo": "2-1-1", "notas": "Pausa arriba 1s." },
+            { "nombre": "Plancha frontal", "series": "3", "repeticiones": "30s", "descanso": "45s", "tempo": "isométrico", "notas": "Glúteos y abdomen activos." }
+          ],
+          "notas": "Calienta 5-8 min (movilidad cadera/torácica/tobillo)."
+        },
+        {
+          "id": 2,
+          "nombre": "Fuerza Superior",
+          "descripcion": "Patrones básicos de empuje y tracción.",
+          "ejercicios": [
+            { "nombre": "Press de pecho con mancuernas en banco", "series": "3", "repeticiones": "12-15", "descanso": "60-75s", "tempo": "2-0-2", "notas": "Escápulas estables." },
+            { "nombre": "Remo con mancuerna apoyado", "series": "3", "repeticiones": "12-15 x lado", "descanso": "60-75s", "tempo": "2-1-2", "notas": "Aprieta omóplatos." },
+            { "nombre": "Press militar con mancuernas sentado", "series": "3", "repeticiones": "10-12", "descanso": "60-75s", "tempo": "2-1-2", "notas": "No arquees la espalda." },
+            { "nombre": "Face pull con banda", "series": "3", "repeticiones": "15", "descanso": "45-60s", "tempo": "2-1-2", "notas": "Codos altos, cuello largo." },
+            { "nombre": "Pallof press con banda", "series": "3", "repeticiones": "12 x lado", "descanso": "45s", "tempo": "2-1-2", "notas": "Evita rotar el tronco." }
+          ],
+          "notas": "Respira continuo; última serie exigente con técnica limpia."
+        },
+        {
+          "id": 3,
+          "nombre": "Fuerza Total",
+          "descripcion": "Integración de patrones globales.",
+          "ejercicios": [
+            { "nombre": "Sentadilla frontal con mancuernas (front rack)", "series": "3", "repeticiones": "12", "descanso": "60-75s", "tempo": "2-0-2", "notas": "Codos altos, pecho arriba." },
+            { "nombre": "Peso muerto con kettlebell o mancuerna (sumo)", "series": "3", "repeticiones": "12", "descanso": "60-75s", "tempo": "2-1-2", "notas": "Empuja el suelo con los pies." },
+            { "nombre": "Remo con banda o TRX", "series": "3", "repeticiones": "12-15", "descanso": "60s", "tempo": "2-1-2", "notas": "Cuerpo alineado." },
+            { "nombre": "Flexiones inclinadas (manos en banco)", "series": "3", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-0-2", "notas": "Cuerpo en bloque." },
+            { "nombre": "Paseo del granjero (mancuernas)", "series": "3", "repeticiones": "30-40s", "descanso": "60s", "tempo": "continuo", "notas": "Postura alta, pasos cortos." }
+          ],
+          "notas": "Termina con 10-15 min caminata Z2 si tienes tiempo."
+        },
+        {
+          "id": 4,
+          "nombre": "Metabólico PHA (circuito suave)",
+          "descripcion": "Peripheral Heart Action: alterna tren inferior/superior para elevar el pulso con control.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "2", "repeticiones": "12-15", "descanso": "15s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Press de hombros con mancuernas", "series": "2", "repeticiones": "12", "descanso": "15s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Zancada alterna", "series": "2", "repeticiones": "10 x pierna", "descanso": "15s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Remo con banda", "series": "2", "repeticiones": "12-15", "descanso": "15s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Plancha", "series": "2", "repeticiones": "30s", "descanso": "30s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "Realiza el circuito en 2 rondas continuas con 2-3 min de descanso entre rondas. Mantén Z2-Z3 suave."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Semana 2 - Constancia y control",
+      "fase": "Fase 1: Reeducación y Base (Semanas 1-4)",
+      "texto_introduccion": "Repetimos estructura y mejoramos calidad. Si te sientes bien, intenta +1 repetición en alguna serie.",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Fuerza Inferior + Core",
+          "descripcion": "Mismo patrón, algo más fino.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet con mancuerna", "series": "3", "repeticiones": "12-15", "descanso": "60s", "tempo": "2-0-2", "notas": "Añade +1 rep si es cómodo." },
+            { "nombre": "Peso muerto rumano con mancuernas", "series": "3", "repeticiones": "12", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Zancadas estáticas", "series": "3", "repeticiones": "12 x pierna", "descanso": "60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Elevación de talones", "series": "3", "repeticiones": "15-20", "descanso": "45s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Pallof press con banda", "series": "3", "repeticiones": "12 x lado", "descanso": "45s", "tempo": "2-1-2", "notas": "" }
+          ],
+          "notas": "Calienta 5-8 min. Técnica por encima del peso."
+        },
+        {
+          "id": 2,
+          "nombre": "Fuerza Superior",
+          "descripcion": "Suma control escapular.",
+          "ejercicios": [
+            { "nombre": "Press de pecho con mancuernas", "series": "3", "repeticiones": "12-15", "descanso": "60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Remo con mancuerna apoyado", "series": "3", "repeticiones": "12-15 x lado", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Press militar sentado", "series": "3", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Face pull con banda", "series": "3", "repeticiones": "15", "descanso": "45-60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Curl martillo con mancuernas", "series": "3", "repeticiones": "12-15", "descanso": "45-60s", "tempo": "2-1-2", "notas": "" }
+          ],
+          "notas": "Última serie exigente con técnica impecable."
+        },
+        {
+          "id": 3,
+          "nombre": "Fuerza Total",
+          "descripcion": "Repite patrones globales.",
+          "ejercicios": [
+            { "nombre": "Sentadilla frontal con mancuernas", "series": "3", "repeticiones": "12", "descanso": "60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Peso muerto kettlebell (sumo)", "series": "3", "repeticiones": "12", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Remo con banda/TRX", "series": "3", "repeticiones": "12-15", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Flexiones inclinadas", "series": "3", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Paseo del granjero", "series": "3", "repeticiones": "35-45s", "descanso": "60s", "tempo": "continuo", "notas": "" }
+          ],
+          "notas": "Añade 5-10 min de caminata Z2 si te sientes con energía."
+        },
+        {
+          "id": 4,
+          "nombre": "Metabólico PHA (2-3 rondas)",
+          "descripcion": "Alterna inferior/superior para subir pulso sin impacto.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "3", "repeticiones": "12-15", "descanso": "15s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Press de hombros con mancuernas", "series": "3", "repeticiones": "12", "descanso": "15s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Zancada alterna", "series": "3", "repeticiones": "12 x pierna", "descanso": "15s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Remo con banda", "series": "3", "repeticiones": "12-15", "descanso": "15s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Plancha", "series": "3", "repeticiones": "30-40s", "descanso": "30s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "Descansa 2 min entre rondas. Mantén respiración controlada (Z2-Z3 suave)."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Semana 3 - Suma de volumen",
+      "fase": "Fase 1: Reeducación y Base (Semanas 1-4)",
+      "texto_introduccion": "Pequeña progresión: añade una serie en el primer ejercicio de cada día si te sientes listo.",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Fuerza Inferior + Core",
+          "descripcion": "Primeros aumentos de volumen.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet con mancuerna", "series": "4", "repeticiones": "12", "descanso": "60s", "tempo": "2-0-2", "notas": "+1 serie esta semana." },
+            { "nombre": "Peso muerto rumano con mancuernas", "series": "3", "repeticiones": "12", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Zancadas estáticas", "series": "3", "repeticiones": "12 x pierna", "descanso": "60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Elevación de talones", "series": "3", "repeticiones": "18-20", "descanso": "45s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Plancha frontal", "series": "3", "repeticiones": "35-40s", "descanso": "45s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "Calidad > cantidad. Si falla la técnica, no subas."
+        },
+        {
+          "id": 2,
+          "nombre": "Fuerza Superior",
+          "descripcion": "Control escapular y ritmo estable.",
+          "ejercicios": [
+            { "nombre": "Press de pecho con mancuernas", "series": "4", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-0-2", "notas": "+1 serie." },
+            { "nombre": "Remo con mancuerna apoyado", "series": "3", "repeticiones": "12-15 x lado", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Press militar sentado", "series": "3", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Face pull con banda", "series": "3", "repeticiones": "15", "descanso": "45-60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Pallof press", "series": "3", "repeticiones": "12 x lado", "descanso": "45s", "tempo": "2-1-2", "notas": "" }
+          ],
+          "notas": "Última serie desafiante sin romper técnica."
+        },
+        {
+          "id": 3,
+          "nombre": "Fuerza Total",
+          "descripcion": "Sostén el esfuerzo con control.",
+          "ejercicios": [
+            { "nombre": "Sentadilla frontal con mancuernas", "series": "4", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-0-2", "notas": "+1 serie." },
+            { "nombre": "Peso muerto kettlebell (sumo)", "series": "3", "repeticiones": "12", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Remo con banda/TRX", "series": "3", "repeticiones": "12-15", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Flexiones inclinadas", "series": "3", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Paseo del granjero", "series": "3", "repeticiones": "40-45s", "descanso": "60s", "tempo": "continuo", "notas": "" }
+          ],
+          "notas": "Añade 10 min Z2 opcionales."
+        },
+        {
+          "id": 4,
+          "nombre": "Metabólico PHA (3 rondas)",
+          "descripcion": "Un poco más de densidad, mismo control.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "3", "repeticiones": "12-15", "descanso": "15s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Press de hombros", "series": "3", "repeticiones": "12", "descanso": "15s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Zancada alterna", "series": "3", "repeticiones": "12 x pierna", "descanso": "15s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Remo con banda", "series": "3", "repeticiones": "12-15", "descanso": "15s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Plancha", "series": "3", "repeticiones": "35-45s", "descanso": "30s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "3 rondas con 2 min entre rondas. Ritmo constante (Z2-Z3)."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Semana 4 - Descarga técnica",
+      "fase": "Fase 1: Reeducación y Base (Semanas 1-4)",
+      "texto_introduccion": "Semana ligera para consolidar técnica y recuperarte. Baja un poco el volumen, cuida la técnica y duerme bien.",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Fuerza Inferior + Core (ligera)",
+          "descripcion": "Menos series, tempo más controlado.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "2-3", "repeticiones": "12-15", "descanso": "75-90s", "tempo": "3-1-2", "notas": "Controla la bajada." },
+            { "nombre": "Peso muerto rumano", "series": "2-3", "repeticiones": "12", "descanso": "75-90s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Zancadas", "series": "2", "repeticiones": "10 x pierna", "descanso": "60-75s", "tempo": "3-0-2", "notas": "" },
+            { "nombre": "Plancha", "series": "2", "repeticiones": "30-40s", "descanso": "45-60s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "Sensación de frescura al terminar."
+        },
+        {
+          "id": 2,
+          "nombre": "Fuerza Superior (ligera)",
+          "descripcion": "Estabilidad y control escapular.",
+          "ejercicios": [
+            { "nombre": "Press de pecho mancuernas", "series": "2-3", "repeticiones": "12", "descanso": "75-90s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Remo mancuerna", "series": "2-3", "repeticiones": "12 x lado", "descanso": "75-90s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Press militar", "series": "2", "repeticiones": "10", "descanso": "75-90s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Face pull banda", "series": "2", "repeticiones": "15", "descanso": "60s", "tempo": "2-1-2", "notas": "" }
+          ],
+          "notas": "Deja 1-2 repeticiones en recámara (RIR 1-2)."
+        },
+        {
+          "id": 3,
+          "nombre": "Fuerza Total (ligera)",
+          "descripcion": "Coordinación global con bajo estrés.",
+          "ejercicios": [
+            { "nombre": "Sentadilla frontal mancuernas", "series": "2-3", "repeticiones": "10-12", "descanso": "75-90s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Peso muerto kettlebell (sumo)", "series": "2-3", "repeticiones": "10-12", "descanso": "75-90s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Flexiones inclinadas", "series": "2", "repeticiones": "8-10", "descanso": "75s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Paseo del granjero", "series": "2", "repeticiones": "30s", "descanso": "60s", "tempo": "continuo", "notas": "" }
+          ],
+          "notas": "Termina con 10 min Z2 relajado."
+        },
+        {
+          "id": 4,
+          "nombre": "Metabólico PHA (muy suave)",
+          "descripcion": "Mantén el movimiento, sin fatiga.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "2", "repeticiones": "12", "descanso": "20s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Press hombros", "series": "2", "repeticiones": "12", "descanso": "20s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Zancada alterna", "series": "2", "repeticiones": "10 x pierna", "descanso": "20s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Remo banda", "series": "2", "repeticiones": "12-15", "descanso": "20s", "tempo": "2-1-2", "notas": "" }
+          ],
+          "notas": "2 rondas máximo. Sal fresco."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Semana 5 - Activación (sube un punto)",
+      "fase": "Fase 2: Activación Metabólica (Semanas 5-8)",
+      "texto_introduccion": "Tu base ya está. Subimos estímulo: cargas moderadas, descansos algo más cortos, control técnico.",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Fuerza Inferior + Core",
+          "descripcion": "Cargas moderadas, repes 10-12.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "4", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-0-2", "notas": "Si puedes, +1-2 kg." },
+            { "nombre": "Peso muerto rumano", "series": "4", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Zancada caminando", "series": "3", "repeticiones": "10-12 x pierna", "descanso": "60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Elevación de talones", "series": "3", "repeticiones": "15-20", "descanso": "45s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Plancha frontal", "series": "3", "repeticiones": "35-45s", "descanso": "45s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "Termina con 10-15 min Z2 opcional."
+        },
+        {
+          "id": 2,
+          "nombre": "Fuerza Superior",
+          "descripcion": "Más control, misma técnica.",
+          "ejercicios": [
+            { "nombre": "Press de pecho mancuernas", "series": "4", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Remo mancuerna", "series": "4", "repeticiones": "10-12 x lado", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Press militar de pie", "series": "3", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Face pull banda", "series": "3", "repeticiones": "15", "descanso": "45-60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Curl martillo", "series": "3", "repeticiones": "12", "descanso": "45-60s", "tempo": "2-1-2", "notas": "" }
+          ],
+          "notas": "RIR 1-2 en últimas series (te queda 1-2 rep limpios)."
+        },
+        {
+          "id": 3,
+          "nombre": "Fuerza Total",
+          "descripcion": "Densidad moderada.",
+          "ejercicios": [
+            { "nombre": "Sentadilla frontal mancuernas", "series": "4", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Peso muerto kettlebell (sumo)", "series": "3", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Remo con banda/TRX", "series": "3", "repeticiones": "12", "descanso": "60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Flexiones (banco bajo)", "series": "3", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Paseo del granjero", "series": "3", "repeticiones": "40-50s", "descanso": "60s", "tempo": "continuo", "notas": "" }
+          ],
+          "notas": "Respiración nasal cuando sea posible."
+        },
+        {
+          "id": 4,
+          "nombre": "Metabólico PHA (3 rondas)",
+          "descripcion": "Más rondas, descansos cortos.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "3", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Press hombros", "series": "3", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Zancada alterna", "series": "3", "repeticiones": "12 x pierna", "descanso": "10-15s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Remo banda", "series": "3", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Plancha", "series": "3", "repeticiones": "40s", "descanso": "30s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "3 rondas. Descansa 90s entre rondas."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Semana 6 - Densidad y control",
+      "fase": "Fase 2: Activación Metabólica (Semanas 5-8)",
+      "texto_introduccion": "Mismo esquema con descansos algo más cortos. Calidad técnica intacta.",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Fuerza Inferior + Core",
+          "descripcion": "Pequeño recorte de descanso.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "4", "repeticiones": "10-12", "descanso": "50-60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Peso muerto rumano", "series": "4", "repeticiones": "10-12", "descanso": "50-60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Zancada caminando", "series": "3", "repeticiones": "12 x pierna", "descanso": "50-60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Elevación de talones", "series": "3", "repeticiones": "18-20", "descanso": "45s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Plancha frontal", "series": "3", "repeticiones": "45s", "descanso": "45s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "Si notas técnica comprometida, vuelve a descansos de 60s."
+        },
+        {
+          "id": 2,
+          "nombre": "Fuerza Superior",
+          "descripcion": "Sube ligera la exigencia.",
+          "ejercicios": [
+            { "nombre": "Press de pecho mancuernas", "series": "4", "repeticiones": "10-12", "descanso": "50-60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Remo mancuerna", "series": "4", "repeticiones": "10-12 x lado", "descanso": "50-60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Press militar de pie", "series": "3", "repeticiones": "10-12", "descanso": "50-60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Face pull", "series": "3", "repeticiones": "15", "descanso": "45-60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Pallof press", "series": "3", "repeticiones": "12 x lado", "descanso": "45s", "tempo": "2-1-2", "notas": "" }
+          ],
+          "notas": "Última serie exigente manteniendo técnica."
+        },
+        {
+          "id": 3,
+          "nombre": "Fuerza Total",
+          "descripcion": "Misma densidad que semana 5.",
+          "ejercicios": [
+            { "nombre": "Sentadilla frontal mancuernas", "series": "4", "repeticiones": "10-12", "descanso": "50-60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Peso muerto kettlebell (sumo)", "series": "3", "repeticiones": "10-12", "descanso": "50-60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Remo con banda/TRX", "series": "3", "repeticiones": "12", "descanso": "50-60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Flexiones", "series": "3", "repeticiones": "8-12", "descanso": "50-60s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Paseo del granjero", "series": "3", "repeticiones": "45-50s", "descanso": "60s", "tempo": "continuo", "notas": "" }
+          ],
+          "notas": "Respira profundo entre series."
+        },
+        {
+          "id": 4,
+          "nombre": "Metabólico PHA (3 rondas, +ritmo)",
+          "descripcion": "Mismo circuito, menos pausa.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "3", "repeticiones": "12", "descanso": "10s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Press hombros", "series": "3", "repeticiones": "12", "descanso": "10s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Zancada alterna", "series": "3", "repeticiones": "12 x pierna", "descanso": "10s", "tempo": "2-0-2", "notas": "" },
+            { "nombre": "Remo banda", "series": "3", "repeticiones": "12", "descanso": "10s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Plancha", "series": "3", "repeticiones": "40-45s", "descanso": "25-30s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "Descansa 90s entre rondas. Ritmo Z3 suave."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Semana 7 - Consolidación",
+      "fase": "Fase 2: Activación Metabólica (Semanas 5-8)",
+      "texto_introduccion": "Consolida cargas y técnica. Si vas bien, +1 rep o +1-2 kg en el primer ejercicio.",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Fuerza Inferior + Core",
+          "descripcion": "Calidad y algo de empuje.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "4", "repeticiones": "10-12", "descanso": "55-60s", "tempo": "2-0-1", "notas": "Subida más enérgica, controlada." },
+            { "nombre": "Peso muerto rumano", "series": "4", "repeticiones": "10-12", "descanso": "55-60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Zancada caminando", "series": "3", "repeticiones": "12 x pierna", "descanso": "55-60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Elevación de talones", "series": "3", "repeticiones": "18-20", "descanso": "45s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Plancha frontal", "series": "3", "repeticiones": "45s", "descanso": "45s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "No sacrifiques técnica por peso."
+        },
+        {
+          "id": 2,
+          "nombre": "Fuerza Superior",
+          "descripcion": "Control + empuje estable.",
+          "ejercicios": [
+            { "nombre": "Press de pecho mancuernas", "series": "4", "repeticiones": "10-12", "descanso": "55-60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Remo mancuerna", "series": "4", "repeticiones": "10-12 x lado", "descanso": "55-60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Press militar de pie", "series": "3", "repeticiones": "10-12", "descanso": "55-60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Face pull", "series": "3", "repeticiones": "15", "descanso": "45-60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Curl martillo", "series": "3", "repeticiones": "12", "descanso": "45-60s", "tempo": "2-1-1", "notas": "" }
+          ],
+          "notas": "Ritmo constante; última serie desafiante."
+        },
+        {
+          "id": 3,
+          "nombre": "Fuerza Total",
+          "descripcion": "Sostén y control global.",
+          "ejercicios": [
+            { "nombre": "Sentadilla frontal mancuernas", "series": "4", "repeticiones": "10-12", "descanso": "55-60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Peso muerto kettlebell (sumo)", "series": "3", "repeticiones": "10-12", "descanso": "55-60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Remo banda/TRX", "series": "3", "repeticiones": "12", "descanso": "55-60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Flexiones", "series": "3", "repeticiones": "10-12", "descanso": "55-60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Paseo del granjero", "series": "3", "repeticiones": "45-50s", "descanso": "60s", "tempo": "continuo", "notas": "" }
+          ],
+          "notas": "Añade 10 min Z2 si lo toleras."
+        },
+        {
+          "id": 4,
+          "nombre": "Metabólico PHA (3-4 rondas)",
+          "descripcion": "Sube a 4 rondas si te sientes fuerte.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Press hombros", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Zancada alterna", "series": "4", "repeticiones": "12 x pierna", "descanso": "10-15s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Remo banda", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Plancha", "series": "4", "repeticiones": "40-45s", "descanso": "30s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "2 min entre rondas. Mantén Z3 pero respiración controlada."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Semana 8 - Descarga activa",
+      "fase": "Fase 2: Activación Metabólica (Semanas 5-8)",
+      "texto_introduccion": "Bajamos volumen para asimilar. Mantén movimiento y técnica impecable. Duerme bien y cuida la alimentación.",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Fuerza Inferior + Core (ligera)",
+          "descripcion": "Menos series, tempo controlado.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "3", "repeticiones": "10-12", "descanso": "75-90s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Peso muerto rumano", "series": "3", "repeticiones": "10-12", "descanso": "75-90s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Zancada caminando", "series": "2", "repeticiones": "10 x pierna", "descanso": "75s", "tempo": "3-0-2", "notas": "" },
+            { "nombre": "Plancha frontal", "series": "2", "repeticiones": "40s", "descanso": "60s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "Sal fresco. Sin fatiga."
+        },
+        {
+          "id": 2,
+          "nombre": "Fuerza Superior (ligera)",
+          "descripcion": "Control de escápulas y ritmo.",
+          "ejercicios": [
+            { "nombre": "Press de pecho mancuernas", "series": "3", "repeticiones": "10-12", "descanso": "75-90s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Remo mancuerna", "series": "3", "repeticiones": "10-12 x lado", "descanso": "75-90s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Press militar", "series": "2", "repeticiones": "10", "descanso": "75-90s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Face pull", "series": "2", "repeticiones": "12-15", "descanso": "60-75s", "tempo": "2-1-2", "notas": "" }
+          ],
+          "notas": "RIR 2 (2 reps en recámara)."
+        },
+        {
+          "id": 3,
+          "nombre": "Fuerza Total (ligera)",
+          "descripcion": "Coordina sin cansarte.",
+          "ejercicios": [
+            { "nombre": "Sentadilla frontal mancuernas", "series": "3", "repeticiones": "10-12", "descanso": "75-90s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Peso muerto kettlebell (sumo)", "series": "2-3", "repeticiones": "10-12", "descanso": "75-90s", "tempo": "3-1-2", "notas": "" },
+            { "nombre": "Remo con banda/TRX", "series": "2-3", "repeticiones": "12", "descanso": "60-75s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Flexiones inclinadas", "series": "2", "repeticiones": "8-10", "descanso": "75s", "tempo": "3-1-2", "notas": "" }
+          ],
+          "notas": "10 min Z2 suave al final si apetece."
+        },
+        {
+          "id": 4,
+          "nombre": "Metabólico PHA (suave, 2 rondas)",
+          "descripcion": "Movimiento continuo, respiración fácil.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "2", "repeticiones": "12", "descanso": "20s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Press hombros", "series": "2", "repeticiones": "12", "descanso": "20s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Zancada alterna", "series": "2", "repeticiones": "10 x pierna", "descanso": "20s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Remo banda", "series": "2", "repeticiones": "12", "descanso": "20s", "tempo": "2-1-2", "notas": "" }
+          ],
+          "notas": "2 rondas. Hidrátate bien."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Semana 9 - Optimización (intensidad segura)",
+      "fase": "Fase 3: Optimización (Semanas 9-12)",
+      "texto_introduccion": "Bajamos algo las repeticiones y mantenemos la técnica. Objetivo: estimular sin agotar.",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Fuerza Inferior + Core",
+          "descripcion": "Rango 8-12 reps, descansos 60s.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "4", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Peso muerto rumano", "series": "4", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Zancada caminando", "series": "3", "repeticiones": "10-12 x pierna", "descanso": "60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Elevación de talones", "series": "3", "repeticiones": "15-18", "descanso": "45-60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Plancha frontal", "series": "3", "repeticiones": "45-60s", "descanso": "45-60s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "Siente control total en cada repetición."
+        },
+        {
+          "id": 2,
+          "nombre": "Fuerza Superior",
+          "descripcion": "Empuje/tirón con decisión.",
+          "ejercicios": [
+            { "nombre": "Press de pecho mancuernas", "series": "4", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Remo mancuerna", "series": "4", "repeticiones": "8-12 x lado", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Press militar", "series": "3", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Face pull", "series": "3", "repeticiones": "12-15", "descanso": "45-60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Pallof press", "series": "3", "repeticiones": "12 x lado", "descanso": "45-60s", "tempo": "2-1-2", "notas": "" }
+          ],
+          "notas": "Respiración potente, técnica limpia."
+        },
+        {
+          "id": 3,
+          "nombre": "Fuerza Total",
+          "descripcion": "Global, con ritmo.",
+          "ejercicios": [
+            { "nombre": "Sentadilla frontal mancuernas", "series": "4", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Peso muerto kettlebell (sumo)", "series": "3", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Remo banda/TRX", "series": "3", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Flexiones", "series": "3", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Paseo del granjero", "series": "3", "repeticiones": "45-60s", "descanso": "60s", "tempo": "continuo", "notas": "" }
+          ],
+          "notas": "Añade 10 min Z2 si lo sientes."
+        },
+        {
+          "id": 4,
+          "nombre": "Metabólico PHA (4 rondas)",
+          "descripcion": "Densidad alta con control.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Press hombros", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Zancada alterna", "series": "4", "repeticiones": "12 x pierna", "descanso": "10-15s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Remo banda", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Plancha", "series": "4", "repeticiones": "45s", "descanso": "30s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "2 min entre rondas. Ritmo Z3 estable."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Semana 10 - Resistencia muscular",
+      "fase": "Fase 3: Optimización (Semanas 9-12)",
+      "texto_introduccion": "Sostenemos intensidad con técnica. Ajusta cargas si te ves fuerte.",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Fuerza Inferior + Core",
+          "descripcion": "Rango 8-12 con control.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "4", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-0-1", "notas": "Si estable, +1-2 kg." },
+            { "nombre": "Peso muerto rumano", "series": "4", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Zancada caminando", "series": "3", "repeticiones": "12 x pierna", "descanso": "60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Elevación de talones", "series": "3", "repeticiones": "15-18", "descanso": "45-60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Plancha frontal", "series": "3", "repeticiones": "45-60s", "descanso": "45-60s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "Respiración potente, sin perder postura."
+        },
+        {
+          "id": 2,
+          "nombre": "Fuerza Superior",
+          "descripcion": "Empuje/tirón consistente.",
+          "ejercicios": [
+            { "nombre": "Press de pecho mancuernas", "series": "4", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Remo mancuerna", "series": "4", "repeticiones": "8-12 x lado", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Press militar", "series": "3", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Face pull", "series": "3", "repeticiones": "12-15", "descanso": "45-60s", "tempo": "2-1-2", "notas": "" },
+            { "nombre": "Curl martillo", "series": "3", "repeticiones": "10-12", "descanso": "45-60s", "tempo": "2-1-1", "notas": "" }
+          ],
+          "notas": "RIR 1 en la última serie principal."
+        },
+        {
+          "id": 3,
+          "nombre": "Fuerza Total",
+          "descripcion": "Global con ritmo sostenido.",
+          "ejercicios": [
+            { "nombre": "Sentadilla frontal mancuernas", "series": "4", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Peso muerto kettlebell (sumo)", "series": "3", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Remo banda/TRX", "series": "3", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Flexiones", "series": "3", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Paseo del granjero", "series": "3", "repeticiones": "50-60s", "descanso": "60s", "tempo": "continuo", "notas": "" }
+          ],
+          "notas": "Añade Z2 10 min si estás bien."
+        },
+        {
+          "id": 4,
+          "nombre": "Metabólico PHA (4 rondas, control)",
+          "descripcion": "Densidad alta con respiración estable.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Press hombros", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Zancada alterna", "series": "4", "repeticiones": "12 x pierna", "descanso": "10-15s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Remo banda", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Plancha", "series": "4", "repeticiones": "45-60s", "descanso": "30s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "2 min entre rondas. Z3 estable."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "Semana 11 - Control final",
+      "fase": "Fase 3: Optimización (Semanas 9-12)",
+      "texto_introduccion": "Penúltima semana: prioriza calidad, técnica y constancia. No te vacíes.",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Fuerza Inferior + Core",
+          "descripcion": "Intensidad moderada-alta segura.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "4", "repeticiones": "8-10", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Peso muerto rumano", "series": "4", "repeticiones": "8-10", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Zancada caminando", "series": "3", "repeticiones": "10-12 x pierna", "descanso": "60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Plancha frontal", "series": "3", "repeticiones": "45-60s", "descanso": "45-60s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "Mantén posturas sólidas."
+        },
+        {
+          "id": 2,
+          "nombre": "Fuerza Superior",
+          "descripcion": "Empuje/tirón eficiente.",
+          "ejercicios": [
+            { "nombre": "Press de pecho mancuernas", "series": "4", "repeticiones": "8-10", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Remo mancuerna", "series": "4", "repeticiones": "8-10 x lado", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Press militar", "series": "3", "repeticiones": "8-10", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Face pull", "series": "3", "repeticiones": "12-15", "descanso": "45-60s", "tempo": "2-1-2", "notas": "" }
+          ],
+          "notas": "RIR 1-2. Sin fallar."
+        },
+        {
+          "id": 3,
+          "nombre": "Fuerza Total",
+          "descripcion": "Global, eficiente.",
+          "ejercicios": [
+            { "nombre": "Sentadilla frontal mancuernas", "series": "4", "repeticiones": "8-10", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Peso muerto kettlebell (sumo)", "series": "3", "repeticiones": "8-10", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Remo banda/TRX", "series": "3", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Flexiones", "series": "3", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-0-1", "notas": "" }
+          ],
+          "notas": "Respiración fluida y control."
+        },
+        {
+          "id": 4,
+          "nombre": "Metabólico PHA (4 rondas consistentes)",
+          "descripcion": "Densidad mantenida con forma perfecta.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Press hombros", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Zancada alterna", "series": "4", "repeticiones": "12 x pierna", "descanso": "10-15s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Remo banda", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Plancha", "series": "4", "repeticiones": "45-60s", "descanso": "30s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "2 min entre rondas. Sin prisa, buena técnica."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Semana 12 - Cierre del ciclo",
+      "fase": "Fase 3: Optimización (Semanas 9-12)",
+      "texto_introduccion": "Semana de culminación: repite estructura con tu mejor técnica. El objetivo es terminar fuerte y con buenas sensaciones.",
+      "dias": [
+        {
+          "id": 1,
+          "nombre": "Fuerza Inferior + Core",
+          "descripcion": "Último empujón controlado.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "4", "repeticiones": "8-10", "descanso": "60s", "tempo": "2-1-1", "notas": "Peso desafiante, técnica perfecta." },
+            { "nombre": "Peso muerto rumano", "series": "4", "repeticiones": "8-10", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Zancada caminando", "series": "3", "repeticiones": "10-12 x pierna", "descanso": "60s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Plancha frontal", "series": "3", "repeticiones": "60s", "descanso": "45-60s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "Acaba con 10 min Z2 si todo va fluido."
+        },
+        {
+          "id": 2,
+          "nombre": "Fuerza Superior",
+          "descripcion": "Control fino y potencia.",
+          "ejercicios": [
+            { "nombre": "Press de pecho mancuernas", "series": "4", "repeticiones": "8-10", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Remo mancuerna", "series": "4", "repeticiones": "8-10 x lado", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Press militar", "series": "3", "repeticiones": "8-10", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Face pull", "series": "3", "repeticiones": "12-15", "descanso": "45-60s", "tempo": "2-1-2", "notas": "" }
+          ],
+          "notas": "RIR 0-1 en la última serie principal si la técnica es impecable."
+        },
+        {
+          "id": 3,
+          "nombre": "Fuerza Total",
+          "descripcion": "Integra todo con calma y potencia.",
+          "ejercicios": [
+            { "nombre": "Sentadilla frontal mancuernas", "series": "4", "repeticiones": "8-10", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Peso muerto kettlebell (sumo)", "series": "3", "repeticiones": "8-10", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Remo banda/TRX", "series": "3", "repeticiones": "10-12", "descanso": "60s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Flexiones", "series": "3", "repeticiones": "8-12", "descanso": "60s", "tempo": "2-0-1", "notas": "" }
+          ],
+          "notas": "Celebra tu progreso: consistencia y técnica."
+        },
+        {
+          "id": 4,
+          "nombre": "Metabólico PHA (4 rondas finales)",
+          "descripcion": "Cierre con densidad controlada, sin perder forma.",
+          "ejercicios": [
+            { "nombre": "Sentadilla goblet", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Press hombros", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Zancada alterna", "series": "4", "repeticiones": "12 x pierna", "descanso": "10-15s", "tempo": "2-0-1", "notas": "" },
+            { "nombre": "Remo banda", "series": "4", "repeticiones": "12", "descanso": "10-15s", "tempo": "2-1-1", "notas": "" },
+            { "nombre": "Plancha", "series": "4", "repeticiones": "45-60s", "descanso": "30s", "tempo": "isométrico", "notas": "" }
+          ],
+          "notas": "2 min entre rondas. Termina con respiración profunda."
+        }
+      ]
+    }
+  ],
+  "notas_finales": "Nutrición: proteína 1.8–2.2 g/kg; en días sin entreno reduce carbohidratos 30–40 % y prioriza verduras y grasas saludables. Hidratación 2–3 L/día. Descanso 7–9 h. La pérdida de grasa sostenible se construye con técnica, constancia y recuperación."
+}
